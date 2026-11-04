@@ -1,0 +1,42 @@
+[
+  {
+    "file": "Structure/Blender/MicroDuck-Replica_Print-Colors.blend",
+    "reopened": true,
+    "non_battery_objects_preserved": 470,
+    "non_battery_fingerprints_match": true,
+    "contact_socket_geometry_transforms_preserved": true,
+    "objects": 476,
+    "mesh_objects": 466,
+    "print_parts": 29,
+    "mode": "OBJECT",
+    "selectable_print_parts": true,
+    "external_dependencies": 0,
+    "local_path_metadata_found": 0,
+    "battery_dimensions_mm": [
+      38.600001,
+      20.499999,
+      70.600002
+    ],
+    "sha256": "9988185627cadcbf0a944b45fa6b60d723cd509b77995866e7fed734011cbc0d"
+  },
+  {
+    "file": "Structure/Blender/MicroDuck-Replica_Colorful.blend",
+    "reopened": true,
+    "non_battery_objects_preserved": 470,
+    "non_battery_fingerprints_match": true,
+    "contact_socket_geometry_transforms_preserved": true,
+    "objects": 476,
+    "mesh_objects": 466,
+    "print_parts": 29,
+    "mode": "OBJECT",
+    "selectable_print_parts": true,
+    "external_dependencies": 0,
+    "local_path_metadata_found": 0,
+    "battery_dimensions_mm": [
+      38.600001,
+      20.499999,
+      70.600002
+    ],
+    "sha256": "0aa85a9a8998b000f0c7e70baf75b22eecdf77881cb9eb28ad578d1632512203"
+  }
+]

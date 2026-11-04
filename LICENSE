@@ -2,20 +2,20 @@ MicroDuck-Replica — 分项许可索引
 
 本文件是路径与许可范围索引，不是整个仓库的统一重新授权。
 
-1. hardware/banana-npf550-pptc/
+1. Hardware/Banana-NP-F550/
    基于 jyg9 的 Banana 电路设计及其修改，遵循 LICENSES/CERN-OHL-P-2.0.txt。
    第三方元件库、资料和模型遵循各自原许可。
 
-2. hardware/hat/d1-hd1910-reference/
+2. Hardware/HAT-D1-HD1910/
    Pollen Robotics D1 HAT 及其适配修改遵循 LICENSES/Apache-2.0.txt。
    单独携带的 KiCad、EasyEDA 等第三方库和模型不因此改变许可。
 
-3. hardware/hat/kissqy-amp2-reference/ 与 hardware/imu/kissqy-amp2-reference/
+3. Hardware/HAT-AMP2.0/ 与 Hardware/IMU-AMP2.0/
    kissqy 原创 HAT/IMU 部分遵循 LICENSES/Personal-NonCommercial.txt，
    其授权范围原文为 LICENSES/kissqy-hardware-scope.txt。
    保留此前有效的第三方许可；新增格式转换不改变原作品权利。
 
-4. structure/ 中模型及 Blender 中相应组成部分
+4. Structure/ 中模型及 Blender 中相应组成部分
    按原作与社区修改的来源分别保留许可。Pollen Robotics 官方 STL 指定范围
    和派生部分沿用 CC BY-NC-SA 4.0；kissqy 有权授权的新增修改保留其个人
    非商业条款；其余第三方内容不被统一重新授权。

@@ -16,6 +16,6 @@ kissqy 原始打印包自身汇集官方和多位社区作者的修改，不将�
 
 Pollen Robotics 的 microduck_rl 对其特定 STL 路径适用 CC BY-NC-SA 4.0（见 [LICENSE-MODELS](https://github.com/pollen-robotics/microduck_rl/blob/develop/LICENSE-MODELS.md)）；这些原作及派生部分沿用该许可。该说明不自动覆盖所有社区独立模型。
 
-本版几何和安装修改详见 [docs/CHANGES.md](docs/CHANGES.md)，验证范围见 [docs/VALIDATION.md](docs/VALIDATION.md)。新增整理不移除原作者署名、第三方权利和既有许可条件。商用或组织用途应按具体内容联系对应权利人。
+本版几何和安装修改详见 [Docs/CHANGES.md](Docs/CHANGES.md)，验证范围见 [Docs/VALIDATION.md](Docs/VALIDATION.md)。新增整理不移除原作者署名、第三方权利和既有许可条件。商用或组织用途应按具体内容联系对应权利人。
 
-外设规格书及尺寸图按原文归档，来源见 [peripherals/sources.json](peripherals/sources.json)，权利归相应厂商和原作者。
+外设规格书及尺寸图按原文归档，来源见 [Peripherals/sources.json](Peripherals/sources.json)，权利归相应厂商和原作者。
