@@ -1,0 +1,63 @@
+(footprint "PPTC_Littelfuse_2920L"
+  (version 20241229)
+  (generator "kicad-mcp")
+  (generator_version "9.0")
+  (layer "F.Cu")
+  (attr smd)
+  (descr "Littelfuse 2920L manufacturer land pattern, 2.0 x 5.3 mm pads, 4.6 mm inner gap; maximum body 7.98 x 5.44 x 1.6 mm.")
+  (tags "PPTC polyfuse 2920 2920L700/12MR")
+
+  (property "Reference" "REF**" (at 0 0 0)
+    (layer "F.SilkS")
+    (uuid "29cc86fa-b266-421d-8ce4-3fb63beb16f1")
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (property "Value" "PPTC_Littelfuse_2920L" (at 0 0 0)
+    (layer "F.Fab")
+    (uuid "19de806a-a0c8-43bd-948b-f5cb0f6afb67")
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (property "Datasheet" "" (at 0 0 0)
+    (layer "F.Fab")
+    (uuid "7974a43b-18a2-44d8-8e2c-b867252d672a")
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+
+  (fp_rect
+    (start -4.55 -2.97)
+    (end 4.55 2.97)
+    (stroke (width 0.05) (type default))
+    (fill none)
+    (layer "F.CrtYd")
+    (uuid "14f2edc6-5089-4eb8-ab42-5c08cb8719ff")
+  )
+
+  (fp_rect
+    (start -3.99 -2.72)
+    (end 3.99 2.72)
+    (stroke (width 0.1) (type default))
+    (fill none)
+    (layer "F.Fab")
+    (uuid "1f723350-6c45-436a-8bcd-2a0caa4344d2")
+  )
+
+  (pad "1" smd rect
+    (at -3.3 0)
+    (size 2 5.3)
+    (layers "F.Cu" "F.Paste" "F.Mask")
+    (uuid "c5c289ed-bb56-436b-b51c-8c5182ad3c18")
+  )
+
+  (pad "2" smd rect
+    (at 3.3 0)
+    (size 2 5.3)
+    (layers "F.Cu" "F.Paste" "F.Mask")
+    (uuid "fe1e7bb6-378e-4e19-9ab0-6a12c336f7c4")
+  )
+
+	(model "${KIPRJMOD}/models/PPTC_2920_reference.step"
+		(offset (xyz 0 0 0.05))
+		(scale (xyz 1 1 1))
+		(rotate (xyz 0 0 0))
+	)
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "microduck") (type "KiCad") (uri "${KIPRJMOD}/libraries/microduck.pretty") (options "") (descr "Local footprints recovered from original PCB"))
+)

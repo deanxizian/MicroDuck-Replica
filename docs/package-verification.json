@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-04",
+  "stl_files": 29,
+  "blender_files": 2,
+  "kicad_projects": 4,
+  "gerber_zips": 4,
+  "hardware_export_status": "Banana fabrication snapshot; HAT and IMU reference exports",
+  "missing_3d_reference_note": "kissqy AMP2 HAT importer references 23 STEP models not included upstream; recorded separately, independent of complete Blender D1 HAT assembly",
+  "sha256_manifest": "SHA256SUMS",
+  "local_assembly_unchanged": true,
+  "step_files": 29,
+  "peripheral_reference_files": 9
+}

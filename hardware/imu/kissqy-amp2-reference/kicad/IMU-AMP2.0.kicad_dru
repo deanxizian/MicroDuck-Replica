@@ -1,0 +1,147 @@
+(version 1)
+
+# EasyEDA Pro safeSpacing values.  Values are mils even when the
+# source rule context reports unit "mm".  Entries without a
+# generated rule are source categories that KiCad's imported item
+# model cannot distinguish; they remain here for lossless reference.
+# Track ↔ Track: 4.0157 mil (0.102 mm)
+# SMD Pad ↔ Track: 5.9843 mil (0.152 mm)
+
+(rule "EasyEDA safe spacing: SMD Pad ↔ Track"
+  (condition "(A.Type == 'Pad' && A.Pad_Type == 'SMD') && (B.Type == 'Track')")
+  (constraint clearance (min 0.152mm)))
+# SMD Pad ↔ SMD Pad: 5.9843 mil (0.152 mm)
+
+(rule "EasyEDA safe spacing: SMD Pad ↔ SMD Pad"
+  (condition "(A.Type == 'Pad' && A.Pad_Type == 'SMD') && (B.Type == 'Pad' && B.Pad_Type == 'SMD')")
+  (constraint clearance (min 0.152mm)))
+# TH Pad ↔ Track: 5.9843 mil (0.152 mm)
+
+(rule "EasyEDA safe spacing: TH Pad ↔ Track"
+  (condition "(A.Type == 'Pad' && A.Pad_Type == 'Through-hole') && (B.Type == 'Track')")
+  (constraint clearance (min 0.152mm)))
+# TH Pad ↔ SMD Pad: 5.9843 mil (0.152 mm)
+
+(rule "EasyEDA safe spacing: TH Pad ↔ SMD Pad"
+  (condition "(A.Type == 'Pad' && A.Pad_Type == 'Through-hole') && (B.Type == 'Pad' && B.Pad_Type == 'SMD')")
+  (constraint clearance (min 0.152mm)))
+# TH Pad ↔ TH Pad: 5.9843 mil (0.152 mm)
+
+(rule "EasyEDA safe spacing: TH Pad ↔ TH Pad"
+  (condition "(A.Type == 'Pad' && A.Pad_Type == 'Through-hole') && (B.Type == 'Pad' && B.Pad_Type == 'Through-hole')")
+  (constraint clearance (min 0.152mm)))
+# SMD Test Point ↔ Track: 5.9843 mil (0.152 mm)
+# SMD Test Point ↔ SMD Pad: 5.9843 mil (0.152 mm)
+# SMD Test Point ↔ TH Pad: 5.9843 mil (0.152 mm)
+# SMD Test Point ↔ SMD Test Point: 5.9843 mil (0.152 mm)
+# TH Test Point ↔ Track: 5.9843 mil (0.152 mm)
+# TH Test Point ↔ SMD Pad: 5.9843 mil (0.152 mm)
+# TH Test Point ↔ TH Pad: 5.9843 mil (0.152 mm)
+# TH Test Point ↔ SMD Test Point: 5.9843 mil (0.152 mm)
+# TH Test Point ↔ TH Test Point: 5.9843 mil (0.152 mm)
+# Via ↔ Track: 5.9843 mil (0.152 mm)
+
+(rule "EasyEDA safe spacing: Via ↔ Track"
+  (condition "(A.Type == 'Via') && (B.Type == 'Track')")
+  (constraint clearance (min 0.152mm)))
+# Via ↔ SMD Pad: 5.9843 mil (0.152 mm)
+
+(rule "EasyEDA safe spacing: Via ↔ SMD Pad"
+  (condition "(A.Type == 'Via') && (B.Type == 'Pad' && B.Pad_Type == 'SMD')")
+  (constraint clearance (min 0.152mm)))
+# Via ↔ TH Pad: 5.9843 mil (0.152 mm)
+
+(rule "EasyEDA safe spacing: Via ↔ TH Pad"
+  (condition "(A.Type == 'Via') && (B.Type == 'Pad' && B.Pad_Type == 'Through-hole')")
+  (constraint clearance (min 0.152mm)))
+# Via ↔ SMD Test Point: 5.9843 mil (0.152 mm)
+# Via ↔ TH Test Point: 5.9843 mil (0.152 mm)
+# Via ↔ Via: 5.9843 mil (0.152 mm)
+
+(rule "EasyEDA safe spacing: Via ↔ Via"
+  (condition "(A.Type == 'Via') && (B.Type == 'Via')")
+  (constraint clearance (min 0.152mm)))
+# Fill Region / Teardrop ↔ Track: 5.9843 mil (0.152 mm)
+# Fill Region / Teardrop ↔ SMD Pad: 5.9843 mil (0.152 mm)
+# Fill Region / Teardrop ↔ TH Pad: 5.9843 mil (0.152 mm)
+# Fill Region / Teardrop ↔ SMD Test Point: 5.9843 mil (0.152 mm)
+# Fill Region / Teardrop ↔ TH Test Point: 5.9843 mil (0.152 mm)
+# Fill Region / Teardrop ↔ Via: 5.9843 mil (0.152 mm)
+# Fill Region / Teardrop ↔ Fill Region / Teardrop: 5.9843 mil (0.152 mm)
+# Copper / Plane Zone ↔ Track: 10 mil (0.254 mm)
+# Copper / Plane Zone ↔ SMD Pad: 10 mil (0.254 mm)
+# Copper / Plane Zone ↔ TH Pad: 10 mil (0.254 mm)
+# Copper / Plane Zone ↔ SMD Test Point: 10 mil (0.254 mm)
+# Copper / Plane Zone ↔ TH Test Point: 10 mil (0.254 mm)
+# Copper / Plane Zone ↔ Via: 10 mil (0.254 mm)
+# Copper / Plane Zone ↔ Fill Region / Teardrop: 10 mil (0.254 mm)
+# Copper / Plane Zone ↔ Copper / Plane Zone: 10 mil (0.254 mm)
+# Slot Region ↔ Track: 11.811 mil (0.3 mm)
+# Slot Region ↔ SMD Pad: 6 mil (0.1525 mm)
+# Slot Region ↔ TH Pad: 6 mil (0.1525 mm)
+# Slot Region ↔ SMD Test Point: 6 mil (0.1525 mm)
+# Slot Region ↔ TH Test Point: 6 mil (0.1525 mm)
+# Slot Region ↔ Via: 6 mil (0.1525 mm)
+# Slot Region ↔ Fill Region / Teardrop: 6 mil (0.1525 mm)
+# Slot Region ↔ Copper / Plane Zone: 10 mil (0.254 mm)
+# Slot Region ↔ Slot Region: 6 mil (0.1525 mm)
+# Line ↔ Track: 6 mil (0.1525 mm)
+# Line ↔ SMD Pad: 6 mil (0.1525 mm)
+# Line ↔ TH Pad: 6 mil (0.1525 mm)
+# Line ↔ SMD Test Point: 6 mil (0.1525 mm)
+# Line ↔ TH Test Point: 6 mil (0.1525 mm)
+# Line ↔ Via: 6 mil (0.1525 mm)
+# Line ↔ Fill Region / Teardrop: 6 mil (0.1525 mm)
+# Line ↔ Copper / Plane Zone: 10 mil (0.254 mm)
+# Line ↔ Slot Region: 11.811 mil (0.3 mm)
+# Line ↔ Line: 6 mil (0.1525 mm)
+# Text / Image ↔ Track: 6 mil (0.1525 mm)
+# Text / Image ↔ SMD Pad: 6 mil (0.1525 mm)
+# Text / Image ↔ TH Pad: 6 mil (0.1525 mm)
+# Text / Image ↔ SMD Test Point: 6 mil (0.1525 mm)
+# Text / Image ↔ TH Test Point: 6 mil (0.1525 mm)
+# Text / Image ↔ Via: 6 mil (0.1525 mm)
+# Text / Image ↔ Fill Region / Teardrop: 6 mil (0.1525 mm)
+# Text / Image ↔ Copper / Plane Zone: 10 mil (0.254 mm)
+# Text / Image ↔ Slot Region: 6 mil (0.1525 mm)
+# Text / Image ↔ Line: 6 mil (0.1525 mm)
+# Text / Image ↔ Text / Image: 6 mil (0.1525 mm)
+# Board Outline ↔ Track: 11.8 mil (0.2995 mm)
+# Board Outline ↔ SMD Pad: 11.8 mil (0.2995 mm)
+# Board Outline ↔ TH Pad: 11.8 mil (0.2995 mm)
+# Board Outline ↔ SMD Test Point: 11.8 mil (0.2995 mm)
+# Board Outline ↔ TH Test Point: 11.8 mil (0.2995 mm)
+# Board Outline ↔ Via: 11.8 mil (0.2995 mm)
+# Board Outline ↔ Fill Region / Teardrop: 11.8 mil (0.2995 mm)
+# Board Outline ↔ Copper / Plane Zone: 10 mil (0.254 mm)
+# Board Outline ↔ Slot Region: 11.8 mil (0.2995 mm)
+# Board Outline ↔ Line: 11.8 mil (0.2995 mm)
+# Board Outline ↔ Text / Image: 11.8 mil (0.2995 mm)
+# Hole ↔ Track: 6.929 mil (0.176 mm)
+# Hole ↔ SMD Pad: 6.929 mil (0.176 mm)
+# Hole ↔ TH Pad: 6.929 mil (0.176 mm)
+# Hole ↔ SMD Test Point: 6.929 mil (0.176 mm)
+# Hole ↔ TH Test Point: 6.929 mil (0.176 mm)
+# Hole ↔ Via: 6.929 mil (0.176 mm)
+# Hole ↔ Fill Region / Teardrop: 6.929 mil (0.176 mm)
+# Hole ↔ Copper / Plane Zone: 10 mil (0.254 mm)
+# Hole ↔ Slot Region: 6.929 mil (0.176 mm)
+# Hole ↔ Line: 6.929 mil (0.176 mm)
+# Hole ↔ Text / Image: 6.929 mil (0.176 mm)
+# Hole ↔ Board Outline: 6.929 mil (0.176 mm)
+
+(rule "EasyEDA safe spacing: Track ↔ Board Outline"
+  (condition "(A.Type == 'Track')")
+  (constraint edge_clearance (min 0.2995mm)))
+
+(rule "EasyEDA safe spacing: SMD Pad ↔ Board Outline"
+  (condition "(A.Type == 'Pad' && A.Pad_Type == 'SMD')")
+  (constraint edge_clearance (min 0.2995mm)))
+
+(rule "EasyEDA safe spacing: TH Pad ↔ Board Outline"
+  (condition "(A.Type == 'Pad' && A.Pad_Type == 'Through-hole')")
+  (constraint edge_clearance (min 0.2995mm)))
+
+(rule "EasyEDA safe spacing: Via ↔ Board Outline"
+  (condition "(A.Type == 'Via')")
+  (constraint edge_clearance (min 0.2995mm)))

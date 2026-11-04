@@ -1,0 +1,402 @@
+[
+  {
+    "vertices": 10309,
+    "triangles": 20622,
+    "watertight": true,
+    "winding_consistent": true,
+    "volume_mm3": 4070.216969830494,
+    "dimensions_mm": [
+      60.99599838256836,
+      47.65800094604492,
+      28.0
+    ],
+    "bounds_mm": [
+      [
+        0.0,
+        -0.0,
+        -0.0
+      ],
+      [
+        60.99599838256836,
+        47.65800094604492,
+        28.0
+      ]
+    ],
+    "components": 1,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "nonmanifold_vertices": 0,
+    "genus": 2,
+    "open_holes": 0,
+    "self_intersection_faces": 0,
+    "self_intersection_face_indices": [],
+    "degenerate_faces": 0,
+    "min_triangle_altitude_mm": 0.001948807492918273,
+    "triangle_altitude_below_1e_5_mm": 0,
+    "min_triangle_area_mm2": 4.999155999030336e-05,
+    "stored_normal_reversed": 0,
+    "stored_normal_zero": 0,
+    "id": 9,
+    "passed": true,
+    "sha256": "9f3df933fb1c3fadc3bca361696c6cd6e022e8b24c05e780df7296a561faf58c",
+    "meshlib_self_pairs": 0,
+    "max_bidirectional_vertex_to_surface_mm": 0.009212831526546113,
+    "volume_delta_pct": 0.09488867643020524,
+    "bounds_delta_mm": [
+      [
+        0.0,
+        3.552713678800501e-15,
+        5.329070518200751e-15
+      ],
+      [
+        2.288818359375e-05,
+        -3.814697265625e-06,
+        0.0
+      ]
+    ],
+    "genus_before": 2
+  },
+  {
+    "vertices": 4886,
+    "triangles": 9820,
+    "watertight": true,
+    "winding_consistent": true,
+    "volume_mm3": 5936.692552387125,
+    "dimensions_mm": [
+      34.0,
+      35.89801216125488,
+      22.498001098632812
+    ],
+    "bounds_mm": [
+      [
+        -17.0,
+        -17.950000762939453,
+        0.0
+      ],
+      [
+        17.0,
+        17.94801139831543,
+        22.498001098632812
+      ]
+    ],
+    "components": 1,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "nonmanifold_vertices": 0,
+    "genus": 13,
+    "open_holes": 0,
+    "self_intersection_faces": 0,
+    "self_intersection_face_indices": [],
+    "degenerate_faces": 0,
+    "min_triangle_altitude_mm": 0.0003236672242509889,
+    "triangle_altitude_below_1e_5_mm": 0,
+    "min_triangle_area_mm2": 1.5536839783237123e-05,
+    "stored_normal_reversed": 0,
+    "stored_normal_zero": 0,
+    "passed": true,
+    "meshlib_self_pairs": 0,
+    "max_bidirectional_vertex_to_surface_mm": 0.006800125611536357,
+    "volume_delta_pct": -0.008523120682773465,
+    "id": 22,
+    "sha256": "f8dff285f3658fedc56a6074d42745400ba7c5b57e36c90afe6e822d6e5ca2fa",
+    "genus_before": 13,
+    "repair_provenance": "JLC repair copy, aligned back to original coordinates, followed by local self-intersection cleanup; JLC re-upload passed",
+    "bounds_delta_mm": [
+      [
+        0.0,
+        1.9073486328125e-06,
+        1.5543122344752192e-15
+      ],
+      [
+        0.0,
+        -0.00199127197265625,
+        -0.0019664764404296875
+      ]
+    ]
+  },
+  {
+    "vertices": 12553,
+    "triangles": 25154,
+    "watertight": true,
+    "winding_consistent": true,
+    "volume_mm3": 29941.27028678449,
+    "dimensions_mm": [
+      91.76000213623047,
+      122.69000244140625,
+      46.33599963388406
+    ],
+    "bounds_mm": [
+      [
+        -45.880001068115234,
+        -66.19000244140625,
+        -0.0020000000949949026
+      ],
+      [
+        45.880001068115234,
+        56.5,
+        46.33399963378906
+      ]
+    ],
+    "components": 1,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "nonmanifold_vertices": 0,
+    "genus": 13,
+    "open_holes": 0,
+    "self_intersection_faces": 0,
+    "self_intersection_face_indices": [],
+    "degenerate_faces": 0,
+    "min_triangle_altitude_mm": 0.000989359140221422,
+    "triangle_altitude_below_1e_5_mm": 0,
+    "min_triangle_area_mm2": 8.317690320514442e-05,
+    "stored_normal_reversed": 0,
+    "stored_normal_zero": 0,
+    "id": 25,
+    "passed": true,
+    "sha256": "77baa661cd427298f0788a65448955af180964c186e6b194a6246b6d9a5a9790",
+    "meshlib_self_pairs": 0,
+    "max_bidirectional_vertex_to_surface_mm": 0.00466319904452353,
+    "volume_delta_pct": -0.003049738899480906,
+    "bounds_delta_mm": [
+      [
+        -0.00029754638671875,
+        0.0,
+        -0.0006481432355940342
+      ],
+      [
+        0.0009002685546875,
+        -3.814697265625e-06,
+        -0.00079345703125
+      ]
+    ],
+    "genus_before": 13
+  },
+  {
+    "vertices": 18496,
+    "triangles": 37008,
+    "watertight": true,
+    "winding_consistent": true,
+    "volume_mm3": 23959.96823262922,
+    "dimensions_mm": [
+      91.76399993896484,
+      116.74800109863281,
+      19.90399968624115
+    ],
+    "bounds_mm": [
+      [
+        -45.88199996948242,
+        -60.24800109863281,
+        0.23199999332427979
+      ],
+      [
+        45.88199996948242,
+        56.5,
+        20.13599967956543
+      ]
+    ],
+    "components": 1,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "nonmanifold_vertices": 0,
+    "genus": 5,
+    "open_holes": 0,
+    "self_intersection_faces": 0,
+    "self_intersection_face_indices": [],
+    "degenerate_faces": 0,
+    "min_triangle_altitude_mm": 0.0004127633249410696,
+    "triangle_altitude_below_1e_5_mm": 0,
+    "min_triangle_area_mm2": 1.2341584534599168e-05,
+    "stored_normal_reversed": 0,
+    "stored_normal_zero": 0,
+    "id": 26,
+    "passed": true,
+    "sha256": "d4801922e138004f7f4d7e32f61976623e2ebc1c1db8957239067b2adafae3f3",
+    "meshlib_self_pairs": 0,
+    "max_bidirectional_vertex_to_surface_mm": 0.011018249047209092,
+    "volume_delta_pct": -0.0006863814145462943,
+    "bounds_delta_mm": [
+      [
+        -0.000518798828125,
+        0.000278472900390625,
+        0.00011561810970306396
+      ],
+      [
+        0.00045013427734375,
+        -3.814697265625e-06,
+        -0.0002613067626953125
+      ]
+    ],
+    "genus_before": 5
+  },
+  {
+    "vertices": 10710,
+    "triangles": 21440,
+    "watertight": true,
+    "winding_consistent": true,
+    "volume_mm3": 11391.117714829828,
+    "dimensions_mm": [
+      41.66600036621094,
+      80.88999938964844,
+      33.99599850550294
+    ],
+    "bounds_mm": [
+      [
+        -0.0,
+        0.0,
+        -0.02800000086426735
+      ],
+      [
+        41.66600036621094,
+        80.88999938964844,
+        33.96799850463867
+      ]
+    ],
+    "components": 1,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "nonmanifold_vertices": 0,
+    "genus": 6,
+    "open_holes": 0,
+    "self_intersection_faces": 0,
+    "self_intersection_face_indices": [],
+    "degenerate_faces": 0,
+    "min_triangle_altitude_mm": 0.0014125943585563392,
+    "triangle_altitude_below_1e_5_mm": 0,
+    "min_triangle_area_mm2": 3.3960739528993145e-05,
+    "stored_normal_reversed": 0,
+    "stored_normal_zero": 0,
+    "id": 28,
+    "passed": true,
+    "sha256": "b0c061234f936356c558e0b3a1c7192935e9071053488e1950ef3266a97a1eb0",
+    "meshlib_self_pairs": 0,
+    "max_bidirectional_vertex_to_surface_mm": 0.00901974419642496,
+    "volume_delta_pct": -0.007473443675234662,
+    "bounds_delta_mm": [
+      [
+        3.0280471643553126e-17,
+        0.0,
+        0.0023645665496587753
+      ],
+      [
+        0.000896453857421875,
+        -6.866455078125e-05,
+        0.000827789306640625
+      ]
+    ],
+    "genus_before": 6
+  },
+  {
+    "vertices": 10887,
+    "triangles": 21794,
+    "watertight": true,
+    "winding_consistent": true,
+    "volume_mm3": 11218.37515500864,
+    "dimensions_mm": [
+      41.66999816894531,
+      80.89800262451172,
+      32.035998322069645
+    ],
+    "bounds_mm": [
+      [
+        0.0,
+        0.0,
+        -0.026000000536441803
+      ],
+      [
+        41.66999816894531,
+        80.89800262451172,
+        32.0099983215332
+      ]
+    ],
+    "components": 1,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "nonmanifold_vertices": 0,
+    "genus": 6,
+    "open_holes": 0,
+    "self_intersection_faces": 0,
+    "self_intersection_face_indices": [],
+    "degenerate_faces": 0,
+    "min_triangle_altitude_mm": 0.0010738034587848859,
+    "triangle_altitude_below_1e_5_mm": 0,
+    "min_triangle_area_mm2": 3.5820832596449724e-05,
+    "stored_normal_reversed": 0,
+    "stored_normal_zero": 0,
+    "id": 29,
+    "passed": true,
+    "sha256": "4be540197407b1c5915153f5dbd25cbad40bd396a6141e0193fd67136b2c1190",
+    "meshlib_self_pairs": 0,
+    "max_bidirectional_vertex_to_surface_mm": 0.010432584001848473,
+    "volume_delta_pct": -0.006743130987295443,
+    "bounds_delta_mm": [
+      [
+        0.0,
+        0.0,
+        0.0006279386579990387
+      ],
+      [
+        0.0009918212890625,
+        0.00016021728515625,
+        0.000843048095703125
+      ]
+    ],
+    "genus_before": 6
+  },
+  {
+    "vertices": 5231,
+    "triangles": 10522,
+    "watertight": true,
+    "winding_consistent": true,
+    "volume_mm3": 10977.964612270154,
+    "dimensions_mm": [
+      54.5,
+      16.996000289916992,
+      83.48999786376953
+    ],
+    "bounds_mm": [
+      [
+        -27.25,
+        18.003999710083008,
+        0.0
+      ],
+      [
+        27.25,
+        35.0,
+        83.48999786376953
+      ]
+    ],
+    "components": 1,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "nonmanifold_vertices": 0,
+    "genus": 16,
+    "open_holes": 0,
+    "self_intersection_faces": 0,
+    "self_intersection_face_indices": [],
+    "degenerate_faces": 0,
+    "min_triangle_altitude_mm": 0.0018859924983773359,
+    "triangle_altitude_below_1e_5_mm": 0,
+    "min_triangle_area_mm2": 0.0001240754863829352,
+    "stored_normal_reversed": 0,
+    "stored_normal_zero": 0,
+    "id": 31,
+    "passed": true,
+    "sha256": "8d3f3711499f6d261adf50f3ece2ddf82c9e1e099776ae2fc1c98e6e6ad4d565",
+    "meshlib_self_pairs": 0,
+    "max_bidirectional_vertex_to_surface_mm": 0.005340408595044572,
+    "volume_delta_pct": 0.0010595928370033478,
+    "bounds_delta_mm": [
+      [
+        0.0,
+        0.0039997100830078125,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0001983642578125
+      ]
+    ],
+    "genus_before": 16
+  }
+]

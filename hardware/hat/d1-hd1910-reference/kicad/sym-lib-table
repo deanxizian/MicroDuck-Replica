@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Library_Pollen")(type "KiCad")(uri "${KIPRJMOD}/libraries/Library_Pollen.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,54 @@
+[
+  {
+    "file": "speaker/XHXDZ-3525-4ohm-3W.pdf",
+    "source": "用户提供的厂家规格书",
+    "sha256": "f8a0462909c2afa2106abb929b1859a20ffa08dfaa2e333906e4de6f4f9a7355"
+  },
+  {
+    "file": "microphone/EM4015-specification.doc",
+    "source": "用户提供；原文封面与内页型号后缀顺序不同，保留原文",
+    "sha256": "959c4e6a7c4da9afeeeb5d8f7b5e17726b1007b5261e189f0ee90edf22a74e0c"
+  },
+  {
+    "file": "battery/FB-NP-F550-B.pdf",
+    "source": "沣标规格书，M5Stack 托管；本机电池包络参考",
+    "sha256": "8de55e795d96c41b6dfa30c3186c42903e1ea4fb3fbd69eeab202ce83dc19b5e",
+    "url": "https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1132/M144_Module_Audio_battery_Spec.pdf"
+  },
+  {
+    "file": "servo/FEETECH-HD-1910-C001-20260907.pdf",
+    "source": "飞特规格书，社区托管副本",
+    "sha256": "aafd3b6a03f4902f74164bf49091d88c01418b12ddf7d5f8118cbc763f03f9a9",
+    "url": "https://raw.githubusercontent.com/fanhao375/microduck-replica/master/tools/FeeTech_HD1910M_Servo/HD-1910-C001%E4%B8%B2%E5%9E%8B%E8%A7%84%E6%A0%BC%E4%B9%A620260907.pdf"
+  },
+  {
+    "file": "camera/Yahboom-IMX219-parameters.jpg",
+    "source": "亚博官方产品参数图；不含安装孔距",
+    "sha256": "8da1a9c8dc699262f517c4975664559ac74a9fb37702b23a7f51365f4e5340eb",
+    "url": "https://cdn.shopify.com/s/files/1/0066/9686/1780/files/Jetson_CSI_Camera_17.jpg?v=1751287043"
+  },
+  {
+    "file": "camera/Yahboom-camera-interface.jpg",
+    "source": "亚博官方接口图；具体购买版本待核对",
+    "sha256": "bb5a35edc4a7058e1c0e8d4f15914a844d5cdbbf3d902e6d5567d97255f520a2",
+    "url": "https://raw.githubusercontent.com/YahboomTechnology/Jetson-Camera/e7167c12b259fa436052d71261f1916d9d4e279c/Camera_interface_line_sequence.jpg"
+  },
+  {
+    "file": "camera/Waveshare-RPi-Camera-E-F-G-H.dwg",
+    "source": "微雪机械图；当前安装尺寸参考，不是亚博确认图",
+    "sha256": "edff55b13a56d7a123fe133f0e3271f5e63a77da8b83ef9d672641f59dcf07bf",
+    "url": "https://www.waveshare.net/w/upload/8/8a/RPi_Camera_E_F_G_H_Mechanical.zip"
+  },
+  {
+    "file": "microphone/EM4015-rubber-dimensions.png",
+    "source": "用户提供的带胶套尺寸图",
+    "sha256": "42370e80d3fe3f75dca14f376c5a1bfc91e26eb8dddb30361a875dc2e9ec5788"
+  },
+  {
+    "file": "tof/VL53L5CX-DS13754-Rev5.pdf",
+    "source": "ST 芯片规格书 DS13754 Rev 5（2021-12），Pololu 托管副本；不是最新修订，也不包含成品模块安装尺寸",
+    "url": "https://www.pololu.com/file/0J1878/vl53l5cx.pdf",
+    "current_manufacturer_url": "https://www.st.com/resource/en/datasheet/vl53l5cx.pdf",
+    "sha256": "169ebe68ce93c3d9afeb7d0d06cb0626477a7236e6b1f1347e60c9aeebe3aa20"
+  }
+]

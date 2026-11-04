@@ -1,0 +1,209 @@
+(kicad_symbol_lib (version 20241209) (generator "kicad_symbol_editor")
+(symbol "banana_1p"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "microduck:banana_pin"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "banana_1p_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.7961)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "banana_1p_1_1"
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+(symbol "pad-2"
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "microduck:pad-2(surf)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "pad-2_0_1"
+				(rectangle
+					(start -6.35 2.54)
+					(end 0 -2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "pad-2_1_1"
+				(pin passive line
+					(at 2.54 1.27 180)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -1.27 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+
+
+
+
+
+
+
+
+
+
+(symbol "Polyfuse_Horizontal"
+      (pin_numbers hide) (pin_names (offset 0) hide)
+      (exclude_from_sim no) (in_bom yes) (on_board yes)
+      (property "Reference" "F" (at 0 6.985 0) (effects (font (size 1.27 1.27))))
+      (property "Value" "Polyfuse_Horizontal" (at 0 4.445 0) (effects (font (size 1.27 1.27))))
+      (property "Footprint" "microduck:PPTC_Littelfuse_2920L" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+      (property "Datasheet" "https://www.littelfuse.com/assetdocs/resettable-ptcs-2920l-datasheet?assetguid=f237e8c2-1ed9-4c13-a738-dbe0738b3d2c" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+      (property "Description" "Resettable polymeric positive temperature coefficient fuse" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+      (symbol "Polyfuse_Horizontal_0_1"
+        (rectangle (start -2.54 -0.762) (end 2.54 0.762) (stroke (width 0.254) (type default)) (fill (type none)))
+        (polyline (pts (xy -2.54 -1.524) (xy -1.524 -1.524) (xy 1.524 1.524) (xy 2.54 1.524)) (stroke (width 0) (type default)) (fill (type none)))
+        (polyline (pts (xy -2.54 0) (xy 2.54 0)) (stroke (width 0) (type default)) (fill (type none))))
+      (symbol "Polyfuse_Horizontal_1_1"
+        (pin passive line (at -3.81 0 0) (length 1.27) (name "" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
+        (pin passive line (at 3.81 0 180) (length 1.27) (name "" (effects (font (size 1.27 1.27)))) (number "2" (effects (font (size 1.27 1.27)))))))
+)

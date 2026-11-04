@@ -1,0 +1,22 @@
+{
+  "export_tool": "KiCad 10.99.0 / 20261031 / 113c71d59d",
+  "status": "REFERENCE_EXPORT_NOT_PRODUCTION_APPROVED",
+  "source_pcb_sha256": "afab8064c540cb548697b85ad85c0de8125bd7c69cb3d82b6378833498948ad1",
+  "source_schematic_sha256": "60c88158ec6b86fd4f0a9fa4f4cc288f6c581d9f35acfa823bdf6b582367504b",
+  "gerber_zip_sha256": "eb49dd812c0cfa46476f0bf7b68bac1a152ad10ce2f88223de6b3dcd150bdf64",
+  "gerber_files": [
+    "IMU-AMP2.0-Bottom Layer.gbl",
+    "IMU-AMP2.0-Bottom Paste Mask Layer.gbp",
+    "IMU-AMP2.0-Bottom Silkscreen Layer.gbo",
+    "IMU-AMP2.0-Bottom Solder Mask Layer.gbs",
+    "IMU-AMP2.0-Multi-Layer.gm1",
+    "IMU-AMP2.0-NPTH.drl",
+    "IMU-AMP2.0-PTH.drl",
+    "IMU-AMP2.0-Top Layer.gtl",
+    "IMU-AMP2.0-Top Paste Mask Layer.gtp",
+    "IMU-AMP2.0-Top Silkscreen Layer.gto",
+    "IMU-AMP2.0-Top Solder Mask Layer.gts",
+    "IMU-AMP2.0-job.gbrjob"
+  ],
+  "note": "Board fabrication data exported successfully. This does not validate ERC/DRC, SMT rotation, purchasing codes or physical operation."
+}

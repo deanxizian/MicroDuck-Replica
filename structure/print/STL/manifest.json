@@ -1,0 +1,598 @@
+{
+  "status": "SEVEN_WARNED_STL_PARTS_PASSED_JLC_MESH_RECHECK",
+  "revision": "20261104_v3.1_平台复检",
+  "units": "mm",
+  "quantity_each": 1,
+  "part_count": 29,
+  "source": {
+    "assembly_source_sha256": "4548b27a0680cc49a54e824a1d8a9a80bdcd28cf97c9eb29ce833700cbc77acc",
+    "date": "2026-11-04"
+  },
+  "parts": [
+    {
+      "part_id": 1,
+      "file": "04_TPU95A_黑色_2件/01_左脚底_TPU95A_黑色.stl",
+      "material": "TPU 95A",
+      "color": "黑色",
+      "quantity": 1,
+      "triangles": 15652,
+      "dimensions_mm": [
+        41.098533630371094,
+        54.0,
+        12.907360076904297
+      ],
+      "sha256": "076eac06ddded2840f640a38cfb48e5122d7da2b62a7cf36cada64370115762d",
+      "source_object": "吊装候选 · STL · 左脚底",
+      "geometry_sha256": "e516517ab7fbc8f569db3b29f24e3981e672f4d1da90473e4f5f8690966ac3e7",
+      "changed_in_v3_1": false,
+      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+    },
+    {
+      "part_id": 2,
+      "file": "04_TPU95A_黑色_2件/02_右脚底_TPU95A_黑色.stl",
+      "material": "TPU 95A",
+      "color": "黑色",
+      "quantity": 1,
+      "triangles": 15750,
+      "dimensions_mm": [
+        41.09873008728027,
+        54.0,
+        12.90760612487793
+      ],
+      "sha256": "dc1afd8cc091914b0d50bcd51e35b29c74d55bc3d0b23f6ecbcdd34cefca5014",
+      "source_object": "吊装候选 · STL · 右脚底",
+      "geometry_sha256": "02385e18604a9e7ecc3e12561424db240a08a4481d4f23e25662bd9c5db357d3",
+      "changed_in_v3_1": false,
+      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+    },
+    {
+      "part_id": 3,
+      "file": "01_9000HE_白色_8件/03_左脚掌_9000HE_白色.stl",
+      "material": "9000HE",
+      "color": "白色",
+      "quantity": 1,
+      "triangles": 19400,
+      "dimensions_mm": [
+        16.909027099609375,
+        54.0,
+        40.085506439208984
+      ],
+      "sha256": "6a01bc927c1f6cc3e85f0b8cabd95a7137926adf6d59e74528fdf333e7b3ce7b",
+      "source_object": "吊装候选 · STL · 左脚掌",
+      "geometry_sha256": "6c1fe926f455d2b0cb77d7288b88e9b0d703422364ef61169b70e83f81b4d8ca",
+      "changed_in_v3_1": false,
+      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+    },
+    {
+      "part_id": 4,
+      "file": "01_9000HE_白色_8件/04_右脚掌_9000HE_白色.stl",
+      "material": "9000HE",
+      "color": "白色",
+      "quantity": 1,
+      "triangles": 19436,
+      "dimensions_mm": [
+        16.909027099609375,
+        53.999996185302734,
+        40.085506439208984
+      ],
+      "sha256": "c2656b175f8eff22360de2cfe89be1a8d237362c3f099ac4e26e3360cbd2f3da",
+      "source_object": "吊装候选 · STL · 右脚掌",
+      "geometry_sha256": "d67ccab0c4f19439a27ccb41457412c7badd293aed458d9b1bc9738889295bed",
+      "changed_in_v3_1": false,
+      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+    },
+    {
+      "part_id": 5,
+      "file": "03_Grey_灰色_16件/05_左脚_Grey_灰色.stl",
+      "material": "Grey",
+      "color": "灰色",
+      "quantity": 1,
+      "triangles": 5052,
+      "dimensions_mm": [
+        25.500001907348633,
+        36.500003814697266,
+        39.48914337158203
+      ],
+      "sha256": "f236ed01545ff3cbd60b56c7108cc3e3cd2cf60222e88ed590d61a07a1bfef24",
+      "source_object": "吊装候选 · STL · 左脚",
+      "geometry_sha256": "39b6e7876211e54d7935d5adeef07ffa2ed25e7be56156565933c24150ae2f25",
+      "changed_in_v3_1": false,
+      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+    },
+    {
+      "part_id": 6,
+      "file": "03_Grey_灰色_16件/06_右脚_Grey_灰色.stl",
+      "material": "Grey",
+      "color": "灰色",
+      "quantity": 1,
+      "triangles": 5052,
+      "dimensions_mm": [
+        25.500001907348633,
+        36.500003814697266,
+        39.48914337158203
+      ],
+      "sha256": "162a194eb8aa50d9ed2feb3d2e5e20426b96dd5cb0bde588152a1ac8269556a7",
+      "source_object": "吊装候选 · STL · 右脚",
+      "geometry_sha256": "868daf4b2d17a916a19f93908fdcdf0200684b29c3cadf9740989a7acafbb657",
+      "changed_in_v3_1": false,
+      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+    },
+    {
+      "part_id": 7,
+      "file": "03_Grey_灰色_16件/07_左膝支撑_Grey_灰色.stl",
+      "material": "Grey",
+      "color": "灰色",
+      "quantity": 1,
+      "triangles": 15826,
+      "dimensions_mm": [
+        57.991912841796875,
+        20.019716262817383,
+        7.629971981048584
+      ],
+      "sha256": "3e9b43a2663e990226e92cc72adc52be792556f9398fb3606545cc9f2b130610",
+      "source_object": "吊装候选 · STL · 左膝支撑",
+      "geometry_sha256": "52ca0d8ed737a55ed30a262bbd288521eeeff4100f489e261fc75ea381a192ef",
+      "changed_in_v3_1": false,
+      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+    },
+    {
+      "part_id": 8,
+      "file": "03_Grey_灰色_16件/08_右膝支撑_Grey_灰色.stl",
+      "material": "Grey",
+      "color": "灰色",
+      "quantity": 1,
+      "triangles": 15826,
+      "dimensions_mm": [
+        57.991912841796875,
+        20.019716262817383,
+        7.629971981048584
+      ],
+      "sha256": "3e9b43a2663e990226e92cc72adc52be792556f9398fb3606545cc9f2b130610",
+      "source_object": "吊装候选 · STL · 右膝支撑",
+      "geometry_sha256": "52ca0d8ed737a55ed30a262bbd288521eeeff4100f489e261fc75ea381a192ef",
+      "changed_in_v3_1": false,
+      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+    },
+    {
+      "part_id": 9,
+      "file": "01_9000HE_白色_8件/09_左胯外盖_深装柱_9000HE_白色_v3.1.stl",
+      "material": "9000HE",
+      "color": "白色",
+      "quantity": 1,
+      "triangles": 20622,
+      "dimensions_mm": [
+        60.99599838256836,
+        47.65800094604492,
+        28.0
+      ],
+      "sha256": "9f3df933fb1c3fadc3bca361696c6cd6e022e8b24c05e780df7296a561faf58c",
+      "source_object": "吊装候选 · STL · 左胯外盖",
+      "changed_in_v3_1": true,
+      "jlc_mesh_recheck": "PASS",
+      "jlc_deformation_warning": false,
+      "sampled_surface_difference_mm": 0.009355449967674085,
+      "repair_provenance": "Local repair",
+      "replacement_package_file": "01_9000HE_白色/09_左胯外盖_深装柱_9000HE_白色_v3.1.stl"
+    },
+    {
+      "part_id": 10,
+      "file": "01_9000HE_白色_8件/10_右胯外壳_深装柱_9000HE_白色.stl",
+      "material": "9000HE",
+      "color": "白色",
+      "quantity": 1,
+      "triangles": 34770,
+      "dimensions_mm": [
+        60.99597549438476,
+        47.65800476074216,
+        27.998003005981445
+      ],
+      "sha256": "381b3322e586d2105bcfc44de475cb3f4f4dcac4e76603860bfa6a7eda82b3a9",
+      "source_object": "吊装候选 · STL · 右胯外壳",
+      "geometry_sha256": "1f483c920ed5929d03557cb1f4c166a0db89bae773590a3a3636decd10aad2aa",
+      "changed_in_v3_1": false,
+      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+    },
+    {
+      "part_id": 13,
+      "file": "03_Grey_灰色_16件/13_左胯侧摆_连续实体_Grey_灰色.stl",
+      "material": "Grey",
+      "color": "灰色",
+      "quantity": 1,
+      "triangles": 101768,
+      "dimensions_mm": [
+        32.449846267700195,
+        34.49979591369629,
+        19.0
+      ],
+      "sha256": "a88aed98ce249c21a7dc03c84a56f08f2ae1a14a97bdf2dc0e35f5057a3f329b",
+      "source_object": "吊装候选 · STL · 左胯侧摆",
+      "geometry_sha256": "1f8fba364bd3cdcd683000ea9afb55f2805f51798297728be29b4a807740ffa2",
+      "changed_in_v3_1": false,
+      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+    },
+    {
+      "part_id": 14,
+      "file": "03_Grey_灰色_16件/14_右胯侧摆_连续实体_Grey_灰色.stl",
+      "material": "Grey",
+      "color": "灰色",
+      "quantity": 1,
+      "triangles": 101768,
+      "dimensions_mm": [
+        32.449846267700195,
+        34.49979591369629,
+        19.0
+      ],
+      "sha256": "a88aed98ce249c21a7dc03c84a56f08f2ae1a14a97bdf2dc0e35f5057a3f329b",
+      "source_object": "吊装候选 · STL · 右胯侧摆",
+      "geometry_sha256": "1f8fba364bd3cdcd683000ea9afb55f2805f51798297728be29b4a807740ffa2",
+      "changed_in_v3_1": false,
+      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+    },
+    {
+      "part_id": 15,
+      "file": "03_Grey_灰色_16件/15_左胯旋转_Grey_灰色.stl",
+      "material": "Grey",
+      "color": "灰色",
+      "quantity": 1,
+      "triangles": 14314,
+      "dimensions_mm": [
+        23.000001907348633,
+        25.80000114440918,
+        20.500001430511475
+      ],
+      "sha256": "c5b8a1574ba1d86f5220bb364ca0eddd7e1ae1decc47af3ff5848bcb66b89090",
+      "source_object": "吊装候选 · STL · 左胯旋转",
+      "geometry_sha256": "9aec08aba3a3d91ff153ccf5398701d9cc95d0fff97e9d0d59e04087d345a300",
+      "changed_in_v3_1": false,
+      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+    },
+    {
+      "part_id": 16,
+      "file": "03_Grey_灰色_16件/16_右胯旋转_Grey_灰色.stl",
+      "material": "Grey",
+      "color": "灰色",
+      "quantity": 1,
+      "triangles": 14314,
+      "dimensions_mm": [
+        23.000001907348633,
+        25.80000114440918,
+        20.500001430511475
+      ],
+      "sha256": "c5b8a1574ba1d86f5220bb364ca0eddd7e1ae1decc47af3ff5848bcb66b89090",
+      "source_object": "吊装候选 · STL · 右胯旋转",
+      "geometry_sha256": "9aec08aba3a3d91ff153ccf5398701d9cc95d0fff97e9d0d59e04087d345a300",
+      "changed_in_v3_1": false,
+      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+    },
+    {
+      "part_id": 17,
+      "file": "03_Grey_灰色_16件/17_左胯固定片_Grey_灰色.stl",
+      "material": "Grey",
+      "color": "灰色",
+      "quantity": 1,
+      "triangles": 2364,
+      "dimensions_mm": [
+        23.0,
+        3.0,
+        40.0
+      ],
+      "sha256": "ae07f4b802d4262e591aa22e6993988bb3053656a43bf4ab5df8a20cd0d13ad9",
+      "source_object": "吊装候选 · STL · 左胯固定片",
+      "geometry_sha256": "04ee6dd69e03b4e34872dff6ec4bfe75a6928fcbf2da0ee374ab4ab20ffa7e47",
+      "changed_in_v3_1": false,
+      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+    },
+    {
+      "part_id": 18,
+      "file": "03_Grey_灰色_16件/18_右胯固定片_Grey_灰色.stl",
+      "material": "Grey",
+      "color": "灰色",
+      "quantity": 1,
+      "triangles": 2364,
+      "dimensions_mm": [
+        23.0,
+        3.0,
+        40.0
+      ],
+      "sha256": "ae07f4b802d4262e591aa22e6993988bb3053656a43bf4ab5df8a20cd0d13ad9",
+      "source_object": "吊装候选 · STL · 右胯固定片",
+      "geometry_sha256": "04ee6dd69e03b4e34872dff6ec4bfe75a6928fcbf2da0ee374ab4ab20ffa7e47",
+      "changed_in_v3_1": false,
+      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+    },
+    {
+      "part_id": 19,
+      "file": "03_Grey_灰色_16件/19_颈部固定左_Grey_灰色.stl",
+      "material": "Grey",
+      "color": "灰色",
+      "quantity": 1,
+      "triangles": 1468,
+      "dimensions_mm": [
+        11.000007629394531,
+        19.99999237060547,
+        2.0
+      ],
+      "sha256": "12a7fccee5675d0f380f8fed8725b11e5bc68725ba8b1db54cfa6889e6bcc424",
+      "source_object": "吊装候选 · STL · 颈部固定左",
+      "geometry_sha256": "f6b246615e5d3943bbbe5778a26305bd4c78723e49f079e826359aae2ea195a3",
+      "changed_in_v3_1": false,
+      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+    },
+    {
+      "part_id": 20,
+      "file": "03_Grey_灰色_16件/20_颈部固定右_Grey_灰色.stl",
+      "material": "Grey",
+      "color": "灰色",
+      "quantity": 1,
+      "triangles": 1468,
+      "dimensions_mm": [
+        11.0,
+        20.0,
+        2.0
+      ],
+      "sha256": "14a9f612e6fa229c1430b22e9711afd6894f1a02a8d440e8ed17f9e942ed69a8",
+      "source_object": "吊装候选 · STL · 颈部固定右",
+      "geometry_sha256": "67aa094469ab1e91178568ee9bf4466a13a7e88128dd3346f9d1bb31fae9b660",
+      "changed_in_v3_1": false,
+      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+    },
+    {
+      "part_id": 21,
+      "file": "03_Grey_灰色_16件/21_头部旋转_叉架29.2_Grey_灰色.stl",
+      "material": "Grey",
+      "color": "灰色",
+      "quantity": 1,
+      "triangles": 8536,
+      "dimensions_mm": [
+        35.0,
+        18.000001907348633,
+        27.693117141723633
+      ],
+      "sha256": "9198ce9c7418803e63cf7084a339013b29e2a85a73e44fcab38007ccf6df34d8",
+      "source_object": "吊装候选 · STL · 头部旋转",
+      "geometry_sha256": "10d1d48494456a697c2fd5d331a516b6c9d647225f11e9407102894dad336305",
+      "changed_in_v3_1": false,
+      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+    },
+    {
+      "part_id": 22,
+      "file": "03_Grey_灰色_16件/22_头部侧倾_Grey_灰色_v3.1.stl",
+      "material": "Grey",
+      "color": "灰色",
+      "quantity": 1,
+      "triangles": 9820,
+      "dimensions_mm": [
+        34.0,
+        35.89801216125488,
+        22.498001098632812
+      ],
+      "sha256": "f8dff285f3658fedc56a6074d42745400ba7c5b57e36c90afe6e822d6e5ca2fa",
+      "source_object": "吊装候选 · STL · 头部侧倾",
+      "changed_in_v3_1": true,
+      "jlc_mesh_recheck": "PASS",
+      "jlc_deformation_warning": false,
+      "sampled_surface_difference_mm": 0.010361851165308364,
+      "repair_provenance": "JLC repair copy plus local self-intersection cleanup",
+      "replacement_package_file": "03_Grey_灰色/22_头部侧倾_Grey_灰色_v3.1.stl"
+    },
+    {
+      "part_id": 23,
+      "file": "02_JLCBlack_黑色_3件/23_脸板_IMX219孔距21x13.5_Zero柱下移1.5_JLCBlack_黑色.stl",
+      "material": "JLC Black",
+      "color": "黑色",
+      "quantity": 1,
+      "triangles": 12556,
+      "dimensions_mm": [
+        87.65070343017578,
+        13.299999237060547,
+        44.626484632492065
+      ],
+      "sha256": "bb9077af76dda081c0844e0352734a5a0d5460f8f489a31f857132020088f20b",
+      "source_object": "23号脸板 · IMX219160参考孔距21x13.5 · 柱高6mm",
+      "geometry_sha256": "bcd0fa373252aba4f41f6a68abd0ad1a2c3ae245de522b3d9277b379fea995c0",
+      "changed_in_v3_1": false,
+      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+    },
+    {
+      "part_id": 24,
+      "file": "03_Grey_灰色_16件/24_嘴巴_Grey_灰色.stl",
+      "material": "Grey",
+      "color": "灰色",
+      "quantity": 1,
+      "triangles": 9762,
+      "dimensions_mm": [
+        91.41584777832031,
+        68.71049499511719,
+        29.447659492492676
+      ],
+      "sha256": "33998596de2b86b9a0cff9934f1014e5bb17f626c34992090363190777163cdd",
+      "source_object": "吊装候选 · STL · 嘴巴",
+      "geometry_sha256": "a73a0cd66f32a73df0104d052aa041de03774dcecb3cfeaa8b3972aae01ae3e7",
+      "changed_in_v3_1": false,
+      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+    },
+    {
+      "part_id": 25,
+      "file": "01_9000HE_白色_8件/25_头盖_双麦_短扬声器粘贴面_9000HE_白色_v3.1.stl",
+      "material": "9000HE",
+      "color": "白色",
+      "quantity": 1,
+      "triangles": 25154,
+      "dimensions_mm": [
+        91.76000213623047,
+        122.69000244140625,
+        46.33599963388406
+      ],
+      "sha256": "77baa661cd427298f0788a65448955af180964c186e6b194a6246b6d9a5a9790",
+      "source_object": "25号头盖 · 双麦圆窝4.4声孔1.5 · 短粘贴面25mm",
+      "changed_in_v3_1": true,
+      "jlc_mesh_recheck": "PASS",
+      "jlc_deformation_warning": true,
+      "sampled_surface_difference_mm": 0.004662904139789601,
+      "repair_provenance": "Local repair",
+      "replacement_package_file": "01_9000HE_白色/25_头盖_双麦_短扬声器粘贴面_9000HE_白色_v3.1.stl"
+    },
+    {
+      "part_id": 26,
+      "file": "03_Grey_灰色_16件/26_头部集成板_张嘴让位端缘修整_Grey_灰色_v3.1.stl",
+      "material": "Grey",
+      "color": "灰色",
+      "quantity": 1,
+      "triangles": 37008,
+      "dimensions_mm": [
+        91.76399993896484,
+        116.74800109863281,
+        19.90399968624115
+      ],
+      "sha256": "d4801922e138004f7f4d7e32f61976623e2ebc1c1db8957239067b2adafae3f3",
+      "source_object": "吊装候选 · STL · 头部集成板",
+      "changed_in_v3_1": true,
+      "jlc_mesh_recheck": "PASS",
+      "jlc_deformation_warning": true,
+      "sampled_surface_difference_mm": 0.011018249047209092,
+      "repair_provenance": "Local repair",
+      "replacement_package_file": "03_Grey_灰色/26_头部集成板_张嘴让位端缘修整_Grey_灰色_v3.1.stl"
+    },
+    {
+      "part_id": 27,
+      "file": "02_JLCBlack_黑色_3件/27_眼睛_JLCBlack_黑色.stl",
+      "material": "JLC Black",
+      "color": "黑色",
+      "quantity": 1,
+      "triangles": 2184,
+      "dimensions_mm": [
+        30.000001907348633,
+        30.000001907348633,
+        8.0
+      ],
+      "sha256": "c7c9b77c79e4b39d8b414b4e911a42908430a3883d285285f065862f72395b84",
+      "source_object": "吊装候选 · STL · 眼睛",
+      "geometry_sha256": "7ee5cad8c0fde81c9726ce3ac0f1440a4f836ee7b8f7aa23a372299bf18b3874",
+      "changed_in_v3_1": false,
+      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+    },
+    {
+      "part_id": 28,
+      "file": "01_9000HE_白色_8件/28_左壳_连续孔口_9000HE_白色_v3.1.stl",
+      "material": "9000HE",
+      "color": "白色",
+      "quantity": 1,
+      "triangles": 21440,
+      "dimensions_mm": [
+        41.66600036621094,
+        80.88999938964844,
+        33.99599850550294
+      ],
+      "sha256": "b0c061234f936356c558e0b3a1c7192935e9071053488e1950ef3266a97a1eb0",
+      "source_object": "吊装候选 · STL · 左壳",
+      "changed_in_v3_1": true,
+      "jlc_mesh_recheck": "PASS",
+      "jlc_deformation_warning": false,
+      "sampled_surface_difference_mm": 0.009199341968173822,
+      "repair_provenance": "Local repair",
+      "replacement_package_file": "01_9000HE_白色/28_左壳_连续孔口_9000HE_白色_v3.1.stl"
+    },
+    {
+      "part_id": 29,
+      "file": "01_9000HE_白色_8件/29_右壳_连续孔口_9000HE_白色_v3.1.stl",
+      "material": "9000HE",
+      "color": "白色",
+      "quantity": 1,
+      "triangles": 21794,
+      "dimensions_mm": [
+        41.66999816894531,
+        80.89800262451172,
+        32.035998322069645
+      ],
+      "sha256": "4be540197407b1c5915153f5dbd25cbad40bd396a6141e0193fd67136b2c1190",
+      "source_object": "吊装候选 · STL · 右壳",
+      "changed_in_v3_1": true,
+      "jlc_mesh_recheck": "PASS",
+      "jlc_deformation_warning": false,
+      "sampled_surface_difference_mm": 0.011764380408345185,
+      "repair_provenance": "Local repair",
+      "replacement_package_file": "01_9000HE_白色/29_右壳_连续孔口_9000HE_白色_v3.1.stl"
+    },
+    {
+      "part_id": 31,
+      "file": "02_JLCBlack_黑色_3件/31_电池仓_右侧出线缺口_JLCBlack_黑色_v3.1.stl",
+      "material": "JLC Black",
+      "color": "黑色",
+      "quantity": 1,
+      "triangles": 10522,
+      "dimensions_mm": [
+        54.5,
+        16.996000289916992,
+        83.48999786376953
+      ],
+      "sha256": "8d3f3711499f6d261adf50f3ece2ddf82c9e1e099776ae2fc1c98e6e6ad4d565",
+      "source_object": "31号电池仓 · 取电板定位余量0.1 · 入口0.2",
+      "changed_in_v3_1": true,
+      "jlc_mesh_recheck": "PASS",
+      "jlc_deformation_warning": false,
+      "sampled_surface_difference_mm": 0.005340408595044572,
+      "repair_provenance": "Local repair",
+      "replacement_package_file": "02_JLCBlack_黑色/31_电池仓_右侧出线缺口_JLCBlack_黑色_v3.1.stl"
+    },
+    {
+      "part_id": 32,
+      "file": "01_9000HE_白色_8件/32_头部集成盖_兼容hat插口_9000HE_白色.stl",
+      "material": "9000HE",
+      "color": "白色",
+      "quantity": 1,
+      "triangles": 3644,
+      "dimensions_mm": [
+        73.5,
+        54.20000076293945,
+        18.80000078678131
+      ],
+      "sha256": "e912f1fbc85bbd2460051ff7be56a7587417ac2011a486af6f378267d7156f1c",
+      "source_object": "吊装候选 · STL · 头部集成盖_兼容hat插口",
+      "geometry_sha256": "f0b420aee85d133da2aa1464d3169cdf9b06ff3106b0238fd171ea9f07dceeff",
+      "changed_in_v3_1": false,
+      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+    }
+  ],
+  "material_counts": {
+    "TPU 95A / 黑色": 2,
+    "9000HE / 白色": 8,
+    "Grey / 灰色": 16,
+    "JLC Black / 黑色": 3
+  },
+  "purchased_metal_excluded": [
+    11,
+    12,
+    30
+  ],
+  "changed_from_previous_release": [
+    13,
+    14,
+    28,
+    29
+  ],
+  "unchanged_stl_files": 22,
+  "changed_from_v2": [
+    9,
+    22,
+    25,
+    26,
+    28,
+    29,
+    31
+  ],
+  "platform_rechecked_ids": [
+    9,
+    22,
+    25,
+    26,
+    28,
+    29,
+    31
+  ],
+  "platform_deformation_warning_ids": [
+    25,
+    26
+  ],
+  "wall_thickness_design_changed": false,
+  "new_full_motion_test": false
+}

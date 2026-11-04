@@ -1,0 +1,5 @@
+﻿References,Quantity,Description,Manufacturer,MPN,Footprint,Status
+F1,1,"Resettable PPTC in battery positive, 7A hold / 14A trip at 20C; 12V",Littelfuse,2920L700/12MR,microduck:PPTC_Littelfuse_2920L,Prototype selection; application tests pending. User-requested substitute: 伯特 BSMD2920-700-12V; manufacturer datasheet and compatibility unverified.
+"J1,J2",2,"2.5mm banana PCB contacts, 13mm total / 1.5mm tail diameter",,U6068 (reference only),microduck:banana_pin,Contact shoulder/tail fit not verified
+J3,1,"Two-core lead to HUB CN1; pad1 fused + via F1, pad2 direct battery -",,Select to match actual HUB,microduck:pad-2(surf),Hand-soldered wire; no board connector
+PCB,1,"39.19x6.79x1.6mm; 2-layer, 1oz copper each side",,0.5-PPTC,,Prototype

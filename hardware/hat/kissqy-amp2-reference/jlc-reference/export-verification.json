@@ -1,0 +1,22 @@
+{
+  "export_tool": "KiCad 10.99.0 / 20261031 / 113c71d59d",
+  "status": "REFERENCE_EXPORT_NOT_PRODUCTION_APPROVED",
+  "source_pcb_sha256": "24c77852f247c9a2bf27c0ba171c93ce1e681b0be54cd1199b69f3c07d154415",
+  "source_schematic_sha256": "347c1ee6356dce06655ca2e7d800e4eb157c7e2b1faeff44ae8e827a8cb76ee5",
+  "gerber_zip_sha256": "36fe9fd3a21aff644a6cd041207ab46ee294a76bf30b2aa58641f3d072996ae7",
+  "gerber_files": [
+    "ProPrj_HAT_REVA_SCH_2026-10-15-Bottom Layer.gbl",
+    "ProPrj_HAT_REVA_SCH_2026-10-15-Bottom Paste Mask Layer.gbp",
+    "ProPrj_HAT_REVA_SCH_2026-10-15-Bottom Silkscreen Layer.gbo",
+    "ProPrj_HAT_REVA_SCH_2026-10-15-Bottom Solder Mask Layer.gbs",
+    "ProPrj_HAT_REVA_SCH_2026-10-15-Multi-Layer.gm1",
+    "ProPrj_HAT_REVA_SCH_2026-10-15-NPTH.drl",
+    "ProPrj_HAT_REVA_SCH_2026-10-15-PTH.drl",
+    "ProPrj_HAT_REVA_SCH_2026-10-15-Top Layer.gtl",
+    "ProPrj_HAT_REVA_SCH_2026-10-15-Top Paste Mask Layer.gtp",
+    "ProPrj_HAT_REVA_SCH_2026-10-15-Top Silkscreen Layer.gto",
+    "ProPrj_HAT_REVA_SCH_2026-10-15-Top Solder Mask Layer.gts",
+    "ProPrj_HAT_REVA_SCH_2026-10-15-job.gbrjob"
+  ],
+  "note": "Board fabrication data exported successfully. This does not validate ERC/DRC, SMT rotation, purchasing codes or physical operation."
+}

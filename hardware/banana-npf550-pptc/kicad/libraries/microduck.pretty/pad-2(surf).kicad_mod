@@ -1,0 +1,99 @@
+(footprint "pad-2(surf)"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "5847dbdc-a6bf-450e-b54b-6ea003468dbf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "pad-2(surf)"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "77c81045-af83-4641-a0a4-92447a9665df")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1ad26bcd-9aa4-4368-b95c-04a72d9d5e43")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Bare wire solder pads, no purchased connector. Pad 1 positive, pad 2 negative."
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ceece3a1-adf0-46c5-93e6-49948716c5b7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/")
+	(sheetfile "banana_pcb.kicad_sch")
+	(attr exclude_from_pos_files exclude_from_bom)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -3 -2)
+		(end 3 6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "a1f1d0f4-3ad2-44cd-aaee-92305136caaf")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "bd116b97-7402-424a-993e-e9bffb334d71")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at 0 0)
+		(size 5 3)
+		(layers "F.Cu" "F.Mask")
+		(roundrect_rratio 0.1)
+		(uuid "8ffdf6be-0d03-4891-b55f-739f29842100")
+	)
+	(pad "2" smd roundrect
+		(at 0 4)
+		(size 5 3)
+		(layers "F.Cu" "F.Mask")
+		(roundrect_rratio 0.1)
+		(uuid "cb281385-b454-4f50-a5fd-a68072bc35c8")
+	)
+	(embedded_fonts no)
+)

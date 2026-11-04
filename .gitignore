@@ -1,0 +1,11 @@
+.DS_Store
+._*
+*.blend1
+*.blend2
+*.kicad_prl
+*.lck
+~*.kicad*
+*-backups/
+.history/
+__pycache__/
+*.pyc

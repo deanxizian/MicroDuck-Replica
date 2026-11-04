@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-03",
+  "revision": "0.5-PPTC",
+  "layout": "F1 at left in positive supply; output pads shifted 8 mm right to revised holder notch, left fused positive/right battery negative",
+  "back_layer_nets": [],
+  "front_fused_connection": "J1.1 BATT_POS to F1.1; F1.2 VOUT_FUSED to J3.1; J3.2 directly to J2.1 BATT_NEG on F.Cu",
+  "schematic_and_board_nets": {
+    "/BATT_POS": [
+      [
+        "F1",
+        "1"
+      ],
+      [
+        "J1",
+        "1"
+      ]
+    ],
+    "/VOUT_FUSED": [
+      [
+        "F1",
+        "2"
+      ],
+      [
+        "J3",
+        "1"
+      ]
+    ],
+    "/BATT_NEG": [
+      [
+        "J2",
+        "1"
+      ],
+      [
+        "J3",
+        "2"
+      ]
+    ]
+  },
+  "copper_zone_count": 0,
+  "free_copper_graphic_count": 0,
+  "smt_paste_pads": [
+    [
+      "F1",
+      "1"
+    ],
+    [
+      "F1",
+      "2"
+    ]
+  ],
+  "via_count": 0,
+  "track_widths_mm": {
+    "3.0": 3
+  },
+  "all_tracks_horizontal": true,
+  "track_centre_y_mm": 89.25,
+  "checks": {
+    "erc": 0,
+    "drc": 0,
+    "unconnected": 0,
+    "schematic_parity": 0
+  },
+  "original_k1_files_compared_and_unchanged": [
+    "banana_pcb.kicad_pcb",
+    "fp-lib-table",
+    "banana_pcb.kicad_pro",
+    "sym-lib-table",
+    "banana_pcb.kicad_sch",
+    "libraries/microduck.kicad_sym",
+    "libraries/microduck.pretty/pad-2(surf).kicad_mod",
+    "libraries/microduck.pretty/banana_pin.kicad_mod"
+  ],
+  "design_sha256": {
+    "banana_pptc.kicad_sch": "faff5dac92e9303886f5e72118bc093ab643b0597df9656e196712c14caeb7f4",
+    "banana_pptc.kicad_pro": "6bc20f1f857e0e97ce43128e54f9ace0bc59da9f0ef80c6648ffbea16023cb21",
+    "banana_pptc.kicad_pcb": "f9e5c332d197d33b91aff4ceb9a3352e4c33772814a23aee3ff6e4d34fbd3bfe"
+  },
+  "limits": "CAD connectivity only; no powered load, thermal or fault response tests."
+}

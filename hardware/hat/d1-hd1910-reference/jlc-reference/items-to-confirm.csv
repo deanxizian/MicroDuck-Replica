@@ -1,0 +1,5 @@
+﻿Designator,Issue,Action,Source
+C19,"Source value is 10u 63V; MPN is Kemet EDK106M100A9HAA. Source code C72488 instead identifies ROQANG RVT1H100M0605, 10uF 50V, D6.3x5.4mm.",Keep component in BOM and CPL; leave catalog code blank pending correct part matching. Do not silently substitute 50V part.,https://www.lcsc.com/product-detail/C72488.html
+D1,"Source Value BAT54W differs from existing MPN BAT54SW,115 and C78606.","BOM Comment uses existing exact MPN BAT54SW,115; code C78606 retained. PCB and schematic unchanged. Confirm required diode configuration before assembly.",https://item.szlcsc.com/79742.html
+"TP2,TP3,TP4",Through-hole test loops have no manufacturer part number or catalog code in source.,Keep in BOM/CPL; requires exact loop selection or explicit decision not to populate in the order.,Current schematic and PCB
+J4,Existing NPTH-to-copper clearance violations remain.,No fabrication release; resolve before production.,hardware/kicad/HAT-D1-HD1910-B/reports/HD1910-B-DRC.json

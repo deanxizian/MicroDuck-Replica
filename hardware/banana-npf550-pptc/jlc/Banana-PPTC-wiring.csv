@@ -1,0 +1,3 @@
+﻿Battery,Connection,Output,HUB
+J1.1 positive,F1.1 -> F1.2 (positive-side PPTC),J3.1 VOUT_FUSED (left pad),CN1.2 VIN+
+J2.1 negative,Direct,J3.2 BATT_NEG (right pad),CN1.1 GND-

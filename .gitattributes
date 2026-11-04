@@ -1,0 +1,7 @@
+*.blend binary
+*.stl binary
+*.step binary
+*.csv -text
+*.pdf binary
+*.png binary
+*.zip binary

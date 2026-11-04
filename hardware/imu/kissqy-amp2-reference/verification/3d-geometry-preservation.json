@@ -1,0 +1,235 @@
+{
+  "source_pcb": "source-workspace/hardware/kicad/IMU-AMP2.0-2026-10-15/IMU-AMP2.0.kicad_pcb",
+  "source_sha256": "fd210c80cf2fc456e7f53cfe4cef66052610bfeef7a51a02e9b7a66464dac152",
+  "non_model_data_identical": true,
+  "model_types": 11,
+  "model_instances": 25,
+  "instances": [
+    {
+      "reference": "U4",
+      "model": "US-8_L2.0-W2.3-H0.9-LS3.1-P0.50",
+      "corrected_offset_mm": [
+        0.0,
+        0.0,
+        -0.000795
+      ]
+    },
+    {
+      "reference": "D1",
+      "model": "SOD-323_L1.7-W1.3-LS2.7-BI",
+      "corrected_offset_mm": [
+        0.0,
+        0.0,
+        0.62
+      ]
+    },
+    {
+      "reference": "C10",
+      "model": "C0603_L1.6-W0.8-H0.8",
+      "corrected_offset_mm": [
+        0.0,
+        0.0,
+        0.4
+      ]
+    },
+    {
+      "reference": "D2",
+      "model": "LED0603-RD",
+      "corrected_offset_mm": [
+        0.0,
+        0.0,
+        0.01
+      ]
+    },
+    {
+      "reference": "C8",
+      "model": "C0603_L1.6-W0.8-H0.8",
+      "corrected_offset_mm": [
+        0.0,
+        0.0,
+        0.4
+      ]
+    },
+    {
+      "reference": "C2",
+      "model": "C0603_L1.6-W0.8-H0.8",
+      "corrected_offset_mm": [
+        0.0,
+        0.0,
+        0.4
+      ]
+    },
+    {
+      "reference": "C7",
+      "model": "C0603_L1.6-W0.8-H0.8",
+      "corrected_offset_mm": [
+        0.0,
+        0.0,
+        0.4
+      ]
+    },
+    {
+      "reference": "C3",
+      "model": "C0805_L2.0-W1.3-H1.3",
+      "corrected_offset_mm": [
+        0.0,
+        0.0,
+        0.65
+      ]
+    },
+    {
+      "reference": "R5",
+      "model": "R0603",
+      "corrected_offset_mm": [
+        3.0616169978683685e-19,
+        0.004999999999999977,
+        0.01
+      ]
+    },
+    {
+      "reference": "J1",
+      "model": "CONN-TH_A2007WV-3P",
+      "corrected_offset_mm": [
+        0.0,
+        -1.42775,
+        1.6187499999999995
+      ]
+    },
+    {
+      "reference": "C9",
+      "model": "C0603_L1.6-W0.8-H0.8",
+      "corrected_offset_mm": [
+        0.0,
+        0.0,
+        0.4
+      ]
+    },
+    {
+      "reference": "U2",
+      "model": "LGA-14_L3.0-W2.5-P0.50-BR",
+      "corrected_offset_mm": [
+        0.0,
+        0.0,
+        0.21
+      ]
+    },
+    {
+      "reference": "C1",
+      "model": "C0805_L2.0-W1.3-H1.3",
+      "corrected_offset_mm": [
+        0.0,
+        0.0,
+        0.65
+      ]
+    },
+    {
+      "reference": "C5",
+      "model": "C0603_L1.6-W0.8-H0.8",
+      "corrected_offset_mm": [
+        0.0,
+        0.0,
+        0.4
+      ]
+    },
+    {
+      "reference": "U1",
+      "model": "TSSOP-20_L6.5-W4.4-H1.0-LS6.4-P0.65",
+      "corrected_offset_mm": [
+        0.0,
+        0.0,
+        0.019205
+      ]
+    },
+    {
+      "reference": "C6",
+      "model": "C0603_L1.6-W0.8-H0.8",
+      "corrected_offset_mm": [
+        0.0,
+        0.0,
+        0.4
+      ]
+    },
+    {
+      "reference": "R2",
+      "model": "R0603",
+      "corrected_offset_mm": [
+        3.0616169978683685e-19,
+        0.004999999999999977,
+        0.01
+      ]
+    },
+    {
+      "reference": "U3",
+      "model": "SOT-23-5_L2.9-W1.6-H1.1-LS2.8-P0.95",
+      "corrected_offset_mm": [
+        0.0,
+        0.0,
+        0.049083
+      ]
+    },
+    {
+      "reference": "R6",
+      "model": "R0603",
+      "corrected_offset_mm": [
+        3.0616169978683685e-19,
+        0.004999999999999977,
+        0.01
+      ]
+    },
+    {
+      "reference": "C4",
+      "model": "C0603_L1.6-W0.8-H0.8",
+      "corrected_offset_mm": [
+        0.0,
+        0.0,
+        0.4
+      ]
+    },
+    {
+      "reference": "R4",
+      "model": "R0603",
+      "corrected_offset_mm": [
+        3.0616169978683685e-19,
+        0.004999999999999977,
+        0.01
+      ]
+    },
+    {
+      "reference": "J2",
+      "model": "HDR-TH_5P-P2.54-M-LI-1X5P",
+      "corrected_offset_mm": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "reference": "R3",
+      "model": "R0603",
+      "corrected_offset_mm": [
+        3.0616169978683685e-19,
+        0.004999999999999977,
+        0.01
+      ]
+    },
+    {
+      "reference": "R1",
+      "model": "R0603",
+      "corrected_offset_mm": [
+        3.0616169978683685e-19,
+        0.004999999999999977,
+        0.01
+      ]
+    },
+    {
+      "reference": "R7",
+      "model": "R0603",
+      "corrected_offset_mm": [
+        3.0616169978683685e-19,
+        0.004999999999999977,
+        0.01
+      ]
+    }
+  ],
+  "origin_correction": "EasyEDA XY center and minimum Z; preserve imported rotation and placement"
+}
