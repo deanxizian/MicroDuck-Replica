@@ -1,0 +1,345 @@
+{
+  "date": "2026-11-04",
+  "source_sha256": "4548b27a0680cc49a54e824a1d8a9a80bdcd28cf97c9eb29ce833700cbc77acc",
+  "objects": 476,
+  "mesh_objects": 465,
+  "print_parts": 29,
+  "geometry_and_transforms_preserved": true,
+  "only_camera_presentation_and_materials_changed": true,
+  "linked_libraries": 0,
+  "external_images": 0,
+  "variants": [
+    {
+      "file": "structure/blender/MicroDuck-Replica_Print-Colors.blend",
+      "sha256": "00bda702fcabab6cd58b2a5aa8a74927e746e66c15c1e02f70d29bf55d799f54",
+      "bytes": 42685665
+    },
+    {
+      "file": "structure/blender/MicroDuck-Replica_Colorful.blend",
+      "sha256": "59c9746273d43e4937b2f1324bc33bdd1d4955b67dbf4842f385ed3c16c83e01",
+      "bytes": 42713665
+    }
+  ],
+  "colorful_palette": [
+    {
+      "part_id": 1,
+      "source_reference": "左脚底_20",
+      "source_material": "REF 材质_0",
+      "linear_rgba": [
+        0.25015828013420105,
+        0.7011018991470337,
+        0.6514056324958801,
+        1.0
+      ]
+    },
+    {
+      "part_id": 2,
+      "source_reference": "右脚底_61",
+      "source_material": "REF 材质_75",
+      "linear_rgba": [
+        0.25015828013420105,
+        0.7011018991470337,
+        0.6514056324958801,
+        1.0
+      ]
+    },
+    {
+      "part_id": 3,
+      "source_reference": "左脚掌_21",
+      "source_material": "REF 材质_1",
+      "linear_rgba": [
+        0.9559733271598816,
+        0.4677838087081909,
+        0.0003035269910469651,
+        1.0
+      ]
+    },
+    {
+      "part_id": 4,
+      "source_reference": "右脚掌_63",
+      "source_material": "REF 材质_77",
+      "linear_rgba": [
+        0.9559733271598816,
+        0.4677838087081909,
+        0.0003035269910469651,
+        1.0
+      ]
+    },
+    {
+      "part_id": 5,
+      "source_reference": "左踝支架_23",
+      "source_material": "REF 材质_3",
+      "linear_rgba": [
+        0.9559733271598816,
+        0.4677838087081909,
+        0.0003035269910469651,
+        1.0
+      ]
+    },
+    {
+      "part_id": 6,
+      "source_reference": "右踝支架_60",
+      "source_material": "REF 材质_74",
+      "linear_rgba": [
+        0.9559733271598816,
+        0.4677838087081909,
+        0.0003035269910469651,
+        1.0
+      ]
+    },
+    {
+      "part_id": 7,
+      "source_reference": "小腿结构件_18",
+      "source_material": "REF 材质_4",
+      "linear_rgba": [
+        0.6239603757858276,
+        0.7083757519721985,
+        0.7835378050804138,
+        1.0
+      ]
+    },
+    {
+      "part_id": 8,
+      "source_reference": "小腿结构件_59",
+      "source_material": "REF 材质_81",
+      "linear_rgba": [
+        0.6239603757858276,
+        0.7083757519721985,
+        0.7835378050804138,
+        1.0
+      ]
+    },
+    {
+      "part_id": 9,
+      "source_reference": "左上腿外壳_13",
+      "source_material": "REF 材质_8",
+      "linear_rgba": [
+        0.7230551242828369,
+        0.7230551242828369,
+        0.7230551242828369,
+        1.0
+      ]
+    },
+    {
+      "part_id": 10,
+      "source_reference": "右上腿外壳_56",
+      "source_material": "REF 材质_87",
+      "linear_rgba": [
+        0.7230551242828369,
+        0.7230551242828369,
+        0.7230551242828369,
+        1.0
+      ]
+    },
+    {
+      "part_id": 13,
+      "source_reference": "髋部支架_12",
+      "source_material": "REF 材质_18",
+      "linear_rgba": [
+        0.7912979125976562,
+        0.7912979125976562,
+        0.7912979125976562,
+        1.0
+      ]
+    },
+    {
+      "part_id": 14,
+      "source_reference": "髋部支架_51",
+      "source_material": "REF 材质_91",
+      "linear_rgba": [
+        0.7912979125976562,
+        0.7912979125976562,
+        0.7912979125976562,
+        1.0
+      ]
+    },
+    {
+      "part_id": 15,
+      "source_reference": "髋部连接件_07",
+      "source_material": "REF 材质_19",
+      "linear_rgba": [
+        0.3762621283531189,
+        0.3762621283531189,
+        0.3762621283531189,
+        1.0
+      ]
+    },
+    {
+      "part_id": 16,
+      "source_reference": "髋部连接件_47",
+      "source_material": "REF 材质_93",
+      "linear_rgba": [
+        0.3762621283531189,
+        0.3762621283531189,
+        0.3762621283531189,
+        1.0
+      ]
+    },
+    {
+      "part_id": 17,
+      "source_reference": "髋部轴承支架_10",
+      "source_material": "REF 材质_24",
+      "linear_rgba": [
+        0.05612849071621895,
+        0.06480326503515244,
+        0.07421357184648514,
+        1.0
+      ]
+    },
+    {
+      "part_id": 18,
+      "source_reference": "髋部轴承支架_49",
+      "source_material": "REF 材质_97",
+      "linear_rgba": [
+        0.05612849071621895,
+        0.06480326503515244,
+        0.07421357184648514,
+        1.0
+      ]
+    },
+    {
+      "part_id": 19,
+      "source_reference": "颈部侧板_24",
+      "source_material": "REF 材质_66",
+      "linear_rgba": [
+        0.6038273572921753,
+        0.6038273572921753,
+        0.6038273572921753,
+        1.0
+      ]
+    },
+    {
+      "part_id": 20,
+      "source_reference": "颈部侧板_27",
+      "source_material": "REF 材质_73",
+      "linear_rgba": [
+        0.6038273572921753,
+        0.6038273572921753,
+        0.6038273572921753,
+        1.0
+      ]
+    },
+    {
+      "part_id": 21,
+      "source_reference": "颈部俯仰连接件_28",
+      "source_material": "REF 材质_64",
+      "linear_rgba": [
+        0.09989872574806213,
+        0.11697066575288773,
+        0.13286831974983215,
+        1.0
+      ]
+    },
+    {
+      "part_id": 22,
+      "source_reference": "头部转向连接件_30",
+      "source_material": "REF 材质_58",
+      "linear_rgba": [
+        0.5520114302635193,
+        0.7605245113372803,
+        0.8962693810462952,
+        1.0
+      ]
+    },
+    {
+      "part_id": 23,
+      "source_reference": "面部壳体_35",
+      "source_material": "REF 材质_26",
+      "linear_rgba": [
+        0.09989872574806213,
+        0.11697066575288773,
+        0.13286831974983215,
+        1.0
+      ]
+    },
+    {
+      "part_id": 24,
+      "source_reference": "下颌_43",
+      "source_material": "REF 材质_38",
+      "linear_rgba": [
+        0.9559733271598816,
+        0.4677838087081909,
+        0.0003035269910469651,
+        1.0
+      ]
+    },
+    {
+      "part_id": 25,
+      "source_reference": "头盖_38",
+      "source_material": "REF 材质_31",
+      "linear_rgba": [
+        0.7912979125976562,
+        0.7912979125976562,
+        0.7912979125976562,
+        1.0
+      ]
+    },
+    {
+      "part_id": 26,
+      "source_reference": "头部底壳_44",
+      "source_material": "REF 材质_39",
+      "linear_rgba": [
+        0.9559733271598816,
+        0.4677838087081909,
+        0.0003035269910469651,
+        1.0
+      ]
+    },
+    {
+      "part_id": 27,
+      "source_reference": "眼部外饰件_42",
+      "source_material": "REF 材质_37",
+      "linear_rgba": [
+        0.05612849071621895,
+        0.06480326503515244,
+        0.07421357184648514,
+        1.0
+      ]
+    },
+    {
+      "part_id": 28,
+      "source_reference": "左躯干外壳_05",
+      "source_material": "REF 材质_108",
+      "linear_rgba": [
+        0.6038273572921753,
+        0.6038273572921753,
+        0.6038273572921753,
+        1.0
+      ]
+    },
+    {
+      "part_id": 29,
+      "source_reference": "右躯干外壳_01",
+      "source_material": "REF 材质_100",
+      "linear_rgba": [
+        0.6038273572921753,
+        0.6038273572921753,
+        0.6038273572921753,
+        1.0
+      ]
+    },
+    {
+      "part_id": 31,
+      "source_reference": "电池仓_M2.5螺丝_HUB组合.stl",
+      "source_material": "REF 材质_110",
+      "linear_rgba": [
+        0.5520114302635193,
+        0.5840784311294556,
+        0.577580451965332,
+        1.0
+      ]
+    },
+    {
+      "part_id": 32,
+      "source_reference": "PRINT · 头部集成盖_兼容hat插口",
+      "source_material": "PRINT 附加版本",
+      "linear_rgba": [
+        0.800000011920929,
+        0.41999998688697815,
+        0.07000000029802322,
+        1.0
+      ]
+    }
+  ],
+  "render_result_is_builtin": true
+}

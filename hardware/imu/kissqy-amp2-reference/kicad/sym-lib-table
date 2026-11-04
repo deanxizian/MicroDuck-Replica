@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "ProPrj_imu_to_dxl_RevA_V1_2026-10-15-import-syms") (type "KiCad") (uri "${KIPRJMOD}/ProPrj_imu_to_dxl_RevA_V1_2026-10-15-import-syms.kicad_sym") (options "kicad_import_cache=1") (descr ""))
+)

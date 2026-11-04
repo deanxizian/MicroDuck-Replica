@@ -1,0 +1,567 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "d1dab84c-7f41-48d0-83bb-10dfe55a9556")
+	(paper "A4")
+	(lib_symbols
+		(symbol "microduck:banana_1p"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "microduck:banana_pin"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "banana_1p_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.7961)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "banana_1p_1_1"
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "microduck:pad-2"
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "microduck:pad-2(surf)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "pad-2_0_1"
+				(rectangle
+					(start -6.35 2.54)
+					(end 0 -2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "pad-2_1_1"
+				(pin passive line
+					(at 2.54 1.27 180)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -1.27 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	
+        
+  
+
+
+
+
+
+
+
+
+(symbol "microduck:Polyfuse_Horizontal"
+      (pin_numbers hide) (pin_names (offset 0) hide)
+      (exclude_from_sim no) (in_bom yes) (on_board yes)
+      (property "Reference" "F" (at 0 6.985 0) (effects (font (size 1.27 1.27))))
+      (property "Value" "Polyfuse_Horizontal" (at 0 4.445 0) (effects (font (size 1.27 1.27))))
+      (property "Footprint" "microduck:PPTC_Littelfuse_2920L" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+      (property "Datasheet" "https://www.littelfuse.com/assetdocs/resettable-ptcs-2920l-datasheet?assetguid=f237e8c2-1ed9-4c13-a738-dbe0738b3d2c" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+      (property "Description" "Resettable polymeric positive temperature coefficient fuse" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+      (symbol "Polyfuse_Horizontal_0_1"
+        (rectangle (start -2.54 -0.762) (end 2.54 0.762) (stroke (width 0.254) (type default)) (fill (type none)))
+        (polyline (pts (xy -2.54 -1.524) (xy -1.524 -1.524) (xy 1.524 1.524) (xy 2.54 1.524)) (stroke (width 0) (type default)) (fill (type none)))
+        (polyline (pts (xy -2.54 0) (xy 2.54 0)) (stroke (width 0) (type default)) (fill (type none))))
+      (symbol "Polyfuse_Horizontal_1_1"
+        (pin passive line (at -3.81 0 0) (length 1.27) (name "" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
+        (pin passive line (at 3.81 0 180) (length 1.27) (name "" (effects (font (size 1.27 1.27)))) (number "2" (effects (font (size 1.27 1.27)))))))
+)
+	
+	
+	
+	
+	(symbol
+		(lib_id "microduck:pad-2")
+		(at 154.940000 90.170000 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "227a7e6e-d3e4-476b-b456-9d70ce17d689")
+		(property "Reference" "J3"
+			(at 158.115000 82.550000 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "POWER_OUT"
+			(at 158.115000 85.090000 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "microduck:pad-2(surf)"
+			(at 154.940000 90.170000 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 154.940000 90.170000 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Bare solder pads: 1 = fused battery positive through F1; 2 = direct battery negative. No connector part."
+			(at 154.940000 90.170000 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "be9cdc0f-6d41-4ba8-94ea-dc475c84154e")
+		)
+		(pin "1"
+			(uuid "b67e0c5e-7a2b-4487-a8f7-d7f9a1031d22")
+		)
+		(instances
+			(project "banana_pptc"
+				(path "/d1dab84c-7f41-48d0-83bb-10dfe55a9556"
+					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "microduck:banana_1p")
+		(at 101.600000 96.520000 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e2b05e65-b56d-4ff0-8583-6c634730b4fa")
+		(property "Reference" "J2"
+			(at 101.600000 90.170000 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BAT-"
+			(at 101.600000 92.710000 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "microduck:banana_pin"
+			(at 101.600000 96.520000 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 101.600000 96.520000 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "2.5 mm banana contact; upstream suggests U6068, 13 mm total length, 1.5 mm tail diameter. Tail length and mounting shoulder require physical verification."
+			(at 101.600000 96.520000 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ea886eba-16b4-41d3-9065-26a964ddfebf")
+		)
+		(instances
+			(project "banana_pptc"
+				(path "/d1dab84c-7f41-48d0-83bb-10dfe55a9556"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "microduck:banana_1p")
+		(at 101.600000 82.550000 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f953bce4-d592-4809-9c3c-2b55e770cdc5")
+		(property "Reference" "J1"
+			(at 101.600000 76.200000 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BAT+"
+			(at 101.600000 78.740000 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "microduck:banana_pin"
+			(at 101.600000 82.550000 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 101.600000 82.550000 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "2.5 mm banana contact; upstream suggests U6068, 13 mm total length, 1.5 mm tail diameter. Tail length and mounting shoulder require physical verification."
+			(at 101.600000 82.550000 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2944cf7c-4035-47fd-ae5c-2eb27582f815")
+		)
+		(instances
+			(project "banana_pptc"
+				(path "/d1dab84c-7f41-48d0-83bb-10dfe55a9556"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	  (symbol (lib_id "microduck:Polyfuse_Horizontal") (at 127 82.55 0) (unit 1)
+    (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced yes)
+    (uuid "3ba8e53f-d525-4223-b1d6-796d9fe0fd99")
+    (property "Reference" "F1" (at 127 75.565 0) (effects (font (size 1.27 1.27)) ))
+    (property "Value" "7A hold / 12V" (at 127 78.105 0) (effects (font (size 1.27 1.27)) ))
+    (property "Footprint" "microduck:PPTC_Littelfuse_2920L" (at 127.000000 82.550000 0) (effects (font (size 1.27 1.27)) (hide yes)))
+    (property "Datasheet" "https://www.littelfuse.com/assetdocs/resettable-ptcs-2920l-datasheet?assetguid=f237e8c2-1ed9-4c13-a738-dbe0738b3d2c" (at 127.000000 82.550000 0) (effects (font (size 1.27 1.27)) (hide yes)))
+    (property "Description" "PPTC prototype selection: Littelfuse 2920L700/12MR; Ihold 7 A, Itrip 14 A at 20 C; Vmax 12 V; application current, thermal and fault tests pending." (at 127.000000 82.550000 0) (effects (font (size 1.27 1.27)) (hide yes)))
+    (pin "1" (uuid "35686636-8efe-4a31-9ef7-c63e270c619a"))
+    (pin "2" (uuid "94bc683c-580b-443d-8b21-1964a5d32778"))
+    (instances
+      (project "banana_pptc"
+        (path "/d1dab84c-7f41-48d0-83bb-10dfe55a9556"
+          (reference "F1")
+          (unit 1)
+        )
+      )
+    )
+  )
+  (sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(title_block (title "MicroDuck Banana - positive-side PPTC prototype") (date "2026-11-03") (rev "0.5-PPTC") (comment 1 "Based on jyg9 banana_pcb 0.2; CERN-OHL-P v2"))
+(wire (pts (xy 105.41 82.55) (xy 123.19 82.55)) (stroke (width 0) (type default)) (uuid "795f70b7-e6cb-5683-8493-45df02ece048"))
+(wire (pts (xy 130.81 82.55) (xy 142.24 82.55)) (stroke (width 0) (type default)) (uuid "2bebe2f8-dbea-5b24-958e-1f775a8cf3fa"))
+(wire (pts (xy 142.24 82.55) (xy 142.24 88.9)) (stroke (width 0) (type default)) (uuid "378f318d-bd8b-568b-a078-e3fd22a203ac"))
+(wire (pts (xy 142.24 88.9) (xy 152.4 88.9)) (stroke (width 0) (type default)) (uuid "4f67e07d-706b-5ae2-8642-70ab8d920e35"))
+(wire (pts (xy 105.41 96.52) (xy 142.24 96.52)) (stroke (width 0) (type default)) (uuid "22597481-99fe-5046-9f56-1364432d47ba"))
+(wire (pts (xy 142.24 96.52) (xy 142.24 91.44)) (stroke (width 0) (type default)) (uuid "b929d255-7eea-552a-9a8c-712a828200c1"))
+(wire (pts (xy 142.24 91.44) (xy 152.4 91.44)) (stroke (width 0) (type default)) (uuid "7007a616-71b4-59c7-b906-6e8cf66f0b26"))
+(label "BATT_POS" (at 107.95 82.55 0) (effects (font (size 1 1)) (justify left bottom)) (uuid "28dceb06-6da9-562a-81d1-826e5b5cc755"))
+(label "VOUT_FUSED" (at 132.08 82.55 0) (effects (font (size 1 1)) (justify left bottom)) (uuid "20f85188-c97d-5b49-8278-6129064dfdac"))
+(label "BATT_NEG" (at 107.95 96.52 0) (effects (font (size 1 1)) (justify left bottom)) (uuid "2b208108-a98d-5cf3-b568-813844e185b0"))
+(text "MicroDuck NP-F550 Banana PCB + PPTC" (at 90 59 0) (effects (font (size 2 2)) (justify left)) (uuid "b7762f91-c69c-5a9d-b78a-f994a0d3cbc7"))
+(text "0.5-PPTC / positive-side fuse / right wire exit / prototype" (at 90 65 0) (effects (font (size 1.2 1.2)) (justify left)) (uuid "e5d5de06-3c11-5afb-ad88-acfdb7ab8917"))
+(text "J1 -> F1.1/F1.2 -> J3.1 -> HUB CN1.2 (VIN+)\nJ2 -------------> J3.2 -> HUB CN1.1 (GND-)" (at 90 108 0) (effects (font (size 1.15 1.15)) (justify left)) (uuid "77e9bfd2-a787-5026-a19c-a211b6ff7a61"))
+(text "F1 reference: Littelfuse 2920L700/12MR, 2920 package.\nIhold 7 A / Itrip 14 A at 20 C; Vmax 12 V. 7 A is NOT an instant cutoff.\nCheck motor startup, warm hold current and fault heating on the actual robot." (at 90 119 0) (effects (font (size 1.1 1.1)) (justify left)) (uuid "dc5aa2da-7d6a-5728-aa8a-4a40783accfd"))
+(text "Board 39.19 x 6.79 x 1.6 mm; 1 oz copper each side.\nF1 on LEFT; J3 moved 8 mm RIGHT to the revised holder notch.\nJ3.1 LEFT fused positive / J3.2 RIGHT direct battery negative." (at 90 135 0) (effects (font (size 1.1 1.1)) (justify left)) (uuid "98ceb26b-f0a6-5217-8c98-2fd9dc2f82d3"))
+(text "The PPTC limits current when hot; clear the fault and disconnect power to reset.\nNot a substitute for battery protection or individual servo protection.\n3D fuse is a reference maximum-envelope model; actual substitute and cable fit unverified." (at 90 151 0) (effects (font (size 1.1 1.1)) (justify left)) (uuid "0f8e3d10-4156-553e-b42b-07086c988ab0"))
+(text "Original outline/contact design: jyg9/microduck-community-kit, CERN-OHL-P v2.\n2026-11-03: three direct 3 mm front tracks; no back tracks; no vias." (at 90 168 0) (effects (font (size 1.05 1.05)) (justify left)) (uuid "70ee1752-c188-5911-89f1-d964a82d47d9"))
+)

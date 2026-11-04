@@ -1,0 +1,52 @@
+{
+  "source": "../../ProPrj_HAT_REVA_SCH_2026-10-15.epro2",
+  "source_git_blob": "21e1d3ad829b4a5dcc0477ee80bbe1a763f694b1",
+  "source_component_count": 86,
+  "pcb_component_count": 86,
+  "pcb_total_footprints_including_standalone_pads": 90,
+  "compared_component_pin_net_assignments": 285,
+  "pin_net_differences": [],
+  "component_position_tolerance_mm": 0.001,
+  "component_position_differences": [],
+  "restored_embedded_ground_vias_verified": 5,
+  "schematic_component_references_match_pcb": true,
+  "schematic_extra_symbol": "Drawing-Symbol_A4 (Reference ?), imported source drawing frame",
+  "tracks": 457,
+  "vias": 35,
+  "zones": 2,
+  "connector_pin_nets": {
+    "J1": {
+      "1": "SPK_R_P",
+      "2": "SPK_R_N"
+    },
+    "J2": {
+      "1": "GND",
+      "2": "MIC_EXT_L_BIAS"
+    },
+    "J5": {
+      "0": "GND",
+      "1": "GND",
+      "2": "3V3",
+      "3": "GPIO02_I2C_SDA",
+      "4": "GPIO03_I2C_SCL"
+    },
+    "J9": {
+      "1": "GND",
+      "2": "MIC_EXT_R_BIAS"
+    },
+    "J13": {
+      "1": "GND",
+      "2": "BATT_IN",
+      "3": "DXL_DATA"
+    },
+    "J14": {
+      "1": "GND",
+      "2": "BATT_IN",
+      "3": "DXL_DATA"
+    }
+  },
+  "limitations": [
+    "Electrical rule checks, full design-rule checks and production qualification were not performed.",
+    "Restored footprint-contained vias are board-level vias; moving U2 later requires moving these vias with it."
+  ]
+}

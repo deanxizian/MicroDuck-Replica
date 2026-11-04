@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LCSC_parts_lib")(type "KiCad")(uri "${KIPRJMOD}/libraries/LCSC_parts_lib.pretty")(options "")(descr ""))
+  (lib (name "Library_Pollen")(type "KiCad")(uri "${KIPRJMOD}/libraries/Library_Pollen.pretty")(options "")(descr ""))
+  (lib (name "HD1910")(type "KiCad")(uri "${KIPRJMOD}/libraries/HD1910.pretty")(options "")(descr ""))
+)

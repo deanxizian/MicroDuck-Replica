@@ -1,0 +1,99 @@
+{
+  "status": "UPSTREAM_IMPORT_MODEL_REFERENCES_NOT_BUNDLED",
+  "unique_models": 23,
+  "instances": 86,
+  "missing": [
+    {
+      "path": "${KIPRJMOD}/EASYEDA_MODELS/C0603_L1.6-W0.8-H0.8.step",
+      "instances": 38
+    },
+    {
+      "path": "${KIPRJMOD}/EASYEDA_MODELS/C1206_L3.2-W1.6-H1.3.step",
+      "instances": 1
+    },
+    {
+      "path": "${KIPRJMOD}/EASYEDA_MODELS/CONN-SMD_4P-L6.0-W2.9-H4.3-P1.0.step",
+      "instances": 1
+    },
+    {
+      "path": "${KIPRJMOD}/EASYEDA_MODELS/CONN-TH_A2007WV-3P.step",
+      "instances": 2
+    },
+    {
+      "path": "${KIPRJMOD}/EASYEDA_MODELS/CONN-TH_MX1.25-LI-2P.step",
+      "instances": 3
+    },
+    {
+      "path": "${KIPRJMOD}/EASYEDA_MODELS/F0603_L1.7-W0.9-H0.7.step",
+      "instances": 1
+    },
+    {
+      "path": "${KIPRJMOD}/EASYEDA_MODELS/HDR-SMD_40P-P2.54-V-F-R2-C20-S6.6_FH-00339.step",
+      "instances": 1
+    },
+    {
+      "path": "${KIPRJMOD}/EASYEDA_MODELS/HVQFN-32_L5.0-W5.0-H1.0-P0.50.step",
+      "instances": 1
+    },
+    {
+      "path": "${KIPRJMOD}/EASYEDA_MODELS/IND-SMD_L6.0-W6.0-H4.5.step",
+      "instances": 1
+    },
+    {
+      "path": "${KIPRJMOD}/EASYEDA_MODELS/L0603_L1.6-W0.8-H0.5_BEAD.step",
+      "instances": 3
+    },
+    {
+      "path": "${KIPRJMOD}/EASYEDA_MODELS/LED0603-RD.step",
+      "instances": 1
+    },
+    {
+      "path": "${KIPRJMOD}/EASYEDA_MODELS/MIC-SMD_4P-L2.8-W1.9-H1.0-P1.84-TL.step",
+      "instances": 1
+    },
+    {
+      "path": "${KIPRJMOD}/EASYEDA_MODELS/OSC-SMD_4P-L2.5-W2.0-H0.6.step",
+      "instances": 1
+    },
+    {
+      "path": "${KIPRJMOD}/EASYEDA_MODELS/R0603.step",
+      "instances": 20
+    },
+    {
+      "path": "${KIPRJMOD}/EASYEDA_MODELS/SOD-323_L1.8-W1.3-LS2.5-RD.step",
+      "instances": 1
+    },
+    {
+      "path": "${KIPRJMOD}/EASYEDA_MODELS/SOIC-16_L9.9-W3.9-H1.8-LS6.0-P1.27.step",
+      "instances": 1
+    },
+    {
+      "path": "${KIPRJMOD}/EASYEDA_MODELS/SOT-23-3L_L2.9-W1.6-H1.1-LS2.8-P0.95.step",
+      "instances": 1
+    },
+    {
+      "path": "${KIPRJMOD}/EASYEDA_MODELS/SOT-23-3P_L2.9-W1.3-H1.0-LS2.4-P0.95.step",
+      "instances": 1
+    },
+    {
+      "path": "${KIPRJMOD}/EASYEDA_MODELS/SOT-23-3_L2.9-W1.4-P1.91-LS2.6-BR.step",
+      "instances": 1
+    },
+    {
+      "path": "${KIPRJMOD}/EASYEDA_MODELS/SOT-23-5_L2.9-W1.6-H1.1-LS2.8-P0.95.step",
+      "instances": 2
+    },
+    {
+      "path": "${KIPRJMOD}/EASYEDA_MODELS/SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BL.step",
+      "instances": 1
+    },
+    {
+      "path": "${KIPRJMOD}/EASYEDA_MODELS/SOT-323_L2.0-W1.3-H1.0-LS2.1-P1.30.step",
+      "instances": 1
+    },
+    {
+      "path": "${KIPRJMOD}/EASYEDA_MODELS/TSOT-23-6_L2.9-W1.6-H1.1-LS2.8-P0.95.step",
+      "instances": 2
+    }
+  ]
+}

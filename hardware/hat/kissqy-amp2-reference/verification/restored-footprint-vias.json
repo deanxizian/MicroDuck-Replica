@@ -1,0 +1,52 @@
+[
+  {
+    "component": "U2",
+    "source_via": "e112",
+    "x_mm": 152.291,
+    "y_mm": 108.415,
+    "diameter_mm": 0.6095999999999999,
+    "drill_mm": 0.30479999999999996,
+    "net": "GND",
+    "uuid": "3d112777-b61e-5feb-8fb9-72dd9ae8ed45"
+  },
+  {
+    "component": "U2",
+    "source_via": "e113",
+    "x_mm": 151.091104,
+    "y_mm": 108.415,
+    "diameter_mm": 0.6095999999999999,
+    "drill_mm": 0.30479999999999996,
+    "net": "GND",
+    "uuid": "d412b20a-45ef-5ae7-94f9-11d9af07b0d2"
+  },
+  {
+    "component": "U2",
+    "source_via": "e114",
+    "x_mm": 152.291,
+    "y_mm": 107.215104,
+    "diameter_mm": 0.6095999999999999,
+    "drill_mm": 0.30479999999999996,
+    "net": "GND",
+    "uuid": "ea786039-ddb1-57a8-bb4b-93ecbdddbb41"
+  },
+  {
+    "component": "U2",
+    "source_via": "e115",
+    "x_mm": 153.490896,
+    "y_mm": 108.415,
+    "diameter_mm": 0.6095999999999999,
+    "drill_mm": 0.30479999999999996,
+    "net": "GND",
+    "uuid": "ad6fb9ac-7aa7-504a-a1fa-45c040fd861e"
+  },
+  {
+    "component": "U2",
+    "source_via": "e116",
+    "x_mm": 152.291,
+    "y_mm": 109.614896,
+    "diameter_mm": 0.6095999999999999,
+    "drill_mm": 0.30479999999999996,
+    "net": "GND",
+    "uuid": "8249e46e-1c13-5494-a2e3-29dff4db88a7"
+  }
+]

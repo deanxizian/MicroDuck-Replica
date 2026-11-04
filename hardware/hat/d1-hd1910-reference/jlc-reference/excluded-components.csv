@@ -1,0 +1,18 @@
+﻿Designator,Value,Reason
+C25,DNP-100n,DNP: retain original no-populate selection
+FID1,DNP Fiducial,"PCB fiducial, no purchased component"
+FID2,DNP Fiducial,"PCB fiducial, no purchased component"
+FID3,DNP Fiducial,"PCB fiducial, no purchased component"
+G1,qwiic_Logo,"Decorative graphic / logo, not a fitted component"
+H1,PCB01186,"Schematic PCB identification, not a fitted component"
+H2,Logo HF 2025,"Decorative graphic / logo, not a fitted component"
+H3,DNP Logo Pollen 2021,"Decorative graphic / logo, not a fitted component"
+R10,DNP-10k,DNP: retain original no-populate selection
+R11,DNP-10k,DNP: retain original no-populate selection
+R16,DNP-0R,DNP: retain original no-populate selection
+R17,DNP-0R,DNP: retain original no-populate selection
+R36,DNP-1M,DNP: retain original no-populate selection
+R37,DNP-1M,DNP: retain original no-populate selection
+R41,DNP-0R,DNP: retain original no-populate selection
+TP5,TestPoint,"Bare copper test pad, no purchased component"
+U4,DNP-CAT24C32HU4,DNP: retain original no-populate selection

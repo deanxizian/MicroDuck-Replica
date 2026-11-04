@@ -1,0 +1,277 @@
+[
+  {
+    "name": "CONN-TH_A2007WV-3P",
+    "lcsc": "C225336",
+    "pro_model_id": "deb6dd8d6be645a6b0b15d641ed56279|0819f05c4eef4c71ace90d822a990e87",
+    "library": "JLCEDA/EasyEDA Official Library",
+    "api_url": "https://easyeda.com/api/products/C225336/components?version=6.4.19",
+    "model_uuid": "a7aea66785064579ae35380df7c4e625",
+    "step_url": "https://modules.easyeda.com/qAxj6KHrDKw4blvCG8QJPs7Y/a7aea66785064579ae35380df7c4e625",
+    "obj_url": "https://modules.easyeda.com/3dmodel/a7aea66785064579ae35380df7c4e625",
+    "step_sha256": "5116e24843d00154c1c166bda35fc304c5ce56a6ae014ea03308b8d4c664ff8c",
+    "bbox_mm": [
+      [
+        -4.0,
+        4.0
+      ],
+      [
+        -0.18125,
+        3.41875
+      ],
+      [
+        -4.81875,
+        5.18125
+      ]
+    ]
+  },
+  {
+    "name": "R0603",
+    "lcsc": "C23140",
+    "pro_model_id": "fc143cca1e79419f9cd78b61e9279f08|0819f05c4eef4c71ace90d822a990e87",
+    "library": "JLCEDA/EasyEDA Official Library",
+    "api_url": "https://easyeda.com/api/products/C23140/components?version=6.4.19",
+    "model_uuid": "6bd5cd867e9542ebae21caaf5d2d4c4d",
+    "step_url": "https://modules.easyeda.com/qAxj6KHrDKw4blvCG8QJPs7Y/6bd5cd867e9542ebae21caaf5d2d4c4d",
+    "obj_url": "https://modules.easyeda.com/3dmodel/6bd5cd867e9542ebae21caaf5d2d4c4d",
+    "step_sha256": "e52f17888a8c6c2cb8d56dccf25e2ed131a12a241311657622543c405e42826c",
+    "bbox_mm": [
+      [
+        -0.41,
+        0.4
+      ],
+      [
+        -0.81,
+        0.81
+      ],
+      [
+        -0.01,
+        0.44
+      ]
+    ]
+  },
+  {
+    "name": "SOT-23-5_L2.9-W1.6-H1.1-LS2.8-P0.95",
+    "lcsc": "C94917",
+    "pro_model_id": "0a2a1b8f50944f73965918ad6e5fe167|0819f05c4eef4c71ace90d822a990e87",
+    "library": "JLCEDA/EasyEDA Official Library",
+    "api_url": "https://easyeda.com/api/products/C94917/components?version=6.4.19",
+    "model_uuid": "460193f9bf2d42e58cf3c2f675b07dc6",
+    "step_url": "https://modules.easyeda.com/qAxj6KHrDKw4blvCG8QJPs7Y/460193f9bf2d42e58cf3c2f675b07dc6",
+    "obj_url": "https://modules.easyeda.com/3dmodel/460193f9bf2d42e58cf3c2f675b07dc6",
+    "step_sha256": "428abdfbc472055993422a992aaa8df42fe862d74021d8cd7cbee9d7277f41b1",
+    "bbox_mm": [
+      [
+        -1.506278,
+        1.506278
+      ],
+      [
+        -1.45,
+        1.45
+      ],
+      [
+        -0.049083,
+        1.2
+      ]
+    ]
+  },
+  {
+    "name": "C0805_L2.0-W1.3-H1.3",
+    "lcsc": "C1779",
+    "pro_model_id": "1ba041120af144c991958decab20d241|0819f05c4eef4c71ace90d822a990e87",
+    "library": "JLCEDA/EasyEDA Official Library",
+    "api_url": "https://easyeda.com/api/products/C1779/components?version=6.4.19",
+    "model_uuid": "b87ab0c5465a48b3a1c9a6dac8d30bc5",
+    "step_url": "https://modules.easyeda.com/qAxj6KHrDKw4blvCG8QJPs7Y/b87ab0c5465a48b3a1c9a6dac8d30bc5",
+    "obj_url": "https://modules.easyeda.com/3dmodel/b87ab0c5465a48b3a1c9a6dac8d30bc5",
+    "step_sha256": "99acc6b12df8e17000d6e7529bddac9ea44e1240f5635482742aae256f49b5df",
+    "bbox_mm": [
+      [
+        -1.0,
+        1.0
+      ],
+      [
+        -0.65,
+        0.65
+      ],
+      [
+        -0.65,
+        0.65
+      ]
+    ]
+  },
+  {
+    "name": "C0603_L1.6-W0.8-H0.8",
+    "lcsc": "C15849",
+    "pro_model_id": "ac125912035d415993ca9572d50418b1|0819f05c4eef4c71ace90d822a990e87",
+    "library": "JLCEDA/EasyEDA Official Library",
+    "api_url": "https://easyeda.com/api/products/C15849/components?version=6.4.19",
+    "model_uuid": "ac9b32e974bc448eab36b1293f859dcb",
+    "step_url": "https://modules.easyeda.com/qAxj6KHrDKw4blvCG8QJPs7Y/ac9b32e974bc448eab36b1293f859dcb",
+    "obj_url": "https://modules.easyeda.com/3dmodel/ac9b32e974bc448eab36b1293f859dcb",
+    "step_sha256": "f9918dd3888f5ca8b9c906b8cb10b9d8e335f6855513b3e235a18123ae353a78",
+    "bbox_mm": [
+      [
+        -0.8,
+        0.8
+      ],
+      [
+        -0.4,
+        0.4
+      ],
+      [
+        -0.4,
+        0.4
+      ]
+    ]
+  },
+  {
+    "name": "TSSOP-20_L6.5-W4.4-H1.0-LS6.4-P0.65",
+    "lcsc": "C529334",
+    "pro_model_id": "c491f68934b34c649df5890a1d97cd0f|0819f05c4eef4c71ace90d822a990e87",
+    "library": "JLCEDA/EasyEDA Official Library",
+    "api_url": "https://easyeda.com/api/products/C529334/components?version=6.4.19",
+    "model_uuid": "f8ba5b4174b9490d8c445fbe2ed40b80",
+    "step_url": "https://modules.easyeda.com/qAxj6KHrDKw4blvCG8QJPs7Y/f8ba5b4174b9490d8c445fbe2ed40b80",
+    "obj_url": "https://modules.easyeda.com/3dmodel/f8ba5b4174b9490d8c445fbe2ed40b80",
+    "step_sha256": "a5e7eefa7f0245d8cfd2f80a92974768a8369a4ad184fe612e8379d22c4c5dca",
+    "bbox_mm": [
+      [
+        -3.20279,
+        3.20279
+      ],
+      [
+        -3.25,
+        3.25
+      ],
+      [
+        -0.019205,
+        1.03
+      ]
+    ]
+  },
+  {
+    "name": "HDR-TH_5P-P2.54-M-LI-1X5P",
+    "lcsc": "C492404",
+    "pro_model_id": "47d466e4a34f4fc5bc626cf773a24dd5|0819f05c4eef4c71ace90d822a990e87",
+    "library": "JLCEDA/EasyEDA Official Library",
+    "api_url": "https://easyeda.com/api/products/C492404/components?version=6.4.19",
+    "model_uuid": "6331f645d89e4b919bdba0cb4f3544ce",
+    "step_url": "https://modules.easyeda.com/qAxj6KHrDKw4blvCG8QJPs7Y/6331f645d89e4b919bdba0cb4f3544ce",
+    "obj_url": "https://modules.easyeda.com/3dmodel/6331f645d89e4b919bdba0cb4f3544ce",
+    "step_sha256": "73e08cb77c73909d7a22a844b0e2b72731a4831b9b2626cfc691730514f9f63f",
+    "bbox_mm": [
+      [
+        -6.35,
+        6.35
+      ],
+      [
+        -1.27,
+        1.27
+      ],
+      [
+        -3.0,
+        8.54
+      ]
+    ]
+  },
+  {
+    "name": "LED0603-RD",
+    "lcsc": "C72043",
+    "pro_model_id": "1f0d29a91be547639d425604e9b96ebb|0819f05c4eef4c71ace90d822a990e87",
+    "library": "JLCEDA/EasyEDA Official Library",
+    "api_url": "https://easyeda.com/api/products/C72043/components?version=6.4.19",
+    "model_uuid": "3c2caa1a3e7d4a5a87f46b87d898ef41",
+    "step_url": "https://modules.easyeda.com/qAxj6KHrDKw4blvCG8QJPs7Y/3c2caa1a3e7d4a5a87f46b87d898ef41",
+    "obj_url": "https://modules.easyeda.com/3dmodel/3c2caa1a3e7d4a5a87f46b87d898ef41",
+    "step_sha256": "e859d1f709b2460cc373dac1da175c8c2d9e3ff67763451e9b881eb3346f407a",
+    "bbox_mm": [
+      [
+        -0.81,
+        0.81
+      ],
+      [
+        -0.41,
+        0.41
+      ],
+      [
+        -0.01,
+        0.55
+      ]
+    ]
+  },
+  {
+    "name": "US-8_L2.0-W2.3-H0.9-LS3.1-P0.50",
+    "lcsc": "C21404",
+    "pro_model_id": "263382641c5b4ff3a87f82a73a2b65fc|0819f05c4eef4c71ace90d822a990e87",
+    "library": "JLCEDA/EasyEDA Official Library",
+    "api_url": "https://easyeda.com/api/products/C21404/components?version=6.4.19",
+    "model_uuid": "49b0213b4b994294a133f584e9799a83",
+    "step_url": "https://modules.easyeda.com/qAxj6KHrDKw4blvCG8QJPs7Y/49b0213b4b994294a133f584e9799a83",
+    "obj_url": "https://modules.easyeda.com/3dmodel/49b0213b4b994294a133f584e9799a83",
+    "step_sha256": "e48beb18621a3b7b739126c1f7d71448615d8a1bf2a9e1b14f758127b774e802",
+    "bbox_mm": [
+      [
+        -1.65279,
+        1.65279
+      ],
+      [
+        -1.0,
+        1.0
+      ],
+      [
+        0.000795,
+        1.0
+      ]
+    ]
+  },
+  {
+    "name": "SOD-323_L1.7-W1.3-LS2.7-BI",
+    "lcsc": "C330094",
+    "pro_model_id": "dd567d373db645b3a267ff184369a271|0819f05c4eef4c71ace90d822a990e87",
+    "library": "JLCEDA/EasyEDA Official Library",
+    "api_url": "https://easyeda.com/api/products/C330094/components?version=6.4.19",
+    "model_uuid": "061e0bf2548b43fcbce24371d75e976d",
+    "step_url": "https://modules.easyeda.com/qAxj6KHrDKw4blvCG8QJPs7Y/061e0bf2548b43fcbce24371d75e976d",
+    "obj_url": "https://modules.easyeda.com/3dmodel/061e0bf2548b43fcbce24371d75e976d",
+    "step_sha256": "abfd31d07ff533e1bba8d20b9a6fa6ebeae3374ecd50e28c1d3084c801d0a8e8",
+    "bbox_mm": [
+      [
+        -1.3,
+        1.3
+      ],
+      [
+        -0.6375,
+        0.6375
+      ],
+      [
+        -0.62,
+        0.5
+      ]
+    ]
+  },
+  {
+    "name": "LGA-14_L3.0-W2.5-P0.50-BR",
+    "lcsc": "C5267406",
+    "pro_model_id": "64f32784a16f466f897e9e56b6bbdf45|0819f05c4eef4c71ace90d822a990e87",
+    "library": "JLCEDA/EasyEDA Official Library",
+    "api_url": "https://easyeda.com/api/products/C5267406/components?version=6.4.19",
+    "model_uuid": "1e27b85210a0453eb361fa5def23f788",
+    "step_url": "https://modules.easyeda.com/qAxj6KHrDKw4blvCG8QJPs7Y/1e27b85210a0453eb361fa5def23f788",
+    "obj_url": "https://modules.easyeda.com/3dmodel/1e27b85210a0453eb361fa5def23f788",
+    "step_sha256": "d3fe1fdbb4892058ee0c127242297d38d1cf24a405634b2196f446cd75e86831",
+    "bbox_mm": [
+      [
+        -1.5,
+        1.5
+      ],
+      [
+        -1.25,
+        1.25
+      ],
+      [
+        -0.21,
+        0.66
+      ]
+    ]
+  }
+]
