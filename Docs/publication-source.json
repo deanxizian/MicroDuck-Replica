@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-04",
+  "name": "MicroDuck-Replica",
+  "upstream": "https://github.com/kissqy/Microduck-kissqy",
+  "upstream_commit": "f6497beb2f4511117f789b885f521c580e5ba490",
+  "assembly_input_sha256": "7450a22a66f05ddee20881979cbea33f2a6d36c522729f70b724054cd0a268fb",
+  "structure_revision": "20261104_v3.1",
+  "print_part_count": 29,
+  "stl_platform_rechecked_ids": [
+    9,
+    22,
+    25,
+    26,
+    28,
+    29,
+    31
+  ],
+  "step_status": "REFERENCE_ONLY_NOT_APPROVED_FOR_JLC_PRINTING",
+  "battery_revision": "TNP-F550-GN / 2026-11-04"
+}

@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-04",
+  "scope": "Battery reference only; no printed geometry or manufactured files changed",
+  "previous_working_assembly_sha256": "4548b27a0680cc49a54e824a1d8a9a80bdcd28cf97c9eb29ce833700cbc77acc",
+  "updated_working_assembly_sha256": "7450a22a66f05ddee20881979cbea33f2a6d36c522729f70b724054cd0a268fb",
+  "manufacturer_reference": "Peripherals/Battery/Tilta-NP-F550-manual.pdf",
+  "model": {
+    "brand": "Tilta",
+    "sku": "TNP-F550-GN",
+    "color": "green",
+    "nominal_capacity_mAh": 3500,
+    "rated_capacity_mAh": 3300,
+    "nominal_voltage_V": 7.27,
+    "mass_g": 108,
+    "envelope_L_W_H_mm": [
+      70.6,
+      38.6,
+      20.5
+    ],
+    "dimensions_exclude_protective_cover": true,
+    "body_reference_bounds_mm": [
+      [
+        -19.3,
+        29.15,
+        4.75
+      ],
+      [
+        19.3,
+        49.65,
+        75.35
+      ]
+    ],
+    "body_mesh_watertight": true,
+    "body_mesh_winding_consistent": true,
+    "cad_valid_single_solid": true,
+    "mesh_vertices": 13950,
+    "mesh_triangles": 27896,
+    "reference_contact_centres_x_mm": [
+      -16.9,
+      16.9
+    ],
+    "contact_end_z_mm": 75.35,
+    "mount_plane_y_mm": 29.15,
+    "unverified": [
+      "curvature and groove dimensions estimated from photographs",
+      "mounting grooves, latch, socket depth and contact polarity inherited; not measured",
+      "colour is approximate; physical fit not validated"
+    ],
+    "source_url": "https://tilta.com/shop/tilta-np-f550-battery-3500mah-green/"
+  },
+  "three_assemblies_reopened": true,
+  "non_battery_objects_preserved_in_each": 470,
+  "objects": 476,
+  "mesh_objects": 466,
+  "print_parts_unchanged": 29,
+  "contact_sockets_geometry_and_transforms_preserved": true,
+  "same_battery_geometry_in_all_variants": true,
+  "saved_body_mesh": {
+    "watertight": true,
+    "winding_consistent": true,
+    "volume_mm3": 52563.977515404615,
+    "components": 1
+  },
+  "static_check": {
+    "method": "Triangle-mesh solid intersections using manifold3d; body against the five listed neighbours at current assembled pose",
+    "results": [
+      {
+        "name": "28 · 左壳",
+        "overlap_mm3": 0.0013585508143479825,
+        "intersection_bounds_mm": [
+          [
+            18.52716636657715,
+            41.65496063232422,
+            75.33129119873047
+          ],
+          [
+            19.0628662109375,
+            42.345985412597656,
+            75.3499984741211
+          ]
+        ]
+      },
+      {
+        "name": "29 · 右壳",
+        "overlap_mm3": 0,
+        "intersection_bounds_mm": null
+      },
+      {
+        "name": "31 · 电池仓",
+        "overlap_mm3": 0,
+        "intersection_bounds_mm": null
+      },
+      {
+        "name": "Banana · 05 · Gold_contact_reference",
+        "overlap_mm3": 0,
+        "intersection_bounds_mm": null
+      },
+      {
+        "name": "Banana · 06 · Gold_contact_reference",
+        "overlap_mm3": 0,
+        "intersection_bounds_mm": null
+      }
+    ],
+    "largest_intersection_z_span_mm": 0.018707,
+    "limitations": "Approximately 0.02 mm sliver at left shell. Not a minimum-clearance or insertion-path test. Undimensioned interface features and manufacturing tolerance need physical measurement."
+  }
+}
