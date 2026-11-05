@@ -17,12 +17,6 @@
     "product_url": "https://tilta.com/shop/tilta-np-f550-battery-3500mah-green/"
   },
   {
-    "file": "Battery/FB-NP-F550-B.pdf",
-    "source": "沣标规格书，M5Stack 托管；仅为旧模型来源，当前选型已改为铁头",
-    "sha256": "8de55e795d96c41b6dfa30c3186c42903e1ea4fb3fbd69eeab202ce83dc19b5e",
-    "url": "https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1132/M144_Module_Audio_battery_Spec.pdf"
-  },
-  {
     "file": "Servo/FEETECH-HD-1910-C001-20260907.pdf",
     "source": "飞特规格书，社区托管副本",
     "sha256": "aafd3b6a03f4902f74164bf49091d88c01418b12ddf7d5f8118cbc763f03f9a9",

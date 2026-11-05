@@ -1,12 +1,14 @@
 {
-  "status": "SEVEN_WARNED_STL_PARTS_PASSED_JLC_MESH_RECHECK",
-  "revision": "20261104_v3.1_平台复检",
+  "status": "LOCAL_MESH_CHECKS_PASSED_REVISED23_27_ORDERED_PLATFORM_DETAILS_NOT_ARCHIVED",
+  "revision": "20261106_v3.6_镜头保护后移2mm",
   "units": "mm",
   "quantity_each": 1,
   "part_count": 29,
   "source": {
-    "assembly_source_sha256": "4548b27a0680cc49a54e824a1d8a9a80bdcd28cf97c9eb29ce833700cbc77acc",
-    "date": "2026-11-04"
+    "assembly_source_sha256": "a50a5fedcf9b1ad123ad60eb2b480822c9c1e65ca70fc4cfd5312e97515744b5",
+    "date": "2026-11-06",
+    "geometry_source_sha256": "9fadce3aca6b1f332a7d19d81f27e4a469b6c3c2776bcd8b47b938b7efe4f603",
+    "appearance_note": "PCB and adhesive colors updated; geometry unchanged"
   },
   "parts": [
     {
@@ -377,21 +379,32 @@
     },
     {
       "part_id": 23,
-      "file": "02_JLCBlack_黑色_3件/23_脸板_IMX219孔距21x13.5_Zero柱下移1.5_JLCBlack_黑色.stl",
+      "file": "02_JLCBlack_黑色_3件/23_脸板_相机柱6.3_ToF横装等高_JLCBlack_黑色.stl",
       "material": "JLC Black",
       "color": "黑色",
       "quantity": 1,
-      "triangles": 12556,
+      "triangles": 14588,
       "dimensions_mm": [
         87.65070343017578,
         13.299999237060547,
         44.626484632492065
       ],
-      "sha256": "bb9077af76dda081c0844e0352734a5a0d5460f8f489a31f857132020088f20b",
-      "source_object": "23号脸板 · IMX219160参考孔距21x13.5 · 柱高6mm",
-      "geometry_sha256": "bcd0fa373252aba4f41f6a68abd0ad1a2c3ae245de522b3d9277b379fea995c0",
+      "sha256": "2d595e20a66e6f5fa1eb9439d57f48992012117981d6b3782a89d761e1d45efa",
+      "source_object": "23 · 脸板",
+      "geometry_sha256": "b41215b2a35ed6be3c9512bb369b0a91e60edab7d997ee352eac6c8988dcbc8e",
       "changed_in_v3_1": false,
-      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+      "jlc_mesh_recheck": "ORDERED_PLATFORM_RECHECK_DETAILS_NOT_ARCHIVED",
+      "changed_in_20261105": true,
+      "revision": "20261106_v3.6_镜头保护后移2mm",
+      "purchase": {
+        "date": "2026-11-06",
+        "quantity": 1,
+        "unit_price_cny": 6.54,
+        "material": "JLC Black SLA光敏树脂（国产）",
+        "color": "黑色",
+        "surface_finish": "打磨-粗磨",
+        "evidence": "order screenshot; not a platform mesh inspection report"
+      }
     },
     {
       "part_id": 24,
@@ -455,7 +468,7 @@
     },
     {
       "part_id": 27,
-      "file": "02_JLCBlack_黑色_3件/27_眼睛_JLCBlack_黑色.stl",
+      "file": "02_JLCBlack_黑色_3件/27_眼睛_厚6mm_JLCBlack_黑色.stl",
       "material": "JLC Black",
       "color": "黑色",
       "quantity": 1,
@@ -463,13 +476,23 @@
       "dimensions_mm": [
         30.000001907348633,
         30.000001907348633,
-        8.0
+        6.0
       ],
-      "sha256": "c7c9b77c79e4b39d8b414b4e911a42908430a3883d285285f065862f72395b84",
+      "sha256": "3934024f83cb47db5aaab77db8b51d5b54989ae63bcecf9d99552a8865750b54",
       "source_object": "吊装候选 · STL · 眼睛",
-      "geometry_sha256": "7ee5cad8c0fde81c9726ce3ac0f1440a4f836ee7b8f7aa23a372299bf18b3874",
+      "geometry_sha256": "f2a3f9c35a1e318b61eb8252c4304968854f2844b2e41d8ec444e50989b2bc8d",
       "changed_in_v3_1": false,
-      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+      "jlc_mesh_recheck": "ORDERED_PLATFORM_RECHECK_DETAILS_NOT_ARCHIVED",
+      "revision": "20261106_v3.6_镜头保护后移2mm",
+      "purchase": {
+        "date": "2026-11-06",
+        "quantity": 1,
+        "unit_price_cny": 5.48,
+        "material": "JLC Black SLA光敏树脂（国产）",
+        "color": "黑色",
+        "surface_finish": "打磨-粗磨",
+        "evidence": "order screenshot; not a platform mesh inspection report"
+      }
     },
     {
       "part_id": 28,
@@ -565,17 +588,17 @@
     30
   ],
   "changed_from_previous_release": [
-    13,
-    14,
-    28,
-    29
+    23,
+    27
   ],
-  "unchanged_stl_files": 22,
+  "unchanged_stl_files": 27,
   "changed_from_v2": [
     9,
     22,
+    23,
     25,
     26,
+    27,
     28,
     29,
     31
@@ -593,6 +616,19 @@
     25,
     26
   ],
-  "wall_thickness_design_changed": false,
-  "new_full_motion_test": false
+  "wall_thickness_design_changed": true,
+  "new_full_motion_test": false,
+  "previous_stl_release_revision": "20261106_v3.5_ToF横装等高",
+  "wall_thickness_changes": {
+    "23": "ToF blind floors0.3->1.3 mm; camera floors1.4 mm; main1.3 mm skin retained"
+  },
+  "unresolved_thin_feature_ids": [
+    6,
+    7,
+    8,
+    13,
+    14,
+    31
+  ],
+  "latest_change": "Part23 camera posts4.3to6.3mm; whole camera retracted2mm. Part27 front thickness8to6mm. ToF and remaining27 print files unchanged."
 }

@@ -9,5 +9,3 @@
 静态模型与电池仓、取电针无实体重叠；左壳边缘局部重叠约 0.02 mm，卡紧程度待实装确认。详见[检查记录](../../Structure/Verification/battery-update.json)。
 
 ![铁头电池装配参考](assembly-preview.png)
-
-[沣标规格书](FB-NP-F550-B.pdf) 仅保留作旧模型来源，不再作为当前选型依据。
