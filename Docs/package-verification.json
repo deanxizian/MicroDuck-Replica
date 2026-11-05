@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-06",
   "stl_files": 29,
   "blender_files": 2,
   "kicad_projects": 4,
@@ -8,7 +8,30 @@
   "missing_3d_reference_note": "kissqy AMP2 HAT importer references 23 STEP models not included upstream; recorded separately, independent of complete Blender D1 HAT assembly",
   "sha256_manifest": "SHA256SUMS",
   "step_files": 29,
-  "peripheral_reference_files": 10,
-  "non_battery_assembly_unchanged": true,
-  "battery_updated": true
+  "peripheral_reference_files": 9,
+  "battery_updated": true,
+  "camera_face_updated": true,
+  "latest_assembly_verification": "Structure/Verification/camera-protection-update.json",
+  "structure_revision": "20261106_v3.6_镜头保护后移2mm",
+  "reordered_print_part_ids": [
+    23,
+    27
+  ],
+  "appearance_verification": "Structure/Verification/assembly-colors-update.json",
+  "release_checks": {
+    "stl_sha_and_mesh_checks": 29,
+    "step_sha_and_STL_source_checks": 29,
+    "changed_print_part_ids": [
+      23,
+      27
+    ],
+    "unchanged_print_parts": 27,
+    "blender_reopened_variants": 2,
+    "same_variant_geometry": true,
+    "colors_verified_after_reopen": true,
+    "peripheral_source_hashes": 9,
+    "valid_local_markdown_links": 174,
+    "BOM_goods_total_cny": "3699.64",
+    "result": "PASS"
+  }
 }

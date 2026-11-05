@@ -3,8 +3,10 @@
   "part_count": 29,
   "units": "mm",
   "source": {
-    "assembly_source_sha256": "4548b27a0680cc49a54e824a1d8a9a80bdcd28cf97c9eb29ce833700cbc77acc",
-    "date": "2026-11-04"
+    "assembly_source_sha256": "a50a5fedcf9b1ad123ad60eb2b480822c9c1e65ca70fc4cfd5312e97515744b5",
+    "date": "2026-11-06",
+    "geometry_source_sha256": "9fadce3aca6b1f332a7d19d81f27e4a469b6c3c2776bcd8b47b938b7efe4f603",
+    "appearance_note": "PCB and adhesive colors updated; geometry unchanged"
   },
   "parts": [
     {
@@ -172,11 +174,35 @@
     },
     {
       "part_id": 23,
-      "file": "02_JLCBlack_黑色_3件/23_脸板_IMX219孔距21x13.5_Zero柱下移1.5_JLCBlack_黑色.step",
+      "file": "02_JLCBlack_黑色_3件/23_脸板_相机柱6.3_ToF横装等高_JLCBlack_黑色.step",
       "representation": "faceted_brep",
-      "sha256": "fa9d421afee59e3e7e28bb1b9399ff7f58567a8c1b230328e258365f19864517",
-      "source_stl_sha256": "bb9077af76dda081c0844e0352734a5a0d5460f8f489a31f857132020088f20b",
-      "jlc_print_status": "NOT_APPROVED_REFERENCE_ONLY"
+      "sha256": "256219e24639ac2e1cb9078d096ac90c137926c977d6a05d6363f8089cd0053c",
+      "source_stl_sha256": "2d595e20a66e6f5fa1eb9439d57f48992012117981d6b3782a89d761e1d45efa",
+      "jlc_print_status": "NOT_APPROVED_REFERENCE_ONLY",
+      "revision": "20261106_v3.6_镜头保护后移2mm",
+      "validation": {
+        "roots": 1,
+        "solids": 1,
+        "shells": 1,
+        "faces": 14588,
+        "vertices": 7286,
+        "closed_shells": true,
+        "brep_valid": true,
+        "volume_mm3": 5852.560600565942,
+        "bounds_mm": [
+          [
+            -43.82535171508789,
+            -55.500003814697266,
+            -0.7999999523162842
+          ],
+          [
+            43.82535171508789,
+            -42.20000457763672,
+            43.82648468017578
+          ]
+        ],
+        "read_seconds": 1.4
+      }
     },
     {
       "part_id": 24,
@@ -204,11 +230,35 @@
     },
     {
       "part_id": 27,
-      "file": "02_JLCBlack_黑色_3件/27_眼睛_JLCBlack_黑色.step",
+      "file": "02_JLCBlack_黑色_3件/27_眼睛_厚6mm_JLCBlack_黑色.step",
       "representation": "faceted_brep",
-      "sha256": "fc7b62793ea53ae8bf94d2b33812c2b7131615c9f6d514ecae8824e1d19c7521",
-      "source_stl_sha256": "c7c9b77c79e4b39d8b414b4e911a42908430a3883d285285f065862f72395b84",
-      "jlc_print_status": "NOT_APPROVED_REFERENCE_ONLY"
+      "sha256": "c8294956e89cb63b3aab154858ff992c685ef213a474fd3b61809afd323fbf60",
+      "source_stl_sha256": "3934024f83cb47db5aaab77db8b51d5b54989ae63bcecf9d99552a8865750b54",
+      "jlc_print_status": "NOT_APPROVED_REFERENCE_ONLY",
+      "revision": "20261106_v3.6_镜头保护后移2mm",
+      "validation": {
+        "roots": 1,
+        "solids": 1,
+        "shells": 1,
+        "faces": 2184,
+        "vertices": 1092,
+        "closed_shells": true,
+        "brep_valid": true,
+        "volume_mm3": 3133.121610005431,
+        "bounds_mm": [
+          [
+            -15.000000953674316,
+            -15.000000953674316,
+            0.0
+          ],
+          [
+            15.000000953674316,
+            15.000000953674316,
+            6.0
+          ]
+        ],
+        "read_seconds": 0.18
+      }
     },
     {
       "part_id": 28,
@@ -276,5 +326,11 @@
     31,
     32
   ],
-  "platform_test": "Initial v3 faceted STEP for seven flagged parts still produced platform mesh warnings. Final 22 v3.1 STEP has only local CAD readback validation, not platform acceptance."
+  "platform_test": "Initial v3 faceted STEP for seven flagged parts still produced platform mesh warnings. Final 22 v3.1 STEP has only local CAD readback validation, not platform acceptance.",
+  "latest_change": "2026-11-06: parts23and27 revised for camera retraction2mm; remaining27 STEP files unchanged.",
+  "initial_source": {
+    "assembly_source_sha256": "4548b27a0680cc49a54e824a1d8a9a80bdcd28cf97c9eb29ce833700cbc77acc",
+    "date": "2026-11-04"
+  },
+  "revision": "20261106_v3.6_镜头保护后移2mm"
 }

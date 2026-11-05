@@ -1,0 +1,395 @@
+{
+  "date": "2026-11-06",
+  "changed_printed_part_ids": [
+    23
+  ],
+  "other_28_STL_and_STEP_hashes_unchanged": true,
+  "camera_rotation_face_y_deg": 90,
+  "camera_rotation_axis_xz_mm": [
+    0,
+    20
+  ],
+  "camera_installed_hole_pitch_xz_mm": [
+    13.5,
+    21
+  ],
+  "camera_post_height_mm": 4.3,
+  "camera_four_hole_centers_xz_mm": [
+    [
+      -7.15,
+      30.5
+    ],
+    [
+      6.350000000000001,
+      30.5
+    ],
+    [
+      -7.15,
+      9.5
+    ],
+    [
+      6.350000000000001,
+      9.5
+    ]
+  ],
+  "ToF_orientation": "horizontal, solder-pad row below optical center; rotated180deg from original horizontal module",
+  "ToF_optical_center_xz_mm": [
+    22,
+    20
+  ],
+  "ToF_printed_hole_pitch_mm": 19.8,
+  "ToF_board_hole_pitch_mm": 20,
+  "ToF_printed_mount_centers_xz_mm": [
+    [
+      12.1,
+      18
+    ],
+    [
+      31.9,
+      18
+    ]
+  ],
+  "ToF_support_height_mm": 3,
+  "ToF_blind_hole_floor_mm": 1.3,
+  "camera_blind_hole_floor_mm": 1.4,
+  "Zero_mounts_camera_window_and_outer_contour_preserved": true,
+  "stl": "Structure/Print/STL/02_JLCBlack_黑色_3件/23_脸板_相机旋转90_ToF横装等高_孔底加厚_JLCBlack_黑色.stl",
+  "stl_sha256": "2b9640ec582fa4746d2123d2006aea5041fdfba0f55cbc1a2856a39f8a57d5f1",
+  "step": "Structure/Print/STEP/02_JLCBlack_黑色_3件/23_脸板_相机旋转90_ToF横装等高_孔底加厚_JLCBlack_黑色.step",
+  "step_sha256": "65034f49d81178d1af93f5c9ddbd4e21f6d882f38e6acf9c264fab9fd007f9dd",
+  "step_validation": {
+    "roots": 1,
+    "solids": 1,
+    "shells": 1,
+    "faces": 14588,
+    "vertices": 7286,
+    "closed_shells": true,
+    "brep_valid": true,
+    "volume_mm3": 5743.528457953776,
+    "bounds_mm": [
+      [
+        -43.82535171508789,
+        -55.500003814697266,
+        -0.7999999523162842
+      ],
+      [
+        43.82535171508789,
+        -42.20000457763672,
+        43.82648468017578
+      ]
+    ],
+    "read_seconds": 1.43
+  },
+  "mesh_checks": {
+    "vertices": 7286,
+    "triangles": 14588,
+    "watertight": true,
+    "winding_consistent": true,
+    "volume_mm3": 5743.528457953806,
+    "dimensions_mm": [
+      87.65070343017578,
+      13.299999237060547,
+      44.626484632492065
+    ],
+    "bounds_mm": [
+      [
+        -43.82535171508789,
+        -55.500003814697266,
+        -0.7999999523162842
+      ],
+      [
+        43.82535171508789,
+        -42.20000457763672,
+        43.82648468017578
+      ]
+    ],
+    "components": 1,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "nonmanifold_vertices": 0,
+    "genus": 5,
+    "open_holes": 0,
+    "self_intersection_faces": 0,
+    "self_intersection_face_indices": [],
+    "degenerate_faces": 0,
+    "min_triangle_altitude_mm": 0.000308990478515625,
+    "triangle_altitude_below_1e_5_mm": 0,
+    "min_triangle_area_mm2": 7.134326460800366e-05,
+    "stored_normal_reversed": 0,
+    "stored_normal_zero": 0,
+    "meshlib_self_collision_pairs": 0
+  },
+  "fit_checks": {
+    "nearby_reference_meshes": 57,
+    "compared_mesh_pairs": 170,
+    "new_penetrations": [],
+    "screw_head_checks": 37,
+    "screw_head_crossings": 0,
+    "clearances": [
+      {
+        "pair": "camera PCB to ToF PCB",
+        "surface_distance_mm": 1.3341801166534424,
+        "triangle_crossing": false,
+        "intersection_volume_mm3": 0.0
+      },
+      {
+        "pair": "ToF PCB to upper shell",
+        "surface_distance_mm": 1.0016456842422485,
+        "triangle_crossing": false,
+        "intersection_volume_mm3": 0.0
+      },
+      {
+        "pair": "camera PCB to upper shell",
+        "surface_distance_mm": 9.846967697143555,
+        "triangle_crossing": false,
+        "intersection_volume_mm3": 0.0
+      },
+      {
+        "pair": "camera FPC latch to upper shell",
+        "surface_distance_mm": 11.862329483032227,
+        "triangle_crossing": false,
+        "intersection_volume_mm3": 0.0
+      },
+      {
+        "pair": "camera FPC latch to Zero3W",
+        "surface_distance_mm": 7.817765712738037,
+        "triangle_crossing": false,
+        "intersection_volume_mm3": null
+      },
+      {
+        "pair": "ToF PCB to Zero3W upper mounting post",
+        "surface_distance_mm": 3.9350147247314453,
+        "triangle_crossing": false,
+        "intersection_volume_mm3": 0.0
+      }
+    ],
+    "camera_screw_head_envelope_mm": {
+      "diameter": 3.6,
+      "height": 1.4
+    },
+    "ToF_screw_head_envelope_mm": {
+      "diameter": 4.4,
+      "height": 1.7
+    },
+    "existing_reference_overlaps": "Decorative copper pad rings overlap support surfaces by approximately0.02mm. Existing approximate camera chip detail and Zero compound overlaps are compared to the baseline."
+  },
+  "optical_and_solder_envelope_checks": {
+    "camera_conservative_160deg_cone": [
+      {
+        "part": "23号脸板 · 相机旋转90·柱4.3 · ToF横装 · 孔底加厚",
+        "intersection_mm3": 0.0
+      },
+      {
+        "part": "吊装候选 · STL · 眼睛",
+        "intersection_mm3": 0.0
+      },
+      {
+        "part": "吊装候选 · STL · 嘴巴",
+        "intersection_mm3": 0.0
+      },
+      {
+        "part": "吊装候选 · STL · 头部集成板",
+        "intersection_mm3": 0.0
+      },
+      {
+        "part": "25号头盖 · 双麦圆窝4.4声孔1.5 · 短粘贴面25mm",
+        "intersection_mm3": 0.0
+      }
+    ],
+    "solder_envelope": {
+      "radius_mm": 0.8,
+      "height_mm": 1.5,
+      "side": "rear of ToF PCB",
+      "all_six_pad_envelopes_clear_of_surrounding_parts": true,
+      "checks": [
+        {
+          "pad": 0,
+          "part": "23号脸板 · 相机旋转90·柱4.3 · ToF横装 · 孔底加厚",
+          "surface_crossing": false,
+          "surface_distance_mm": 1.0,
+          "intersection_mm3": 0.0
+        },
+        {
+          "pad": 0,
+          "part": "吊装候选 · STL · 嘴巴",
+          "surface_crossing": false,
+          "surface_distance_mm": 19.363618850708008,
+          "intersection_mm3": 0.0
+        },
+        {
+          "pad": 0,
+          "part": "25号头盖 · 双麦圆窝4.4声孔1.5 · 短粘贴面25mm",
+          "surface_crossing": false,
+          "surface_distance_mm": 6.294895648956299,
+          "intersection_mm3": 0.0
+        },
+        {
+          "pad": 1,
+          "part": "23号脸板 · 相机旋转90·柱4.3 · ToF横装 · 孔底加厚",
+          "surface_crossing": false,
+          "surface_distance_mm": 1.0,
+          "intersection_mm3": 0.0
+        },
+        {
+          "pad": 1,
+          "part": "吊装候选 · STL · 嘴巴",
+          "surface_crossing": false,
+          "surface_distance_mm": 19.363618850708008,
+          "intersection_mm3": 0.0
+        },
+        {
+          "pad": 1,
+          "part": "25号头盖 · 双麦圆窝4.4声孔1.5 · 短粘贴面25mm",
+          "surface_crossing": false,
+          "surface_distance_mm": 8.833349227905273,
+          "intersection_mm3": 0.0
+        },
+        {
+          "pad": 2,
+          "part": "23号脸板 · 相机旋转90·柱4.3 · ToF横装 · 孔底加厚",
+          "surface_crossing": false,
+          "surface_distance_mm": 1.0,
+          "intersection_mm3": 0.0
+        },
+        {
+          "pad": 2,
+          "part": "吊装候选 · STL · 嘴巴",
+          "surface_crossing": false,
+          "surface_distance_mm": 19.363618850708008,
+          "intersection_mm3": 0.0
+        },
+        {
+          "pad": 2,
+          "part": "25号头盖 · 双麦圆窝4.4声孔1.5 · 短粘贴面25mm",
+          "surface_crossing": false,
+          "surface_distance_mm": 11.371805191040039,
+          "intersection_mm3": 0.0
+        },
+        {
+          "pad": 3,
+          "part": "23号脸板 · 相机旋转90·柱4.3 · ToF横装 · 孔底加厚",
+          "surface_crossing": false,
+          "surface_distance_mm": 1.0,
+          "intersection_mm3": 0.0
+        },
+        {
+          "pad": 3,
+          "part": "吊装候选 · STL · 嘴巴",
+          "surface_crossing": false,
+          "surface_distance_mm": 19.363618850708008,
+          "intersection_mm3": 0.0
+        },
+        {
+          "pad": 3,
+          "part": "25号头盖 · 双麦圆窝4.4声孔1.5 · 短粘贴面25mm",
+          "surface_crossing": false,
+          "surface_distance_mm": 13.910255432128906,
+          "intersection_mm3": 0.0
+        },
+        {
+          "pad": 4,
+          "part": "23号脸板 · 相机旋转90·柱4.3 · ToF横装 · 孔底加厚",
+          "surface_crossing": false,
+          "surface_distance_mm": 1.0,
+          "intersection_mm3": 0.0
+        },
+        {
+          "pad": 4,
+          "part": "吊装候选 · STL · 嘴巴",
+          "surface_crossing": false,
+          "surface_distance_mm": 19.363618850708008,
+          "intersection_mm3": 0.0
+        },
+        {
+          "pad": 4,
+          "part": "25号头盖 · 双麦圆窝4.4声孔1.5 · 短粘贴面25mm",
+          "surface_crossing": false,
+          "surface_distance_mm": 16.448711395263672,
+          "intersection_mm3": 0.0
+        },
+        {
+          "pad": 5,
+          "part": "23号脸板 · 相机旋转90·柱4.3 · ToF横装 · 孔底加厚",
+          "surface_crossing": false,
+          "surface_distance_mm": 1.0,
+          "intersection_mm3": 0.0
+        },
+        {
+          "pad": 5,
+          "part": "吊装候选 · STL · 嘴巴",
+          "surface_crossing": false,
+          "surface_distance_mm": 19.363618850708008,
+          "intersection_mm3": 0.0
+        },
+        {
+          "pad": 5,
+          "part": "25号头盖 · 双麦圆窝4.4声孔1.5 · 短粘贴面25mm",
+          "surface_crossing": false,
+          "surface_distance_mm": 18.987163543701172,
+          "intersection_mm3": 0.0
+        }
+      ]
+    },
+    "limitations": "Camera glass and actual imaging unmeasured; solder blobs and flexible wire paths require physical assembly validation."
+  },
+  "blender_variants": [
+    {
+      "file": "Structure/Blender/MicroDuck-Replica_Print-Colors.blend",
+      "sha256": "05cce92e51652cedda24d9ac61168ddcb5b536a9348ba745b3a6148163c5ea98",
+      "objects": 476,
+      "face_matches_export_source": true,
+      "ToF_center_face_mm": [
+        22.00001385062933,
+        -51.95000767707825,
+        19.99997068196535
+      ],
+      "camera_lens_mount_center_face_mm": [
+        3.725290298461914e-06,
+        -53.10000665485859,
+        19.99999349936843
+      ],
+      "center_height_difference_mm": -2.2817403078079224e-05,
+      "scene_geometry_pose_parent_hash": "4fefbf6c9b2cec9e64c0c6271fba9879fd9c97cef29d556d438901d22eb0fd20",
+      "no_Dupont_parts": true
+    },
+    {
+      "file": "Structure/Blender/MicroDuck-Replica_Colorful.blend",
+      "sha256": "ef0895ef267a8f27aa98b1e89517543c9ca209b6161bc3357ed52d32ee78c115",
+      "objects": 476,
+      "face_matches_export_source": true,
+      "ToF_center_face_mm": [
+        22.00001385062933,
+        -51.95000767707825,
+        19.99997068196535
+      ],
+      "camera_lens_mount_center_face_mm": [
+        3.725290298461914e-06,
+        -53.10000665485859,
+        19.99999349936843
+      ],
+      "center_height_difference_mm": -2.2817403078079224e-05,
+      "scene_geometry_pose_parent_hash": "4fefbf6c9b2cec9e64c0c6271fba9879fd9c97cef29d556d438901d22eb0fd20",
+      "no_Dupont_parts": true
+    }
+  ],
+  "both_color_variants_same_geometry_pose_parenting": true,
+  "limitations": [
+    "Revised23 passed local mesh and static-fit checks; not reuploaded to JLC. STEP remains a faceted CAD reference.",
+    "ToF board thickness, glass and connector details remain approximate; physical wiring, assembly and image/range checks pending.",
+    "Camera image remains rotated90deg; ToF distance-array direction must account for the180deg module rotation. No full-joint motion sweep in this revision."
+  ],
+  "previous_revision": "20261106_v3.4_相机旋转_ToF横装",
+  "revision": "20261106_ToF_horizontal_aligned",
+  "ToF_center_height_difference_mm": 0,
+  "camera_unchanged_in_this_revision": true,
+  "ToF_change_from_previous": {
+    "rotation_about_optical_axis_deg": 180,
+    "translation_after_rotation_mm": [
+      0,
+      0,
+      2
+    ]
+  },
+  "changed_volume_outside_ToF_region_mm3": 1.565832378083737e-07,
+  "bracket_congruence_difference_mm3": 0.00017085990432695242
+}

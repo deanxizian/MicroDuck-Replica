@@ -1,0 +1,158 @@
+{
+  "date": "2026-11-05",
+  "changed_printed_part_ids": [
+    23
+  ],
+  "other_28_STL_and_STEP_hashes_unchanged": true,
+  "shift_face_local_mm": [
+    0,
+    0,
+    2
+  ],
+  "camera_optical_axis_xz_mm": [
+    0,
+    20
+  ],
+  "ToF_optical_center_xz_mm": [
+    21.5,
+    20
+  ],
+  "moved_features": [
+    "ToF module assembly",
+    "printed support frame and two mounting holes",
+    "optical window"
+  ],
+  "ToF_printed_hole_pitch_mm": 19.8,
+  "ToF_board_hole_pitch_mm": 20,
+  "ToF_support_height_mm": 3,
+  "ToF_blind_hole_floor_mm": 1.3,
+  "camera_and_Zero_mounts_and_outer_contour_preserved": true,
+  "geometry_change_outside_ToF_region_mm3": 0.0,
+  "bracket_congruence_difference_mm3": 0.0006594694178292767,
+  "stl": "Structure/Print/STL/02_JLCBlack_黑色_3件/23_脸板_相机柱4.3_ToF中心对齐_孔底加厚_JLCBlack_黑色.stl",
+  "stl_sha256": "dfcb061b620c686adc9e13539b173947b800a3d6ae10d6ee855b5b5e0c2ff094",
+  "step": "Structure/Print/STEP/02_JLCBlack_黑色_3件/23_脸板_相机柱4.3_ToF中心对齐_孔底加厚_JLCBlack_黑色.step",
+  "step_sha256": "50c1ca338f95aa36075967de6b8649e591cd8691e887f270f15dd243c21294e5",
+  "step_validation": {
+    "roots": 1,
+    "solids": 1,
+    "shells": 1,
+    "faces": 14590,
+    "vertices": 7287,
+    "closed_shells": true,
+    "brep_valid": true,
+    "volume_mm3": 5743.513005355114,
+    "bounds_mm": [
+      [
+        -43.82535171508789,
+        -55.500003814697266,
+        -0.7999999523162842
+      ],
+      [
+        43.82535171508789,
+        -42.20000457763672,
+        43.82648468017578
+      ]
+    ],
+    "read_seconds": 1.4
+  },
+  "mesh_checks": {
+    "vertices": 7287,
+    "triangles": 14590,
+    "watertight": true,
+    "winding_consistent": true,
+    "volume_mm3": 5743.513005355128,
+    "dimensions_mm": [
+      87.65070343017578,
+      13.299999237060547,
+      44.626484632492065
+    ],
+    "bounds_mm": [
+      [
+        -43.82535171508789,
+        -55.500003814697266,
+        -0.7999999523162842
+      ],
+      [
+        43.82535171508789,
+        -42.20000457763672,
+        43.82648468017578
+      ]
+    ],
+    "components": 1,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "nonmanifold_vertices": 0,
+    "genus": 5,
+    "open_holes": 0,
+    "self_intersection_faces": 0,
+    "self_intersection_face_indices": [],
+    "degenerate_faces": 0,
+    "min_triangle_altitude_mm": 0.0003108978271484375,
+    "triangle_altitude_below_1e_5_mm": 0,
+    "min_triangle_area_mm2": 7.149768725867034e-05,
+    "stored_normal_reversed": 0,
+    "stored_normal_zero": 0,
+    "meshlib_self_collision_pairs": 0
+  },
+  "fit_checks": {
+    "nearby_reference_meshes": 57,
+    "compared_mesh_pairs": 117,
+    "new_intersections_above_0p001_mm3": 0,
+    "new_surface_crossings_in_nonwatertight_references": 0,
+    "screw_head_envelope_mm": {
+      "diameter": 4.4,
+      "height": 1.7
+    },
+    "screw_head_checks": 12,
+    "existing_reference_overlaps": "Decorative copper pads touch/overlap supports; existing camera component approximations and Zero compound overlap are unchanged."
+  },
+  "blender_variants": [
+    {
+      "file": "Structure/Blender/MicroDuck-Replica_Print-Colors.blend",
+      "sha256": "66c05c551093444cb4286de1c33f94b0671e5e5985603122bf18d3d96dbc686e",
+      "objects": 476,
+      "face_matches_export_source": true,
+      "ToF_center_face_mm": [
+        21.500003524124622,
+        -51.95000395178795,
+        19.999991171061993
+      ],
+      "camera_lens_mount_center_face_mm": [
+        0.0,
+        -53.10000479221344,
+        19.999997690320015
+      ],
+      "center_height_difference_mm": -6.51925802230835e-06,
+      "scene_geometry_pose_parent_hash": "106f097d54dd06e868c95ea49d076e78e14033780f7900915546592c6c85d90e",
+      "no_Dupont_parts": true
+    },
+    {
+      "file": "Structure/Blender/MicroDuck-Replica_Colorful.blend",
+      "sha256": "103f687ba9ed817ef986561bdf69db7edcaabbad0077c487486c45dcd73cce13",
+      "objects": 476,
+      "face_matches_export_source": true,
+      "ToF_center_face_mm": [
+        21.500003524124622,
+        -51.95000395178795,
+        19.999991171061993
+      ],
+      "camera_lens_mount_center_face_mm": [
+        0.0,
+        -53.10000479221344,
+        19.999997690320015
+      ],
+      "center_height_difference_mm": -6.51925802230835e-06,
+      "scene_geometry_pose_parent_hash": "106f097d54dd06e868c95ea49d076e78e14033780f7900915546592c6c85d90e",
+      "no_Dupont_parts": true
+    }
+  ],
+  "both_color_variants_same_geometry_pose_parenting": true,
+  "limitations": [
+    "Revised23 passed local mesh and static-fit checks; not reuploaded to JLC. STEP remains a faceted CAD reference.",
+    "ToF board thickness, glass and connector details remain approximate; physical wiring, assembly and image/range checks pending.",
+    "No full-joint motion sweep in this revision."
+  ],
+  "snapshot_status": "SUPERSEDED_BY_HORIZONTAL_TOF_LAYOUT",
+  "superseded_by": "camera-tof-horizontal-update.json"
+}

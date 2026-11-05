@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-06",
+  "scope": "PCB solder mask green except black camera PCB; adhesive white. Appearance only; geometry and assembly unchanged.",
+  "variants": [
+    {
+      "file": "Structure/Blender/MicroDuck-Replica_Print-Colors.blend",
+      "sha256": "18b521949f2b5f298530866360a5a70f48b4a650b24a673562e095fb3edc6fed",
+      "objects": 476,
+      "geometry_hash_before": "596c1e2aaf0365ed78059b27d95c4124d06ea48b428bf7705dcd7df43deb292a",
+      "geometry_hash_after": "6ecdf59096e64b6376560f81bb0276f7959a483f7e922920865d397bb0b7aa22",
+      "geometry_pose_parent_unchanged_with_tape_rename": true,
+      "renamed_object": {
+        "from": "浅绿 · 2.5mm双面胶层",
+        "to": "白色 · 2.5mm双面胶层"
+      },
+      "green_PCB_objects": [
+        "Banana · 09 · banana_pptc_PCB",
+        "电子板候选 · HAT PCB · D1-HD1910-B-3D-view_PCB",
+        "HUB · HUB-V2-PCB",
+        "IMU · 28 · IMU-AMP2.0-3D_PCB",
+        "ToF / V2绿色PCB · 孔距20",
+        "电子板候选 · ZERO 0 · COMPOUND solid 0"
+      ],
+      "camera_PCB_black": true,
+      "adhesive_white": true,
+      "zero_PCB_face_count": 14145,
+      "zero_other_component_face_count": 520422
+    },
+    {
+      "file": "Structure/Blender/MicroDuck-Replica_Colorful.blend",
+      "sha256": "7280477667cedddcd28caeaa61769c59df164e41deebff9a56ad56a5c24fa940",
+      "objects": 476,
+      "geometry_hash_before": "596c1e2aaf0365ed78059b27d95c4124d06ea48b428bf7705dcd7df43deb292a",
+      "geometry_hash_after": "6ecdf59096e64b6376560f81bb0276f7959a483f7e922920865d397bb0b7aa22",
+      "geometry_pose_parent_unchanged_with_tape_rename": true,
+      "renamed_object": {
+        "from": "浅绿 · 2.5mm双面胶层",
+        "to": "白色 · 2.5mm双面胶层"
+      },
+      "green_PCB_objects": [
+        "Banana · 09 · banana_pptc_PCB",
+        "电子板候选 · HAT PCB · D1-HD1910-B-3D-view_PCB",
+        "HUB · HUB-V2-PCB",
+        "IMU · 28 · IMU-AMP2.0-3D_PCB",
+        "ToF / V2绿色PCB · 孔距20",
+        "电子板候选 · ZERO 0 · COMPOUND solid 0"
+      ],
+      "camera_PCB_black": true,
+      "adhesive_white": true,
+      "zero_PCB_face_count": 14145,
+      "zero_other_component_face_count": 520422
+    }
+  ],
+  "reopened_color_checks_passed": true,
+  "same_geometry_pose_parent": true
+}
