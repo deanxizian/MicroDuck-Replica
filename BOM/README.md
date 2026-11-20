@@ -1,6 +1,8 @@
 # BOM
 
-更新：2026-11-06，单位为人民币。采购量包含包装数量和备件；未标价格的项目不计入合计。商品页包含多种规格，下单时按“所选 SKU／规格”列选择。
+装机用量更新于 2026-11-21，金额单位为人民币。采购量包含包装数量和备件。未标价格的项目不计入合计。商品页包含多种规格，下单时按“所选 SKU／规格”列选择。
+
+螺丝选型见[实物装配记录](../Structure/装配记录.md)。打印件表中价格沿用已下单的打样记录。
 
 ## 1. 结构件
 
@@ -16,8 +18,8 @@
 | 04 右脚掌 | 9000HE／白色 | 3D 打印 | 1 个 | 1 个 | 6.33 | 6.33 | [STL](../Structure/Print/STL/01_9000HE_白色_8件/04_右脚掌_9000HE_白色.stl) · [STEP](../Structure/Print/STEP/01_9000HE_白色_8件/04_右脚掌_9000HE_白色.step) |
 | 05 左脚 | Grey／灰色 | 3D 打印 | 1 个 | 1 个 | 5.40 | 5.40 | [STL](../Structure/Print/STL/03_Grey_灰色_16件/05_左脚_Grey_灰色.stl) · [STEP](../Structure/Print/STEP/03_Grey_灰色_16件/05_左脚_Grey_灰色.step) |
 | 06 右脚 | Grey／灰色 | 3D 打印 | 1 个 | 1 个 | 5.40 | 5.40 | [STL](../Structure/Print/STL/03_Grey_灰色_16件/06_右脚_Grey_灰色.stl) · [STEP](../Structure/Print/STEP/03_Grey_灰色_16件/06_右脚_Grey_灰色.step) |
-| 07 左膝支撑 | Grey／灰色 | 3D 打印 | 1 个 | 1 个 | 2.95 | 2.95 | [STL](../Structure/Print/STL/03_Grey_灰色_16件/07_左膝支撑_Grey_灰色.stl) · [STEP](../Structure/Print/STEP/03_Grey_灰色_16件/07_左膝支撑_Grey_灰色.step) |
-| 08 右膝支撑 | Grey／灰色 | 3D 打印 | 1 个 | 1 个 | 2.95 | 2.95 | [STL](../Structure/Print/STL/03_Grey_灰色_16件/08_右膝支撑_Grey_灰色.stl) · [STEP](../Structure/Print/STEP/03_Grey_灰色_16件/08_右膝支撑_Grey_灰色.step) |
+| 07 左膝支撑 | Grey／灰色 | 3D 打印 | 1 个 | 1 个 | 2.95 | 2.95 | [STL](../Structure/Print/STL/03_Grey_灰色_16件/07_左膝支撑_凸台0.84_Grey_灰色_v3.10.stl) · [STEP](../Structure/Print/STEP/03_Grey_灰色_16件/07_左膝支撑_凸台0.84_Grey_灰色_v3.10.step) |
+| 08 右膝支撑 | Grey／灰色 | 3D 打印 | 1 个 | 1 个 | 2.95 | 2.95 | [STL](../Structure/Print/STL/03_Grey_灰色_16件/08_右膝支撑_凸台0.84_Grey_灰色_v3.10.stl) · [STEP](../Structure/Print/STEP/03_Grey_灰色_16件/08_右膝支撑_凸台0.84_Grey_灰色_v3.10.step) |
 | 09 左胯外盖 | 9000HE／白色 | 3D 打印 | 1 个 | 1 个 | 2.12 | 2.12 | [STL](../Structure/Print/STL/01_9000HE_白色_8件/09_左胯外盖_深装柱_9000HE_白色_v3.1.stl) · [STEP](../Structure/Print/STEP/01_9000HE_白色_8件/09_左胯外盖_深装柱_9000HE_白色_v3.1.step) |
 | 10 右胯外壳 | 9000HE／白色 | 3D 打印 | 1 个 | 1 个 | 2.12 | 2.12 | [STL](../Structure/Print/STL/01_9000HE_白色_8件/10_右胯外壳_深装柱_9000HE_白色.stl) · [STEP](../Structure/Print/STEP/01_9000HE_白色_8件/10_右胯外壳_深装柱_9000HE_白色.step) |
 | 13 左胯侧摆 | Grey／灰色 | 3D 打印 | 1 个 | 1 个 | 3.95 | 3.95 | [STL](../Structure/Print/STL/03_Grey_灰色_16件/13_左胯侧摆_连续实体_Grey_灰色.stl) · [STEP](../Structure/Print/STEP/03_Grey_灰色_16件/13_左胯侧摆_连续实体_Grey_灰色.step) |
@@ -30,17 +32,17 @@
 | 20 颈部固定右 | Grey／灰色 | 3D 打印 | 1 个 | 1 个 | 1.77 | 1.77 | [STL](../Structure/Print/STL/03_Grey_灰色_16件/20_颈部固定右_Grey_灰色.stl) · [STEP](../Structure/Print/STEP/03_Grey_灰色_16件/20_颈部固定右_Grey_灰色.step) |
 | 21 头部旋转 | Grey／灰色 | 3D 打印 | 1 个 | 1 个 | 3.67 | 3.67 | [STL](../Structure/Print/STL/03_Grey_灰色_16件/21_头部旋转_叉架29.2_Grey_灰色.stl) · [STEP](../Structure/Print/STEP/03_Grey_灰色_16件/21_头部旋转_叉架29.2_Grey_灰色.step) |
 | 22 头部侧倾 | Grey／灰色 | 3D 打印 | 1 个 | 1 个 | 5.17 | 5.17 | [STL](../Structure/Print/STL/03_Grey_灰色_16件/22_头部侧倾_Grey_灰色_v3.1.stl) · [STEP](../Structure/Print/STEP/03_Grey_灰色_16件/22_头部侧倾_Grey_灰色_v3.1.step) |
-| 23 脸板 | 相机柱 6.3 mm、ToF 横装等高；JLCBlack／黑色 | 3D 打印 | 1 个 | 1 个 | 6.54 | 6.54 | [STL](../Structure/Print/STL/02_JLCBlack_黑色_3件/23_脸板_相机柱6.3_ToF横装等高_JLCBlack_黑色.stl) · [STEP](../Structure/Print/STEP/02_JLCBlack_黑色_3件/23_脸板_相机柱6.3_ToF横装等高_JLCBlack_黑色.step) |
+| 23 脸板 | 新三孔，相机柱 7.6 mm、ToF 裸板支座 2.5 mm，JLCBlack／黑色 | 3D 打印 | 1 个 | 1 个 | 待报价 | — | [STL](../Structure/Print/STL/02_JLCBlack_黑色_3件/23_脸板_相机柱7.6_眼圈新三孔_JLCBlack_黑色_v3.14.stl) · [STEP](../Structure/Print/STEP/02_JLCBlack_黑色_3件/23_脸板_相机柱7.6_眼圈新三孔_JLCBlack_黑色_v3.14.step) |
 | 24 嘴巴 | Grey／灰色 | 3D 打印 | 1 个 | 1 个 | 8.15 | 8.15 | [STL](../Structure/Print/STL/03_Grey_灰色_16件/24_嘴巴_Grey_灰色.stl) · [STEP](../Structure/Print/STEP/03_Grey_灰色_16件/24_嘴巴_Grey_灰色.step) |
 | 25 头盖 | 9000HE／白色 | 3D 打印 | 1 个 | 1 个 | 15.57 | 15.57 | [STL](../Structure/Print/STL/01_9000HE_白色_8件/25_头盖_双麦_短扬声器粘贴面_9000HE_白色_v3.1.stl) · [STEP](../Structure/Print/STEP/01_9000HE_白色_8件/25_头盖_双麦_短扬声器粘贴面_9000HE_白色_v3.1.step) |
-| 26 头部集成板 | Grey／灰色 | 3D 打印 | 1 个 | 1 个 | 20.87 | 20.87 | [STL](../Structure/Print/STL/03_Grey_灰色_16件/26_头部集成板_张嘴让位端缘修整_Grey_灰色_v3.1.stl) · [STEP](../Structure/Print/STEP/03_Grey_灰色_16件/26_头部集成板_张嘴让位端缘修整_Grey_灰色_v3.1.step) |
-| 27 眼睛 | 厚 6 mm；JLCBlack／黑色 | 3D 打印 | 1 个 | 1 个 | 5.48 | 5.48 | [STL](../Structure/Print/STL/02_JLCBlack_黑色_3件/27_眼睛_厚6mm_JLCBlack_黑色.stl) · [STEP](../Structure/Print/STEP/02_JLCBlack_黑色_3件/27_眼睛_厚6mm_JLCBlack_黑色.step) |
-| 28 左壳 | 9000HE／白色 | 3D 打印 | 1 个 | 1 个 | 5.92 | 5.92 | [STL](../Structure/Print/STL/01_9000HE_白色_8件/28_左壳_连续孔口_9000HE_白色_v3.1.stl) · [STEP](../Structure/Print/STEP/01_9000HE_白色_8件/28_左壳_连续孔口_9000HE_白色_v3.1.step) |
+| 26 头部集成板 | Grey／灰色 | 3D 打印 | 1 个 | 1 个 | 20.87 | 20.87 | [STL](../Structure/Print/STL/03_Grey_灰色_16件/26_头部集成板_后脑沉孔4.7_Grey_灰色.stl) · [STEP](../Structure/Print/STEP/03_Grey_灰色_16件/26_头部集成板_后脑沉孔4.7_Grey_灰色.step) |
+| 27 眼圈 | 新三孔，厚 8 mm，JLCBlack／黑色 | 3D 打印 | 1 个 | 1 个 | 待报价 | — | [STL](../Structure/Print/STL/02_JLCBlack_黑色_3件/27_眼圈_厚8mm_新三孔_JLCBlack_黑色_v3.14.stl) · [STEP](../Structure/Print/STEP/02_JLCBlack_黑色_3件/27_眼圈_厚8mm_新三孔_JLCBlack_黑色_v3.14.step) |
+| 28 左壳 | 9000HE／白色 | 3D 打印 | 1 个 | 1 个 | 5.92 | 5.92 | [STL](../Structure/Print/STL/01_9000HE_白色_8件/28_左壳_后孔4.2_9000HE_白色_v3.9.stl) · [STEP](../Structure/Print/STEP/01_9000HE_白色_8件/28_左壳_后孔4.2_9000HE_白色_v3.9.step) |
 | 29 右壳 | 9000HE／白色 | 3D 打印 | 1 个 | 1 个 | 5.83 | 5.83 | [STL](../Structure/Print/STL/01_9000HE_白色_8件/29_右壳_连续孔口_9000HE_白色_v3.1.stl) · [STEP](../Structure/Print/STEP/01_9000HE_白色_8件/29_右壳_连续孔口_9000HE_白色_v3.1.step) |
 | 31 电池仓 | JLCBlack／黑色 | 3D 打印 | 1 个 | 1 个 | 12.27 | 12.27 | [STL](../Structure/Print/STL/02_JLCBlack_黑色_3件/31_电池仓_右侧出线缺口_JLCBlack_黑色_v3.1.stl) · [STEP](../Structure/Print/STEP/02_JLCBlack_黑色_3件/31_电池仓_右侧出线缺口_JLCBlack_黑色_v3.1.step) |
 | 32 头部集成盖 | 9000HE／白色 | 3D 打印 | 1 个 | 1 个 | 3.86 | 3.86 | [STL](../Structure/Print/STL/01_9000HE_白色_8件/32_头部集成盖_兼容hat插口_9000HE_白色.stl) · [STEP](../Structure/Print/STEP/01_9000HE_白色_8件/32_头部集成盖_兼容hat插口_9000HE_白色.step) |
 
-23、27 号修订件已于 11 月 6 日重新下单，均为黑色、打磨－粗磨；表中已替换旧版本及价格，每件仍计 1 个。
+23 号脸板与 27 号眼圈按 v3.14 配套打印。
 
 ### 外购金属件与轴承
 
@@ -62,7 +64,7 @@
 | Banana 用 PTC 自恢复保险丝 | 原装伯特 BSMD2920-700-12V；7A；2920；1 PCS | 外购、自焊 | 1 颗 | 2 颗 | 0.30 | 0.60 | 深圳市建兴微电网店<br>[购买链接](https://item.taobao.com/item.htm?id=1044065566219&skuId=6232879663666) |
 | Banana 香蕉取电针 | U6068；铜镀金；针体 Ø2.5 mm、尾部 Ø1.5 mm、总长 13 mm | 外购、自焊 | 2 根 | 4 根 | 1.60 | 6.40 | 欧立优企业店<br>[购买链接](https://item.taobao.com/item.htm?id=1066300439603&skuId=6116801109787) |
 
-推荐主控配置为 **ZERO 3W 2GB RAM、无 eMMC、已焊排针，另配 32GB TF 卡**；写卡需 TF 读卡器。本机使用表中的 4GB＋32GB 无排针版，排针另购焊接。HAT 按 ¥148 参考标价计费。
+推荐主控配置为 **ZERO 3W 2GB RAM、无 eMMC、已焊排针，另配 32GB TF 卡**；写卡需 TF 读卡器。本机使用表中的 4GB＋32GB 无排针版，排针另购焊接。HAT 由这组 40 针排针固定，四角留空。HAT 按 ¥148 参考标价计费。
 
 **Banana 为裸板，PTC、两根香蕉取电针和电源引线需自行焊接。** 先焊 PTC，再将 PCB 装入电池仓，最后焊取电针与引线。详见 [Banana 装配说明](../Hardware/Banana-NP-F550/README.md)。HAT、IMU、HUB 均采购成品；设计资料见 [Hardware](../Hardware/README.md)。
 
@@ -74,10 +76,10 @@
 | 飞特舵机调试板 | FE-URT2-C001［调试板＋线材］ | 外购成品 | 调试用 | 1 套 | 43.65 | 43.65 | 深圳飞特舵机工厂店<br>[购买链接](https://item.taobao.com/item.htm?id=1078248851201&skuId=6132649273424) |
 | 铁头 TNP-F550-GN 电池套装 | 绿色两电双充套装；2×3500mAh（合计 7000mAh）；双口充电器 | 外购成品 | 1 块电池 | 1 套 | 271.00 | 271.00 | 铁头旗舰店<br>[购买链接](https://detail.tmall.com/item.htm?id=980256522683&skuId=5937727432862) |
 | 亚博 IMX219 摄像头 | pi5 专用 160° 视场角（送外壳） | 外购成品 | 1 个 | 1 个 | 75.60 | 75.60 | 随附 15Pin 转 22Pin 排线，无需另购<br>亚博智能旗舰店<br>[购买链接](https://detail.tmall.com/item.htm?id=748194558140&skuId=5160638769438) |
-| VL53L5CX ToF 测距模块 | VL53L5X V2 模块配盖片 | 外购成品 | 1 块 | 1 块 | 49.50 | 49.50 | 都会明武电子<br>[购买链接](https://item.taobao.com/item.htm?id=737603917521&skuId=5090650052053) |
+| VL53L5CX ToF 测距模块 | VL53L5X V2 模块配盖片 | 外购成品 | 1 块 | 1 块 | 49.50 | 49.50 | 裸板横装，配两颗宽头 M2×4，无垫片。见[安装说明](../Peripherals/ToF/README.md)<br>都会明武电子<br>[购买链接](https://item.taobao.com/item.htm?id=737603917521&skuId=5090650052053) |
 | 麦克风咪头 | 4015-带线2P-1.25-咪头；含胶套、带插头 | 外购成品 | 2 个 | 2 个 | 0.55 | 1.10 | 深圳市优信电子科技有限公司<br>[购买链接](https://item.taobao.com/item.htm?id=607139348280&skuId=5774745736776) |
 | 3525 腔体扬声器 | 3525 腔体-4Ω 3W／喇叭；带 1.25 mm 端子 | 外购成品 | 1 个 | 1 个 | 2.65 | 2.65 | 深圳市优信电子科技有限公司<br>[购买链接](https://item.taobao.com/item.htm?id=683920556900&skuId=5062399686518) |
-| Radxa 散热片 | 瑞莎 5519A 散热片 | 外购成品 | 1 片 | 1 片 | 19.99 | 19.99 | 瑞莎计算机（深圳）有限公司<br>[购买链接](https://item.taobao.com/item.htm?id=788387010174&skuId=5551969955434) |
+| Radxa 散热片 | 瑞莎 5519A，纯铜，55 × 19 × 2 mm | 外购成品 | 1 片 | 1 片 | 19.99 | 19.99 | 瑞莎计算机（深圳）有限公司<br>[购买链接](https://item.taobao.com/item.htm?id=788387010174&skuId=5551969955434) |
 
 咪头选带插头版，兼顾公版与[仓库修改版 HAT](../Hardware/HAT-D1-HD1910/README.md)：接口匹配时直接插接，使用压接式端子时剪去插头接线。
 
@@ -87,35 +89,39 @@
 
 | 名称 | 所选 SKU／规格 | 获取方式 | 装机用量 | 采购量 | 单价／元 | 小计／元 | 资料／店铺 |
 | --- | --- | --- | --- | --- | ---: | ---: | --- |
-| AMP2.0 舵机连接线 | 双头反向；AMP2.0-3P；特软硅胶 24#；100 mm | 外购 | 按走线 | 12 根 | 1.80 | 21.60 | 永茂电子<br>[购买链接](https://item.taobao.com/item.htm?id=825340808235&skuId=6150187549515) |
-| AMP2.0 舵机连接线 | 双头反向；AMP2.0-3P；特软硅胶 24#；200 mm | 外购 | 按走线 | 6 根 | 2.40 | 14.40 | 永茂电子<br>[购买链接](https://item.taobao.com/item.htm?id=825340808235&skuId=6150187549516) |
+| AMP2.0 舵机连接线 | 双头反向，AMP2.0-3P，特软硅胶 24#，100 mm | 外购 | 4 根（两腿各 2 根） | 12 根 | 1.80 | 21.60 | 永茂电子<br>[购买链接](https://item.taobao.com/item.htm?id=825340808235&skuId=6150187549515) |
+| AMP2.0 舵机连接线 | 双头反向，AMP2.0-3P，特软硅胶 24#，200 mm | 外购 | 舵机间 0 根 | 6 根 | 2.40 | 14.40 | 永茂电子<br>[购买链接](https://item.taobao.com/item.htm?id=825340808235&skuId=6150187549516) |
 | SH1.0 双头端子线 | SH1.0／4P／10 cm 双头（5 条／包） | 外购 | 1 根 | 1 包（5 根） | 4.40 | 4.40 | 深圳市优信电子科技有限公司<br>[购买链接](https://item.taobao.com/item.htm?id=565360096163&skuId=4867229376716) |
 | XH2.54 电源线 | 2P 公头／20 cm | 外购 | 1 根 | 2 根 | 0.19 | 0.38 | 深圳市优信电子科技有限公司<br>[购买链接](https://item.taobao.com/item.htm?id=571554641025&skuId=3870679706963) |
 | 2.54 mm 双排直插排针 | 2×20P（5 只／包） | 外购 | 1 只 | 1 包 | 1.76 | 1.76 | 深圳市优信电子科技有限公司<br>[购买链接](https://item.taobao.com/item.htm?id=571300127803&skuId=4197730409551) |
-| 十字圆头平尾自攻螺丝 | M2×4［100 只］304 | 外购 | 按孔位 | 1 包 | 3.32 | 3.32 | 固万基官方旗舰店<br>[购买链接](https://detail.tmall.com/item.htm?id=550539941898&skuId=4413376476270) |
+| 十字圆头平尾自攻螺丝 | M2×4［100 只］304 | 外购 | 按孔位（左右胯固定片上排共 4 颗） | 1 包 | 3.32 | 3.32 | 固万基官方旗舰店<br>[购买链接](https://detail.tmall.com/item.htm?id=550539941898&skuId=4413376476270) |
+| 宽头平尾自攻螺丝 | M2×4，帽底承压直径约 Ø4.5 mm | 外购 | ToF 安装耳 2 颗 | 待配 | — | — | 23 号 ToF 裸板支座 |
 | 十字圆头平尾自攻螺丝 | M2×5［100 只］304 | 外购 | 按孔位 | 1 包 | 3.32 | 3.32 | 固万基官方旗舰店<br>[购买链接](https://detail.tmall.com/item.htm?id=550539941898&skuId=4413376476263) |
-| 十字圆头平尾自攻螺丝 | M2×6［100 只］304 | 外购 | 按孔位 | 1 包 | 4.08 | 4.08 | 固万基官方旗舰店<br>[购买链接](https://detail.tmall.com/item.htm?id=550539941898&skuId=4413376476279) |
+| 十字圆头平尾自攻螺丝 | M2×6［100 只］304，帽径约 3.6 mm | 外购 | 按孔位（含 IMU 4 颗、28 号后孔 1 颗） | 1 包 | 4.08 | 4.08 | 固万基官方旗舰店<br>[购买链接](https://detail.tmall.com/item.htm?id=550539941898&skuId=4413376476279) |
 | 十字圆头平尾自攻螺丝 | M2×8［100 只］304 | 外购 | 按孔位 | 1 包 | 4.08 | 4.08 | 固万基官方旗舰店<br>[购买链接](https://detail.tmall.com/item.htm?id=550539941898&skuId=4413376476262) |
-| 十字圆头平尾自攻螺丝 | M2×12［100 只］304 | 外购 | 按孔位 | 1 包 | 4.17 | 4.17 | 固万基官方旗舰店<br>[购买链接](https://detail.tmall.com/item.htm?id=550539941898&skuId=4413376476271) |
-| 十字圆头平尾自攻螺丝 | M2.6×8［100 只］304 | 外购 | 按孔位 | 1 包 | 4.93 | 4.93 | 固万基官方旗舰店<br>[购买链接](https://detail.tmall.com/item.htm?id=550539941898&skuId=4413376476260) |
+| 十字圆头平尾自攻螺丝 | M2×12［100 只］304，帽径约 3.6 mm、帽高约 1.4 mm | 外购 | HUB 后排 2 颗 | 1 包 | 4.17 | 4.17 | 固万基官方旗舰店<br>[购买链接](https://detail.tmall.com/item.htm?id=550539941898&skuId=4413376476271) |
+| 从动轴中心螺丝 | M2.5×4 全牙机螺丝，螺距 0.45 mm | 按孔位配用 | 09、10 号胯外盖共 4 颗 | — | — | — | [安装位置](../Structure/螺丝孔位复核.md) |
+| 主板固定螺丝 | M2.5×6 平尾自攻 | 按模型选型 | ZERO 3W 固定到 23 号脸板，4 颗 | — | — | — | [孔深与余量](../Structure/Verification/整机螺丝逐孔核对.md) |
+| 十字圆头平尾自攻螺丝 | M2.6×8［100 只］304 | 外购 | 6 颗（头壳两侧 2 颗，32 号盖板中央四柱 4 颗） | 1 包 | 4.93 | 4.93 | 固万基官方旗舰店<br>[购买链接](https://detail.tmall.com/item.htm?id=550539941898&skuId=4413376476260) |
+| 十字圆头尖尾自攻螺丝 | 固万基 GB845 M2.5×16，帽径约 4.0 mm，帽高约 1.4 mm | 外购 | 后脑 1 颗 | — | — | — | 固万基 |
 | 热缩管套装 | 袋装 164 片；彩色；2 倍收缩 | 外购 | 按布线 | 1 包 | 2.99 | 2.99 | 圣佰路旗舰店<br>[购买链接](https://detail.tmall.com/item.htm?id=945215173380&skuId=6016028771158) |
 | 双面胶 | 白色；厚 2.5 mm | 自备 | 扬声器固定 | 自备 | — | — | — |
 | 焊锡 | 按需 | 自备 | 按需 | 自备 | — | — | — |
 
-每个舵机随附 1 根 8 cm 舵机连接线；10 cm、20 cm 等其他长度按需购买。
+每个舵机随附 1 根 8 cm 三芯并线，大部分舵机之间都用这根线。外购的 10 cm 线用于左腿的 21–22、23–24 和右腿的 11–12、13–14，编号为舵机 ID。
 
 SH1.0 线一端接 HAT，另一端剪去插头后直接焊到 ToF 模块，按接口定义核对接线。
 
-自攻螺丝每种 100 颗，共 600 颗；整机螺丝用量估计约 150 颗，长度与机牙／自攻类型按安装位选择，随附螺丝可复用。
+上述六包 304 平尾自攻螺丝各 100 颗。22 号侧倾架用 4 颗 M2×6，牙型配 ID 33 主动舵盘。左右踝中心各用一颗 M2×4 原钉，下颚的 4 颗 M2×6 配 ID 34 主动舵盘。16 个舵机壳体角孔与舵盘外圈使用同牙型 M2，杆长随孔位选取。整机模型共 141 颗编号螺丝。[逐孔核对表](../Structure/Verification/整机螺丝逐孔核对.md)
 
 ## 费用汇总
 
 | 分类 | 金额／元 |
 | --- | ---: |
-| 结构件 | 244.07 |
+| 结构件 | 232.05 |
 | 电路板及 Banana 焊接元件 | 1133.00 |
 | 外设（含舵机与调试板） | 2253.14 |
 | 线材、排针、耗材 | 69.43 |
-| **参考合计** | **3699.64** |
+| **参考合计** | **3687.62** |
 
 合计按表中采购量计算，含备件；不含未计价项、运费和手续费。

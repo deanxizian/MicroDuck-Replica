@@ -1,14 +1,12 @@
 {
-  "status": "LOCAL_MESH_CHECKS_PASSED_REVISED23_27_ORDERED_PLATFORM_DETAILS_NOT_ARCHIVED",
-  "revision": "20261106_v3.6_镜头保护后移2mm",
+  "status": "LOCAL_MESH_CHECKS_PASSED_REVISED_PARTS_AWAIT_PRINT",
+  "revision": "20261121_v3.16_下颚轴承挡肩平切",
   "units": "mm",
   "quantity_each": 1,
   "part_count": 29,
   "source": {
-    "assembly_source_sha256": "a50a5fedcf9b1ad123ad60eb2b480822c9c1e65ca70fc4cfd5312e97515744b5",
-    "date": "2026-11-06",
-    "geometry_source_sha256": "9fadce3aca6b1f332a7d19d81f27e4a469b6c3c2776bcd8b47b938b7efe4f603",
-    "appearance_note": "PCB and adhesive colors updated; geometry unchanged"
+    "assembly_source_sha256": "7c068e8312d8d4c54e6085f50488e49e4058acc9dd34febfaa180b7d07fc719e",
+    "date": "2026-11-21"
   },
   "parts": [
     {
@@ -17,17 +15,18 @@
       "material": "TPU 95A",
       "color": "黑色",
       "quantity": 1,
-      "triangles": 15652,
+      "triangles": 17396,
       "dimensions_mm": [
         41.098533630371094,
         54.0,
         12.907360076904297
       ],
-      "sha256": "076eac06ddded2840f640a38cfb48e5122d7da2b62a7cf36cada64370115762d",
+      "sha256": "cb0056fc1ae79a2f3a7ac00411b865fd5ea14f3af9a967a6599373569d8a5f92",
       "source_object": "吊装候选 · STL · 左脚底",
-      "geometry_sha256": "e516517ab7fbc8f569db3b29f24e3981e672f4d1da90473e4f5f8690966ac3e7",
+      "geometry_sha256": "1d93f166dfe0b75db07c54c254407a6abb35a3776dc3ed55f36f038763c78b5a",
       "changed_in_v3_1": false,
-      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+      "jlc_mesh_recheck": "LOCAL_CHECKS_ONLY",
+      "revision": "20261120_v3.13_脚底压紧与下颚轴承止挡"
     },
     {
       "part_id": 2,
@@ -35,17 +34,18 @@
       "material": "TPU 95A",
       "color": "黑色",
       "quantity": 1,
-      "triangles": 15750,
+      "triangles": 17494,
       "dimensions_mm": [
         41.09873008728027,
         54.0,
         12.90760612487793
       ],
-      "sha256": "dc1afd8cc091914b0d50bcd51e35b29c74d55bc3d0b23f6ecbcdd34cefca5014",
+      "sha256": "b6798619d04bb0abac67e5f29a5c6d83e64fae170c2975675f7523ac8024a2c3",
       "source_object": "吊装候选 · STL · 右脚底",
-      "geometry_sha256": "02385e18604a9e7ecc3e12561424db240a08a4481d4f23e25662bd9c5db357d3",
+      "geometry_sha256": "f7590f2966d5fbed0b0a1ea4fa1448578ff6ee7d48c56ef50480fa8e7b805242",
       "changed_in_v3_1": false,
-      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+      "jlc_mesh_recheck": "LOCAL_CHECKS_ONLY",
+      "revision": "20261120_v3.13_脚底压紧与下颚轴承止挡"
     },
     {
       "part_id": 3,
@@ -53,17 +53,18 @@
       "material": "9000HE",
       "color": "白色",
       "quantity": 1,
-      "triangles": 19400,
+      "triangles": 20616,
       "dimensions_mm": [
         16.909027099609375,
         54.0,
         40.085506439208984
       ],
-      "sha256": "6a01bc927c1f6cc3e85f0b8cabd95a7137926adf6d59e74528fdf333e7b3ce7b",
+      "sha256": "805ce5ebbefdce40010e6c0da44c5d57d330329d6069afc1c9a944572e4c1477",
       "source_object": "吊装候选 · STL · 左脚掌",
-      "geometry_sha256": "6c1fe926f455d2b0cb77d7288b88e9b0d703422364ef61169b70e83f81b4d8ca",
+      "geometry_sha256": "b51ee75fd667d68f020da7063ec56361edc0f4e51dadc28e6392d1919badaf29",
       "changed_in_v3_1": false,
-      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+      "jlc_mesh_recheck": "LOCAL_CHECKS_ONLY",
+      "revision": "20261119_v3.7_实装修订"
     },
     {
       "part_id": 4,
@@ -71,17 +72,18 @@
       "material": "9000HE",
       "color": "白色",
       "quantity": 1,
-      "triangles": 19436,
+      "triangles": 20652,
       "dimensions_mm": [
         16.909027099609375,
         53.999996185302734,
         40.085506439208984
       ],
-      "sha256": "c2656b175f8eff22360de2cfe89be1a8d237362c3f099ac4e26e3360cbd2f3da",
+      "sha256": "ae6ef350530eb5ebf48ea584b87de96d01d6466b03b03611e45aa54579e7c703",
       "source_object": "吊装候选 · STL · 右脚掌",
-      "geometry_sha256": "d67ccab0c4f19439a27ccb41457412c7badd293aed458d9b1bc9738889295bed",
+      "geometry_sha256": "0a862bdf262535d2c9e9fbd58076ecb56467940e7ac9e34d46c8b2007a3918b7",
       "changed_in_v3_1": false,
-      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+      "jlc_mesh_recheck": "LOCAL_CHECKS_ONLY",
+      "revision": "20261119_v3.7_实装修订"
     },
     {
       "part_id": 5,
@@ -121,39 +123,41 @@
     },
     {
       "part_id": 7,
-      "file": "03_Grey_灰色_16件/07_左膝支撑_Grey_灰色.stl",
+      "file": "03_Grey_灰色_16件/07_左膝支撑_凸台0.84_Grey_灰色_v3.10.stl",
       "material": "Grey",
       "color": "灰色",
       "quantity": 1,
-      "triangles": 15826,
+      "triangles": 16290,
       "dimensions_mm": [
         57.991912841796875,
         20.019716262817383,
         7.629971981048584
       ],
-      "sha256": "3e9b43a2663e990226e92cc72adc52be792556f9398fb3606545cc9f2b130610",
+      "sha256": "80cee09fe7b1f04a2b310d07cbd4fe94f45344e99d0a0d6df7e1cba3704e36c7",
       "source_object": "吊装候选 · STL · 左膝支撑",
-      "geometry_sha256": "52ca0d8ed737a55ed30a262bbd288521eeeff4100f489e261fc75ea381a192ef",
+      "geometry_sha256": "200622bf0484c9b402880d7db11e55dc0edaad49ee7261af3c176e7e4d87c2d6",
       "changed_in_v3_1": false,
-      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+      "jlc_mesh_recheck": "LOCAL_CHECKS_ONLY",
+      "revision": "20261119_v3.10_膝支撑凸台"
     },
     {
       "part_id": 8,
-      "file": "03_Grey_灰色_16件/08_右膝支撑_Grey_灰色.stl",
+      "file": "03_Grey_灰色_16件/08_右膝支撑_凸台0.84_Grey_灰色_v3.10.stl",
       "material": "Grey",
       "color": "灰色",
       "quantity": 1,
-      "triangles": 15826,
+      "triangles": 16290,
       "dimensions_mm": [
         57.991912841796875,
         20.019716262817383,
         7.629971981048584
       ],
-      "sha256": "3e9b43a2663e990226e92cc72adc52be792556f9398fb3606545cc9f2b130610",
+      "sha256": "80cee09fe7b1f04a2b310d07cbd4fe94f45344e99d0a0d6df7e1cba3704e36c7",
       "source_object": "吊装候选 · STL · 右膝支撑",
-      "geometry_sha256": "52ca0d8ed737a55ed30a262bbd288521eeeff4100f489e261fc75ea381a192ef",
+      "geometry_sha256": "200622bf0484c9b402880d7db11e55dc0edaad49ee7261af3c176e7e4d87c2d6",
       "changed_in_v3_1": false,
-      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+      "jlc_mesh_recheck": "LOCAL_CHECKS_ONLY",
+      "revision": "20261119_v3.10_膝支撑凸台"
     },
     {
       "part_id": 9,
@@ -236,17 +240,18 @@
       "material": "Grey",
       "color": "灰色",
       "quantity": 1,
-      "triangles": 14314,
+      "triangles": 15178,
       "dimensions_mm": [
         23.000001907348633,
         25.80000114440918,
         20.500001430511475
       ],
-      "sha256": "c5b8a1574ba1d86f5220bb364ca0eddd7e1ae1decc47af3ff5848bcb66b89090",
+      "sha256": "01a6c98542b6e5919293e7f505ea0f13ec574174b07dccf4ad9ff3192bc14970",
       "source_object": "吊装候选 · STL · 左胯旋转",
-      "geometry_sha256": "9aec08aba3a3d91ff153ccf5398701d9cc95d0fff97e9d0d59e04087d345a300",
+      "geometry_sha256": "2fa2fe1bbde6895c86be94b4e1ed2f40174ae36b24dd08b50e1bb2611c9c8874",
       "changed_in_v3_1": false,
-      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+      "jlc_mesh_recheck": "LOCAL_CHECKS_ONLY",
+      "revision": "20261119_v3.8_螺丝配合"
     },
     {
       "part_id": 16,
@@ -254,17 +259,18 @@
       "material": "Grey",
       "color": "灰色",
       "quantity": 1,
-      "triangles": 14314,
+      "triangles": 15178,
       "dimensions_mm": [
         23.000001907348633,
         25.80000114440918,
         20.500001430511475
       ],
-      "sha256": "c5b8a1574ba1d86f5220bb364ca0eddd7e1ae1decc47af3ff5848bcb66b89090",
+      "sha256": "01a6c98542b6e5919293e7f505ea0f13ec574174b07dccf4ad9ff3192bc14970",
       "source_object": "吊装候选 · STL · 右胯旋转",
-      "geometry_sha256": "9aec08aba3a3d91ff153ccf5398701d9cc95d0fff97e9d0d59e04087d345a300",
+      "geometry_sha256": "2fa2fe1bbde6895c86be94b4e1ed2f40174ae36b24dd08b50e1bb2611c9c8874",
       "changed_in_v3_1": false,
-      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+      "jlc_mesh_recheck": "LOCAL_CHECKS_ONLY",
+      "revision": "20261119_v3.8_螺丝配合"
     },
     {
       "part_id": 17,
@@ -379,24 +385,24 @@
     },
     {
       "part_id": 23,
-      "file": "02_JLCBlack_黑色_3件/23_脸板_相机柱6.3_ToF横装等高_JLCBlack_黑色.stl",
+      "file": "02_JLCBlack_黑色_3件/23_脸板_相机柱7.6_眼圈新三孔_JLCBlack_黑色_v3.14.stl",
       "material": "JLC Black",
       "color": "黑色",
       "quantity": 1,
-      "triangles": 14588,
+      "triangles": 21798,
       "dimensions_mm": [
         87.65070343017578,
-        13.299999237060547,
+        13.299995422363281,
         44.626484632492065
       ],
-      "sha256": "2d595e20a66e6f5fa1eb9439d57f48992012117981d6b3782a89d761e1d45efa",
+      "sha256": "c973232d46745c400247b073f935fbb741ce2cf2f816182d4c56cc5001ad6494",
       "source_object": "23 · 脸板",
-      "geometry_sha256": "b41215b2a35ed6be3c9512bb369b0a91e60edab7d997ee352eac6c8988dcbc8e",
+      "geometry_sha256": "6e10be130e8347a731059c2e4dfd8832e7317559ad50061f766fb2d79def7c07",
       "changed_in_v3_1": false,
-      "jlc_mesh_recheck": "ORDERED_PLATFORM_RECHECK_DETAILS_NOT_ARCHIVED",
+      "jlc_mesh_recheck": "LOCAL_CHECKS_ONLY",
       "changed_in_20261105": true,
-      "revision": "20261106_v3.6_镜头保护后移2mm",
-      "purchase": {
+      "revision": "20261120_v3.14_眼圈三孔重排",
+      "previous_revision_purchase": {
         "date": "2026-11-06",
         "quantity": 1,
         "unit_price_cny": 6.54,
@@ -412,17 +418,18 @@
       "material": "Grey",
       "color": "灰色",
       "quantity": 1,
-      "triangles": 9762,
+      "triangles": 9906,
       "dimensions_mm": [
         91.41584777832031,
         68.71049499511719,
         29.447659492492676
       ],
-      "sha256": "33998596de2b86b9a0cff9934f1014e5bb17f626c34992090363190777163cdd",
+      "sha256": "173e6df4fe4957a5d2ae2cd864ac99bfb8c4a646fe37629e27513d7d6850cdfb",
       "source_object": "吊装候选 · STL · 嘴巴",
-      "geometry_sha256": "a73a0cd66f32a73df0104d052aa041de03774dcecb3cfeaa8b3972aae01ae3e7",
+      "geometry_sha256": "933b4b24d1ff006452079904770e4402a2cf9459b496e0c07826ab62d1f58397",
       "changed_in_v3_1": false,
-      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+      "jlc_mesh_recheck": "LOCAL_CHECKS_ONLY",
+      "revision": "20261119_v3.7_实装修订"
     },
     {
       "part_id": 25,
@@ -447,44 +454,43 @@
     },
     {
       "part_id": 26,
-      "file": "03_Grey_灰色_16件/26_头部集成板_张嘴让位端缘修整_Grey_灰色_v3.1.stl",
+      "file": "03_Grey_灰色_16件/26_头部集成板_后脑沉孔4.7_Grey_灰色.stl",
       "material": "Grey",
       "color": "灰色",
       "quantity": 1,
-      "triangles": 37008,
+      "triangles": 37364,
       "dimensions_mm": [
         91.76399993896484,
         116.74800109863281,
         19.90399968624115
       ],
-      "sha256": "d4801922e138004f7f4d7e32f61976623e2ebc1c1db8957239067b2adafae3f3",
+      "sha256": "bd8b9a54ee453cf7e949f56f984da292b0b7b9c7f541dcff1bdde2546f0f1d9e",
       "source_object": "吊装候选 · STL · 头部集成板",
       "changed_in_v3_1": true,
-      "jlc_mesh_recheck": "PASS",
+      "jlc_mesh_recheck": "LOCAL_CHECKS_ONLY",
       "jlc_deformation_warning": true,
-      "sampled_surface_difference_mm": 0.011018249047209092,
-      "repair_provenance": "Local repair",
-      "replacement_package_file": "03_Grey_灰色/26_头部集成板_张嘴让位端缘修整_Grey_灰色_v3.1.stl"
+      "revision": "20261121_v3.16_下颚轴承挡肩平切",
+      "geometry_sha256": "70580468188de3adee7a1b2397854172a098b6e63476236b29945d17c26e3ac1"
     },
     {
       "part_id": 27,
-      "file": "02_JLCBlack_黑色_3件/27_眼睛_厚6mm_JLCBlack_黑色.stl",
+      "file": "02_JLCBlack_黑色_3件/27_眼圈_厚8mm_新三孔_JLCBlack_黑色_v3.14.stl",
       "material": "JLC Black",
       "color": "黑色",
       "quantity": 1,
-      "triangles": 2184,
+      "triangles": 4702,
       "dimensions_mm": [
         30.000001907348633,
         30.000001907348633,
-        6.0
+        8.0
       ],
-      "sha256": "3934024f83cb47db5aaab77db8b51d5b54989ae63bcecf9d99552a8865750b54",
-      "source_object": "吊装候选 · STL · 眼睛",
-      "geometry_sha256": "f2a3f9c35a1e318b61eb8252c4304968854f2844b2e41d8ec444e50989b2bc8d",
+      "sha256": "3550b71ca19f7a8bb0d2f5697bf0f31f3e48ea8f79ea327416ae94a7401086d8",
+      "source_object": "27 · 眼睛 · 厚8mm",
+      "geometry_sha256": "9967615f3d7857ca04e178632581e589a72b12bd3f57947cb7f73841921995f8",
       "changed_in_v3_1": false,
-      "jlc_mesh_recheck": "ORDERED_PLATFORM_RECHECK_DETAILS_NOT_ARCHIVED",
-      "revision": "20261106_v3.6_镜头保护后移2mm",
-      "purchase": {
+      "jlc_mesh_recheck": "LOCAL_CHECKS_ONLY",
+      "revision": "20261120_v3.14_眼圈三孔重排",
+      "previous_revision_purchase": {
         "date": "2026-11-06",
         "quantity": 1,
         "unit_price_cny": 5.48,
@@ -492,28 +498,45 @@
         "color": "黑色",
         "surface_finish": "打磨-粗磨",
         "evidence": "order screenshot; not a platform mesh inspection report"
-      }
+      },
+      "purchase_history": [
+        {
+          "date": "2026-11-04",
+          "quantity": 1,
+          "unit_price_cny": 5.69,
+          "color": "黑色",
+          "material": "JLC Black",
+          "evidence": "November 4 first-batch JLC order; earlier 8 mm eye ring with original holes"
+        },
+        {
+          "date": "2026-11-06",
+          "quantity": 1,
+          "unit_price_cny": 5.48,
+          "material": "JLC Black SLA光敏树脂（国产）",
+          "color": "黑色",
+          "surface_finish": "打磨-粗磨",
+          "evidence": "order screenshot; not a platform mesh inspection report"
+        }
+      ]
     },
     {
       "part_id": 28,
-      "file": "01_9000HE_白色_8件/28_左壳_连续孔口_9000HE_白色_v3.1.stl",
+      "file": "01_9000HE_白色_8件/28_左壳_后孔4.2_9000HE_白色_v3.9.stl",
       "material": "9000HE",
       "color": "白色",
       "quantity": 1,
-      "triangles": 21440,
+      "triangles": 23090,
       "dimensions_mm": [
         41.66600036621094,
         80.88999938964844,
         33.99599850550294
       ],
-      "sha256": "b0c061234f936356c558e0b3a1c7192935e9071053488e1950ef3266a97a1eb0",
+      "sha256": "1c9edc718efe53c12f1cac5de1bf73d8ab92f24763ee47dcd09949202fa7270c",
       "source_object": "吊装候选 · STL · 左壳",
       "changed_in_v3_1": true,
-      "jlc_mesh_recheck": "PASS",
-      "jlc_deformation_warning": false,
-      "sampled_surface_difference_mm": 0.009199341968173822,
-      "repair_provenance": "Local repair",
-      "replacement_package_file": "01_9000HE_白色/28_左壳_连续孔口_9000HE_白色_v3.1.stl"
+      "jlc_mesh_recheck": "LOCAL_CHECKS_ONLY",
+      "revision": "20261119_v3.9_左壳沉孔",
+      "geometry_sha256": "e4eaa4929a3b347f2c87f8b6405836d2b677193ed70b3fa47278ab88e69e7436"
     },
     {
       "part_id": 29,
@@ -563,17 +586,18 @@
       "material": "9000HE",
       "color": "白色",
       "quantity": 1,
-      "triangles": 3644,
+      "triangles": 4128,
       "dimensions_mm": [
         73.5,
         54.20000076293945,
         18.80000078678131
       ],
-      "sha256": "e912f1fbc85bbd2460051ff7be56a7587417ac2011a486af6f378267d7156f1c",
+      "sha256": "7f5751647692be1092d0f4b3ed064a5942512c71db744d84994d22ebf34e3cb0",
       "source_object": "吊装候选 · STL · 头部集成盖_兼容hat插口",
-      "geometry_sha256": "f0b420aee85d133da2aa1464d3169cdf9b06ff3106b0238fd171ea9f07dceeff",
+      "geometry_sha256": "043548094d9249f2105443245906b056cf406268894fc5cad597d3d01d44930c",
       "changed_in_v3_1": false,
-      "jlc_mesh_recheck": "NOT_REUPLOADED_UNCHANGED_V2"
+      "jlc_mesh_recheck": "LOCAL_CHECKS_ONLY",
+      "revision": "20261121_v3.16_下颚轴承挡肩平切"
     }
   ],
   "material_counts": {
@@ -588,27 +612,35 @@
     30
   ],
   "changed_from_previous_release": [
-    23,
-    27
+    26,
+    32
   ],
   "unchanged_stl_files": 27,
   "changed_from_v2": [
+    1,
+    2,
+    3,
+    4,
+    7,
+    8,
     9,
+    15,
+    16,
     22,
     23,
+    24,
     25,
     26,
     27,
     28,
     29,
-    31
+    31,
+    32
   ],
   "platform_rechecked_ids": [
     9,
     22,
     25,
-    26,
-    28,
     29,
     31
   ],
@@ -618,9 +650,10 @@
   ],
   "wall_thickness_design_changed": true,
   "new_full_motion_test": false,
-  "previous_stl_release_revision": "20261106_v3.5_ToF横装等高",
+  "previous_stl_release_revision": "20261121_v3.15_下颚轴承挡肩过渡",
   "wall_thickness_changes": {
-    "23": "ToF blind floors0.3->1.3 mm; camera floors1.4 mm; main1.3 mm skin retained"
+    "23": "ToF blind-hole floors: 1.10 mm in v3.11, 1.30 mm in v3.8, originally 0.30 mm. Camera hole floors 1.40 mm, main skin 1.30 mm.",
+    "28": "U041 counterbore enlarged to 4.20 mm. Minimum sampled radial wall in the revised section is 1.02 mm."
   },
   "unresolved_thin_feature_ids": [
     6,
@@ -630,5 +663,5 @@
     14,
     31
   ],
-  "latest_change": "Part23 camera posts4.3to6.3mm; whole camera retracted2mm. Part27 front thickness8to6mm. ToF and remaining27 print files unchanged."
+  "latest_change": "The right jaw bearing shoulders on parts 32 and 26 extend the original 1.00 mm and 1.02 mm walls to the bore. Both ends of each shoulder are cut level with the adjacent split face. Nominal outer-race endplay is 0.20 mm."
 }

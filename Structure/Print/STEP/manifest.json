@@ -3,43 +3,137 @@
   "part_count": 29,
   "units": "mm",
   "source": {
-    "assembly_source_sha256": "a50a5fedcf9b1ad123ad60eb2b480822c9c1e65ca70fc4cfd5312e97515744b5",
-    "date": "2026-11-06",
-    "geometry_source_sha256": "9fadce3aca6b1f332a7d19d81f27e4a469b6c3c2776bcd8b47b938b7efe4f603",
-    "appearance_note": "PCB and adhesive colors updated; geometry unchanged"
+    "assembly_source_sha256": "7c068e8312d8d4c54e6085f50488e49e4058acc9dd34febfaa180b7d07fc719e",
+    "date": "2026-11-21"
   },
   "parts": [
     {
       "part_id": 1,
       "file": "04_TPU95A_黑色_2件/01_左脚底_TPU95A_黑色.step",
       "representation": "faceted_brep",
-      "sha256": "d967f3b5b78d238925cdbf89624289ccaee2cc3546c9b5390f6ae638ec14478e",
-      "source_stl_sha256": "076eac06ddded2840f640a38cfb48e5122d7da2b62a7cf36cada64370115762d",
-      "jlc_print_status": "NOT_APPROVED_REFERENCE_ONLY"
+      "sha256": "e7e4cdcbc5307f25b5d0d707ccce3eeef01a8ca96056915f706fb6c0080a7dd4",
+      "source_stl_sha256": "cb0056fc1ae79a2f3a7ac00411b865fd5ea14f3af9a967a6599373569d8a5f92",
+      "jlc_print_status": "NOT_APPROVED_REFERENCE_ONLY",
+      "revision": "20261120_v3.13_脚底压紧与下颚轴承止挡",
+      "validation": {
+        "roots": 1,
+        "solids": 1,
+        "shells": 1,
+        "faces": 17396,
+        "vertices": 8700,
+        "closed_shells": true,
+        "brep_valid": true,
+        "volume_mm3": 6292.626185210462,
+        "bounds_mm": [
+          [
+            29.455413818359375,
+            -12.0,
+            -31.249284744262695
+          ],
+          [
+            70.55394744873047,
+            42.0,
+            -18.3419246673584
+          ]
+        ],
+        "read_seconds": 1.66
+      }
     },
     {
       "part_id": 2,
       "file": "04_TPU95A_黑色_2件/02_右脚底_TPU95A_黑色.step",
       "representation": "faceted_brep",
-      "sha256": "4c2bd40e79402cf0121eb45914efe5a3ccbcab0d10fdcce61078a678c777290c",
-      "source_stl_sha256": "dc1afd8cc091914b0d50bcd51e35b29c74d55bc3d0b23f6ecbcdd34cefca5014",
-      "jlc_print_status": "NOT_APPROVED_REFERENCE_ONLY"
+      "sha256": "fc72bc86aa1d9ddd416e108a950225f9c6dca8da41d59b4c761bf1f1fe966ef6",
+      "source_stl_sha256": "b6798619d04bb0abac67e5f29a5c6d83e64fae170c2975675f7523ac8024a2c3",
+      "jlc_print_status": "NOT_APPROVED_REFERENCE_ONLY",
+      "revision": "20261120_v3.13_脚底压紧与下颚轴承止挡",
+      "validation": {
+        "roots": 1,
+        "solids": 1,
+        "shells": 1,
+        "faces": 17494,
+        "vertices": 8749,
+        "closed_shells": true,
+        "brep_valid": true,
+        "volume_mm3": 6292.63523257913,
+        "bounds_mm": [
+          [
+            -70.55409240722656,
+            -12.0,
+            -31.249530792236328
+          ],
+          [
+            -29.45536231994629,
+            42.0,
+            -18.3419246673584
+          ]
+        ],
+        "read_seconds": 1.63
+      }
     },
     {
       "part_id": 3,
       "file": "01_9000HE_白色_8件/03_左脚掌_9000HE_白色.step",
       "representation": "faceted_brep",
-      "sha256": "8b06be5eb425179bbdbc71f7faafaa6f07c629ae0ec48ad87ce68329587bd6b3",
-      "source_stl_sha256": "6a01bc927c1f6cc3e85f0b8cabd95a7137926adf6d59e74528fdf333e7b3ce7b",
-      "jlc_print_status": "NOT_APPROVED_REFERENCE_ONLY"
+      "sha256": "34287a1aee456b3101a305db3aee33a8d67c569267f6cb8cd9960af567f8a288",
+      "source_stl_sha256": "805ce5ebbefdce40010e6c0da44c5d57d330329d6069afc1c9a944572e4c1477",
+      "jlc_print_status": "NOT_APPROVED_REFERENCE_ONLY",
+      "revision": "20261119_v3.7_实装修订",
+      "validation": {
+        "roots": 1,
+        "solids": 1,
+        "shells": 1,
+        "faces": 20616,
+        "vertices": 10286,
+        "closed_shells": true,
+        "brep_valid": true,
+        "volume_mm3": 12162.905384684258,
+        "bounds_mm": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            16.909027099609375,
+            54.0,
+            40.085506439208984
+          ]
+        ],
+        "read_seconds": 2.23
+      }
     },
     {
       "part_id": 4,
       "file": "01_9000HE_白色_8件/04_右脚掌_9000HE_白色.step",
       "representation": "faceted_brep",
-      "sha256": "43170f1b657db6e6f8e8a8f8d4139d9bba97f229ac0df1b61fd552af41065969",
-      "source_stl_sha256": "c2656b175f8eff22360de2cfe89be1a8d237362c3f099ac4e26e3360cbd2f3da",
-      "jlc_print_status": "NOT_APPROVED_REFERENCE_ONLY"
+      "sha256": "a643202e964ae4b91c55b2e912e3b74585627f3158184f139ac0ef51bb3fbcb2",
+      "source_stl_sha256": "ae6ef350530eb5ebf48ea584b87de96d01d6466b03b03611e45aa54579e7c703",
+      "jlc_print_status": "NOT_APPROVED_REFERENCE_ONLY",
+      "revision": "20261119_v3.7_实装修订",
+      "validation": {
+        "roots": 1,
+        "solids": 1,
+        "shells": 1,
+        "faces": 20652,
+        "vertices": 10304,
+        "closed_shells": true,
+        "brep_valid": true,
+        "volume_mm3": 12162.842557527394,
+        "bounds_mm": [
+          [
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            16.909027099609375,
+            53.999996185302734,
+            40.085506439208984
+          ]
+        ],
+        "read_seconds": 2.27
+      }
     },
     {
       "part_id": 5,
@@ -59,19 +153,67 @@
     },
     {
       "part_id": 7,
-      "file": "03_Grey_灰色_16件/07_左膝支撑_Grey_灰色.step",
+      "file": "03_Grey_灰色_16件/07_左膝支撑_凸台0.84_Grey_灰色_v3.10.step",
       "representation": "faceted_brep",
-      "sha256": "a9f0c99346632bff7fd8fb042dfdecd618e89c9326abaa147cfc4f0f99166687",
-      "source_stl_sha256": "3e9b43a2663e990226e92cc72adc52be792556f9398fb3606545cc9f2b130610",
-      "jlc_print_status": "NOT_APPROVED_REFERENCE_ONLY"
+      "sha256": "3047ab4b9031ae9219b88dcd2dffccfe439d3cd89e3b217d3aaa031a1f36baf9",
+      "source_stl_sha256": "80cee09fe7b1f04a2b310d07cbd4fe94f45344e99d0a0d6df7e1cba3704e36c7",
+      "jlc_print_status": "NOT_APPROVED_REFERENCE_ONLY",
+      "revision": "20261119_v3.10_膝支撑凸台",
+      "validation": {
+        "roots": 1,
+        "solids": 1,
+        "shells": 1,
+        "faces": 16290,
+        "vertices": 8131,
+        "closed_shells": true,
+        "brep_valid": true,
+        "volume_mm3": 3318.04995603442,
+        "bounds_mm": [
+          [
+            -2.7755575615628914e-17,
+            6.938893903907228e-18,
+            0.0
+          ],
+          [
+            57.991912841796875,
+            20.019716262817383,
+            7.629971981048584
+          ]
+        ],
+        "read_seconds": 1.69
+      }
     },
     {
       "part_id": 8,
-      "file": "03_Grey_灰色_16件/08_右膝支撑_Grey_灰色.step",
+      "file": "03_Grey_灰色_16件/08_右膝支撑_凸台0.84_Grey_灰色_v3.10.step",
       "representation": "faceted_brep",
-      "sha256": "1f763135360699f9cdb3b5a2f1625ced9cd9192b7d95aab6ecc48f0a41b81090",
-      "source_stl_sha256": "3e9b43a2663e990226e92cc72adc52be792556f9398fb3606545cc9f2b130610",
-      "jlc_print_status": "NOT_APPROVED_REFERENCE_ONLY"
+      "sha256": "3877bc02ec49bdaa57be6fb3f29415c2b6288876549bb3407e3a7acd14a5f1dc",
+      "source_stl_sha256": "80cee09fe7b1f04a2b310d07cbd4fe94f45344e99d0a0d6df7e1cba3704e36c7",
+      "jlc_print_status": "NOT_APPROVED_REFERENCE_ONLY",
+      "revision": "20261119_v3.10_膝支撑凸台",
+      "validation": {
+        "roots": 1,
+        "solids": 1,
+        "shells": 1,
+        "faces": 16290,
+        "vertices": 8131,
+        "closed_shells": true,
+        "brep_valid": true,
+        "volume_mm3": 3318.04995603442,
+        "bounds_mm": [
+          [
+            -2.7755575615628914e-17,
+            6.938893903907228e-18,
+            0.0
+          ],
+          [
+            57.991912841796875,
+            20.019716262817383,
+            7.629971981048584
+          ]
+        ],
+        "read_seconds": 1.63
+      }
     },
     {
       "part_id": 9,
@@ -109,17 +251,65 @@
       "part_id": 15,
       "file": "03_Grey_灰色_16件/15_左胯旋转_Grey_灰色.step",
       "representation": "faceted_brep",
-      "sha256": "fa80a5e7f3a5216657a322cb4cc9f17db5ae75f136c622e15b9a1022a4f4844d",
-      "source_stl_sha256": "c5b8a1574ba1d86f5220bb364ca0eddd7e1ae1decc47af3ff5848bcb66b89090",
-      "jlc_print_status": "NOT_APPROVED_REFERENCE_ONLY"
+      "sha256": "284b484abb5a3d9d9cf5fe2a9d033e5faa6e974e73bb67429358faa5165bb750",
+      "source_stl_sha256": "01a6c98542b6e5919293e7f505ea0f13ec574174b07dccf4ad9ff3192bc14970",
+      "jlc_print_status": "NOT_APPROVED_REFERENCE_ONLY",
+      "revision": "20261119_v3.8_螺丝配合",
+      "validation": {
+        "roots": 1,
+        "solids": 1,
+        "shells": 1,
+        "faces": 15178,
+        "vertices": 7573,
+        "closed_shells": true,
+        "brep_valid": true,
+        "volume_mm3": 2759.815681698406,
+        "bounds_mm": [
+          [
+            6.0,
+            -13.30000114440918,
+            -5.000000476837158
+          ],
+          [
+            29.000001907348633,
+            12.5,
+            15.500000953674316
+          ]
+        ],
+        "read_seconds": 1.5
+      }
     },
     {
       "part_id": 16,
       "file": "03_Grey_灰色_16件/16_右胯旋转_Grey_灰色.step",
       "representation": "faceted_brep",
-      "sha256": "859bcec511d8ae38b7ebd9caa10166269b84ca18145312851dfe3c4f31755264",
-      "source_stl_sha256": "c5b8a1574ba1d86f5220bb364ca0eddd7e1ae1decc47af3ff5848bcb66b89090",
-      "jlc_print_status": "NOT_APPROVED_REFERENCE_ONLY"
+      "sha256": "4505bd8d5ee552bb00091416dc19242ceb5f2813bc18b2e73ad9efdcdaa9c5cd",
+      "source_stl_sha256": "01a6c98542b6e5919293e7f505ea0f13ec574174b07dccf4ad9ff3192bc14970",
+      "jlc_print_status": "NOT_APPROVED_REFERENCE_ONLY",
+      "revision": "20261119_v3.8_螺丝配合",
+      "validation": {
+        "roots": 1,
+        "solids": 1,
+        "shells": 1,
+        "faces": 15178,
+        "vertices": 7573,
+        "closed_shells": true,
+        "brep_valid": true,
+        "volume_mm3": 2759.815681698406,
+        "bounds_mm": [
+          [
+            6.0,
+            -13.30000114440918,
+            -5.000000476837158
+          ],
+          [
+            29.000001907348633,
+            12.5,
+            15.500000953674316
+          ]
+        ],
+        "read_seconds": 1.42
+      }
     },
     {
       "part_id": 17,
@@ -174,25 +364,25 @@
     },
     {
       "part_id": 23,
-      "file": "02_JLCBlack_黑色_3件/23_脸板_相机柱6.3_ToF横装等高_JLCBlack_黑色.step",
+      "file": "02_JLCBlack_黑色_3件/23_脸板_相机柱7.6_眼圈新三孔_JLCBlack_黑色_v3.14.step",
       "representation": "faceted_brep",
-      "sha256": "256219e24639ac2e1cb9078d096ac90c137926c977d6a05d6363f8089cd0053c",
-      "source_stl_sha256": "2d595e20a66e6f5fa1eb9439d57f48992012117981d6b3782a89d761e1d45efa",
+      "sha256": "b64ad206b0c63b496e1a85dfa1ee182a4b24d0422d3bf3f455d8f4bcbef644b2",
+      "source_stl_sha256": "c973232d46745c400247b073f935fbb741ce2cf2f816182d4c56cc5001ad6494",
       "jlc_print_status": "NOT_APPROVED_REFERENCE_ONLY",
-      "revision": "20261106_v3.6_镜头保护后移2mm",
+      "revision": "20261120_v3.14_眼圈三孔重排",
       "validation": {
         "roots": 1,
         "solids": 1,
         "shells": 1,
-        "faces": 14588,
-        "vertices": 7286,
+        "faces": 21798,
+        "vertices": 10891,
         "closed_shells": true,
         "brep_valid": true,
-        "volume_mm3": 5852.560600565942,
+        "volume_mm3": 5893.668498582021,
         "bounds_mm": [
           [
             -43.82535171508789,
-            -55.500003814697266,
+            -55.5,
             -0.7999999523162842
           ],
           [
@@ -201,16 +391,40 @@
             43.82648468017578
           ]
         ],
-        "read_seconds": 1.4
+        "read_seconds": 2.19
       }
     },
     {
       "part_id": 24,
       "file": "03_Grey_灰色_16件/24_嘴巴_Grey_灰色.step",
       "representation": "faceted_brep",
-      "sha256": "e30505229ec0a3ad12e73c5d5df73ac1526b7f89524fc378af1b5a70609d8eb0",
-      "source_stl_sha256": "33998596de2b86b9a0cff9934f1014e5bb17f626c34992090363190777163cdd",
-      "jlc_print_status": "NOT_APPROVED_REFERENCE_ONLY"
+      "sha256": "d2634c0c6412752a530a611c45a5b2effec4e65db16674904d4594255b030c29",
+      "source_stl_sha256": "173e6df4fe4957a5d2ae2cd864ac99bfb8c4a646fe37629e27513d7d6850cdfb",
+      "jlc_print_status": "NOT_APPROVED_REFERENCE_ONLY",
+      "revision": "20261119_v3.7_实装修订",
+      "validation": {
+        "roots": 1,
+        "solids": 1,
+        "shells": 1,
+        "faces": 9906,
+        "vertices": 4943,
+        "closed_shells": true,
+        "brep_valid": true,
+        "volume_mm3": 9368.070027192854,
+        "bounds_mm": [
+          [
+            -45.707923889160156,
+            -59.71049499511719,
+            -12.947659492492676
+          ],
+          [
+            45.707923889160156,
+            9.0,
+            16.5
+          ]
+        ],
+        "read_seconds": 0.85
+      }
     },
     {
       "part_id": 25,
@@ -222,29 +436,53 @@
     },
     {
       "part_id": 26,
-      "file": "03_Grey_灰色_16件/26_头部集成板_张嘴让位端缘修整_Grey_灰色_v3.1.step",
+      "file": "03_Grey_灰色_16件/26_头部集成板_后脑沉孔4.7_Grey_灰色.step",
       "representation": "faceted_brep",
-      "sha256": "2009050fa93c8f25f061f7eed6b7f6e4728267f71b9e976eb9fb8da1993372df",
-      "source_stl_sha256": "d4801922e138004f7f4d7e32f61976623e2ebc1c1db8957239067b2adafae3f3",
-      "jlc_print_status": "NOT_APPROVED_REFERENCE_ONLY"
-    },
-    {
-      "part_id": 27,
-      "file": "02_JLCBlack_黑色_3件/27_眼睛_厚6mm_JLCBlack_黑色.step",
-      "representation": "faceted_brep",
-      "sha256": "c8294956e89cb63b3aab154858ff992c685ef213a474fd3b61809afd323fbf60",
-      "source_stl_sha256": "3934024f83cb47db5aaab77db8b51d5b54989ae63bcecf9d99552a8865750b54",
+      "sha256": "3dceeb11388872600f8ded22de1ed74477c0fcc2141a2dab0ead040b2b83a75a",
+      "source_stl_sha256": "bd8b9a54ee453cf7e949f56f984da292b0b7b9c7f541dcff1bdde2546f0f1d9e",
       "jlc_print_status": "NOT_APPROVED_REFERENCE_ONLY",
-      "revision": "20261106_v3.6_镜头保护后移2mm",
+      "revision": "20261121_v3.16_下颚轴承挡肩平切",
       "validation": {
         "roots": 1,
         "solids": 1,
         "shells": 1,
-        "faces": 2184,
-        "vertices": 1092,
+        "faces": 37364,
+        "vertices": 18674,
         "closed_shells": true,
         "brep_valid": true,
-        "volume_mm3": 3133.121610005431,
+        "volume_mm3": 23948.18407759399,
+        "bounds_mm": [
+          [
+            -45.88199996948242,
+            -60.24800109863281,
+            0.23199999332427979
+          ],
+          [
+            45.88199996948242,
+            56.5,
+            20.13599967956543
+          ]
+        ],
+        "read_seconds": 4.34
+      }
+    },
+    {
+      "part_id": 27,
+      "file": "02_JLCBlack_黑色_3件/27_眼圈_厚8mm_新三孔_JLCBlack_黑色_v3.14.step",
+      "representation": "faceted_brep",
+      "sha256": "03bdb6df6c9087b6aa131db1e40e0fb5c34aef2d2211b45117477fa0aa629724",
+      "source_stl_sha256": "3550b71ca19f7a8bb0d2f5697bf0f31f3e48ea8f79ea327416ae94a7401086d8",
+      "jlc_print_status": "NOT_APPROVED_REFERENCE_ONLY",
+      "revision": "20261120_v3.14_眼圈三孔重排",
+      "validation": {
+        "roots": 1,
+        "solids": 1,
+        "shells": 1,
+        "faces": 4702,
+        "vertices": 2351,
+        "closed_shells": true,
+        "brep_valid": true,
+        "volume_mm3": 4208.0285747784565,
         "bounds_mm": [
           [
             -15.000000953674316,
@@ -254,19 +492,43 @@
           [
             15.000000953674316,
             15.000000953674316,
-            6.0
+            8.0
           ]
         ],
-        "read_seconds": 0.18
+        "read_seconds": 0.41
       }
     },
     {
       "part_id": 28,
-      "file": "01_9000HE_白色_8件/28_左壳_连续孔口_9000HE_白色_v3.1.step",
+      "file": "01_9000HE_白色_8件/28_左壳_后孔4.2_9000HE_白色_v3.9.step",
       "representation": "faceted_brep",
-      "sha256": "8f8dccddb7bc88e0ea5d17c7673b8a9126a7cff5795ec434fc34f67efb2f6311",
-      "source_stl_sha256": "b0c061234f936356c558e0b3a1c7192935e9071053488e1950ef3266a97a1eb0",
-      "jlc_print_status": "NOT_APPROVED_REFERENCE_ONLY"
+      "sha256": "4498a8ad362da3716562f555e847f72cc5fc14330ad4e26a555ee3885bd7c2a0",
+      "source_stl_sha256": "1c9edc718efe53c12f1cac5de1bf73d8ab92f24763ee47dcd09949202fa7270c",
+      "jlc_print_status": "NOT_APPROVED_REFERENCE_ONLY",
+      "revision": "20261119_v3.9_左壳沉孔",
+      "validation": {
+        "roots": 1,
+        "solids": 1,
+        "shells": 1,
+        "faces": 23090,
+        "vertices": 11535,
+        "closed_shells": true,
+        "brep_valid": true,
+        "volume_mm3": 11347.23078469585,
+        "bounds_mm": [
+          [
+            -0.0,
+            0.0,
+            -0.02800000086426735
+          ],
+          [
+            41.66600036621094,
+            80.88999938964844,
+            33.96799850463867
+          ]
+        ],
+        "read_seconds": 2.36
+      }
     },
     {
       "part_id": 29,
@@ -288,9 +550,33 @@
       "part_id": 32,
       "file": "01_9000HE_白色_8件/32_头部集成盖_兼容hat插口_9000HE_白色.step",
       "representation": "faceted_brep",
-      "sha256": "875a57941b45a480ffa697eb8a557272777025c956e0352c4114042d8131fe77",
-      "source_stl_sha256": "e912f1fbc85bbd2460051ff7be56a7587417ac2011a486af6f378267d7156f1c",
-      "jlc_print_status": "NOT_APPROVED_REFERENCE_ONLY"
+      "sha256": "08c3a41feac30d44c28ab5263bb98177e2e9442f1f9d4f595a6dc23e149542a9",
+      "source_stl_sha256": "7f5751647692be1092d0f4b3ed064a5942512c71db744d84994d22ebf34e3cb0",
+      "jlc_print_status": "NOT_APPROVED_REFERENCE_ONLY",
+      "revision": "20261121_v3.16_下颚轴承挡肩平切",
+      "validation": {
+        "roots": 1,
+        "solids": 1,
+        "shells": 1,
+        "faces": 4128,
+        "vertices": 2054,
+        "closed_shells": true,
+        "brep_valid": true,
+        "volume_mm3": 7445.011661736108,
+        "bounds_mm": [
+          [
+            -39.5,
+            -26.200000762939453,
+            0.3999999761581421
+          ],
+          [
+            34.0,
+            28.0,
+            19.200000762939453
+          ]
+        ],
+        "read_seconds": 0.33
+      }
     }
   ],
   "analytic_brep_parts": [
@@ -327,10 +613,10 @@
     32
   ],
   "platform_test": "Initial v3 faceted STEP for seven flagged parts still produced platform mesh warnings. Final 22 v3.1 STEP has only local CAD readback validation, not platform acceptance.",
-  "latest_change": "2026-11-06: parts23and27 revised for camera retraction2mm; remaining27 STEP files unchanged.",
+  "latest_change": "The right jaw bearing shoulders on parts 32 and 26 extend the original 1.00 mm and 1.02 mm walls to the bore. Both ends of each shoulder are cut level with the adjacent split face. Nominal outer-race endplay is 0.20 mm.",
   "initial_source": {
     "assembly_source_sha256": "4548b27a0680cc49a54e824a1d8a9a80bdcd28cf97c9eb29ce833700cbc77acc",
     "date": "2026-11-04"
   },
-  "revision": "20261106_v3.6_镜头保护后移2mm"
+  "revision": "20261121_v3.16_下颚轴承挡肩平切"
 }

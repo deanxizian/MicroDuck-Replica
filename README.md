@@ -21,14 +21,14 @@ MicroDuck 个人精修复刻版，基于 Pollen Robotics 原版与 kissqy 飞特
 | 采购清单 | [BOM：规格、数量与价格](BOM/README.md) |
 | 3D 打印件 | [29 件 STL，每件 1 个](Structure/Print/STL/) |
 | CAD 参考 | [29 件 STEP](Structure/Print/STEP/) |
-| 整机装配 | [实际打印配色 Blender](Structure/Blender/MicroDuck-Replica_Print-Colors.blend) · [彩色 Blender](Structure/Blender/MicroDuck-Replica_Colorful.blend) |
+| 整机装配 | [实际打印配色 Blender](Structure/Blender/MicroDuck-Replica_Print-Colors.blend) · [彩色 Blender](Structure/Blender/MicroDuck-Replica_Colorful.blend) · [螺丝孔位图](Structure/螺丝孔位复核.md) |
 | 电路板 | [Hardware：KiCad、嘉立创文件和说明](Hardware/README.md) |
 | 外设 | [Peripherals：规格书与安装说明](Peripherals/README.md) |
 | 软件 | [Software](Software/README.md)，后续补充 |
 
 ## 当前状态
 
-物料已下单，正在陆续到货并核对尺寸。23、27 号修订件已重新下单，后续进行整机装配、调试和验证。
+首台机器已装配。本轮根据实装反馈修订了 14 件打印件，v3.16 修订件待打印试装。[实物装配记录](Structure/装配记录.md)
 
 文件检查见 [检查记录](Docs/VALIDATION.md)。
 
