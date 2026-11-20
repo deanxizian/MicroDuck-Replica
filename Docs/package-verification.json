@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-21",
   "stl_files": 29,
   "blender_files": 2,
   "kicad_projects": 4,
@@ -9,29 +9,50 @@
   "sha256_manifest": "SHA256SUMS",
   "step_files": 29,
   "peripheral_reference_files": 9,
-  "battery_updated": true,
-  "camera_face_updated": true,
-  "latest_assembly_verification": "Structure/Verification/camera-protection-update.json",
-  "structure_revision": "20261106_v3.6_镜头保护后移2mm",
-  "reordered_print_part_ids": [
-    23,
-    27
-  ],
+  "latest_assembly_verification": "Structure/Verification/整机螺丝逐孔核对.md",
+  "structure_revision": "20261121_v3.16_下颚轴承挡肩平切",
   "appearance_verification": "Structure/Verification/assembly-colors-update.json",
   "release_checks": {
+    "compared_with_commit": "51c3673370d4f84e3a2c878fd5bb8d0dfa27dd11",
     "stl_sha_and_mesh_checks": 29,
     "step_sha_and_STL_source_checks": 29,
+    "step_valid_closed_solids": 29,
     "changed_print_part_ids": [
+      1,
+      2,
+      3,
+      4,
+      7,
+      8,
+      15,
+      16,
       23,
-      27
+      24,
+      26,
+      27,
+      28,
+      32
     ],
-    "unchanged_print_parts": 27,
+    "unchanged_print_parts": 15,
     "blender_reopened_variants": 2,
     "same_variant_geometry": true,
+    "mesh_geometry_and_world_pose_sha256": "e9baa7fed23afebe7d61d0d11d5d819f5c40d5f7d256ea019de15fd3ece315c4",
+    "numbered_assembly_screws": 141,
+    "print_parts_matched_in_each_blend": 29,
     "colors_verified_after_reopen": true,
+    "blender_files": [
+      {
+        "file": "Structure/Blender/MicroDuck-Replica_Print-Colors.blend",
+        "sha256": "a9b1249e56a95891c7cbf583f3ea630558f0d9257c8af1740ef7e2118965d43c"
+      },
+      {
+        "file": "Structure/Blender/MicroDuck-Replica_Colorful.blend",
+        "sha256": "93e8cd85046895e8adb2cae000ee8fd096703edb705a5fcbc078bed9c7912561"
+      }
+    ],
     "peripheral_source_hashes": 9,
-    "valid_local_markdown_links": 174,
-    "BOM_goods_total_cny": "3699.64",
+    "valid_local_markdown_links": 232,
+    "BOM_goods_total_cny": "3687.62",
     "result": "PASS"
   }
 }

@@ -1,17 +1,15 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-21",
   "name": "MicroDuck-Replica",
   "upstream": "https://github.com/kissqy/Microduck-kissqy",
   "upstream_commit": "f6497beb2f4511117f789b885f521c580e5ba490",
-  "assembly_input_sha256": "a50a5fedcf9b1ad123ad60eb2b480822c9c1e65ca70fc4cfd5312e97515744b5",
-  "structure_revision": "20261106_v3.6_镜头保护后移2mm",
+  "assembly_input_sha256": "951634f31740e0126c1dd4b8cf484ad69e0f771a957f6094bd42fec143b9f4de",
+  "structure_revision": "20261121_v3.16_下颚轴承挡肩平切",
   "print_part_count": 29,
   "stl_platform_rechecked_ids": [
     9,
     22,
     25,
-    26,
-    28,
     29,
     31
   ],
@@ -21,5 +19,22 @@
     "date": "2026-11-04",
     "structure_revision": "20261104_v3.1",
     "assembly_input_sha256": "7450a22a66f05ddee20881979cbea33f2a6d36c522729f70b724054cd0a268fb"
-  }
+  },
+  "print_export_assembly_sha256": "7c068e8312d8d4c54e6085f50488e49e4058acc9dd34febfaa180b7d07fc719e",
+  "stl_revised_pending_recheck_ids": [
+    1,
+    2,
+    3,
+    4,
+    7,
+    8,
+    15,
+    16,
+    23,
+    24,
+    26,
+    27,
+    28,
+    32
+  ]
 }
